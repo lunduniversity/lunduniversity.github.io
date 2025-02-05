@@ -27,7 +27,7 @@ Open source course pages at Lund University (alphabetical order):
 
 Open source software projects at Lund University (alphabetical order):
 
-* reqT- software reequirements tool:  [reqT.github.io](https://reqt.github.io/)
+* reqT - requirements tool:  [reqT.github.io](https://reqt.github.io/)
 
 ## People
 
