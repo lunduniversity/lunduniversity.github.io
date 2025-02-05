@@ -1,0 +1,135 @@
+body {
+  margin: auto;
+  padding-right: 1em;
+  padding-left: 1em;
+  max-width: 45em; 
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+  color: black;
+  font-family: ui-sans-serif, Verdana, Helvetica, ui-sans-serif, sans-serif;
+  font-size: 120%;
+  line-height: 140%;
+  color: #333; 
+}
+pre {
+  border: 1px dotted gray;
+  background-color: #f3f3f3;
+  color: #111111;
+  padding: 0.5em;
+}
+code {
+  font-family: 'Liberation Mono', 'DejaVu Sans Mono', 'Consolas', 'Ubuntu Mono', 'Courier New', Courier, ui-monospace, monospace;
+  font-size: 100%;
+  line-height: 140%;
+}
+h1 a, h2 a, h3 a, h4 a, h5 a { 
+  text-decoration: none;
+  color: #7a5ada; 
+}
+
+h1, h2, h3, h4, h5 { 
+  font-weight: bold;
+  border-bottom: 1px dotted black;
+  color: #885c2c; }
+h1 {
+      font-size: 130%;
+}
+
+h2 {
+      font-size: 110%;
+}
+
+h3 {
+      font-size: 95%;
+}
+
+h4 {
+      font-size: 90%;
+      font-style: italic;
+}
+
+h5 {
+      font-size: 90%;
+      font-style: italic;
+}
+
+h1.title {
+      font-size: 200%;
+      font-weight: bold;
+      padding-top: 0.2em;
+      padding-bottom: 0.2em;
+      text-align: left;
+      border: none;
+}
+
+dt code {
+      font-weight: bold;
+}
+dd p {
+      margin-top: 0;
+}
+
+#footer, #TOC {
+  color: rgb(1, 39, 3);
+  background-color: #ddffdd;
+  font-weight: bold;
+}
+
+#footer{
+      padding-top: 1em;
+      padding-bottom: 1em;
+      text-align: center;
+      font-size: 90%;
+    }
+
+#TOC {
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+}
+
+#header {
+  text-align: left;
+  font-size: 110%;
+}
+
+.headimg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+}
+
+#downloadButtons {
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+button {
+  background-color: #07a715; /* Green */
+  border-radius: 10px;
+  border: 5px solid #0d770a;  color: rgb(255, 255, 255);
+  padding: 0.4em 0.7em;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 120%;
+  font-family: ui-sans-serif, Verdana, Helvetica, ui-sans-serif, sans-serif;
+  font-weight: bold;
+
+}
+
+button a {
+  text-decoration: none;
+  color: #ffffff; 
+}
+
+.button:hover {
+  background-color:#37c200;
+  transition: 0.3s;
+}
+
+.button:active {
+  background-color: #e4d500;
+}
