@@ -28,6 +28,8 @@ Open source course pages at Lund University (alphabetical order):
 Open source software projects at Lund University (alphabetical order):
 
 * reqT - requirements tool:  [reqT.github.io](https://reqt.github.io/)
+* Scala utilities for introductory programming: [github.com/lunduniversity/introprog-scalalib](https://github.com/lunduniversity/introprog-scalalib)
+
 
 ## People
 
