@@ -1,2 +1,3 @@
-#pandoc -s -c pandoc.css -A footer.html -B top.html --metadata title="Lund University Open Source Pages" src/index.md -o index.html
-pandoc -s -c pandoc.css --metadata title="Lund University Open Source Web Pages" src/index.md -o index.html
+source src/krav/build.sh
+source src/pgk/build.sh
+pandoc -s --toc -c pandoc.css -B top.html --metadata title="Lund University Open Source Web Pages" src/index.md -o index.html
