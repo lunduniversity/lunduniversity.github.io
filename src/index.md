@@ -12,6 +12,8 @@ Open source course pages at Lund University (alphabetical order):
   * Course homepage: [lunduniversity.github.io/pgk/](pgk)
   * Course material: [introprog](https://github.com/lunduniversity/introprog)
   * Software library: [introprog-scalalib](https://github.com/lunduniversity/introprog-scalalib)
+  * Introduction to computers: [introprog-computer-intro](https://github.com/lunduniversity/introprog-computer-intro)
+  * CPU emulator: [introprog-cpu-emulator](https://github.com/lunduniversity/introprog-cpu-emulator)
 
 * **Introduction to Software Engineering**, [ETSA03](https://kurser.lth.se/kursplaner/20_21/ETSA03.html), 6 credits (last given 2022):
   * Course material: [introsofteng](https://github.com/lunduniversity/introsofteng)
