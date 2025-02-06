@@ -8,7 +8,7 @@
 
 Open source course pages at Lund University (alphabetical order):
 
-* **Introduction to programming**, EDAB05 (Scala), 10.5 credits:  
+* **Introduction to Programming**, EDAB05 (Scala), 10.5 credits:  
   * Course homepage: [lunduniversity.github.io/pgk/](pgk)
   * Course material: [introprog](https://github.com/lunduniversity/introprog)
   * Software library: introprog-scalalib](https://github.com/lunduniversity/introprog-scalalib)
@@ -18,7 +18,7 @@ Open source course pages at Lund University (alphabetical order):
   * Course homepage: [cs.lth.se/etsa03/](https://cs.lth.se/etsa03/) (old hompage in typo3)
   
 
-* **Software Requirements Engineering**, ETSN15, 7.5 credits: 
+* **Software Requirements Engineering**, [ETSN15](https://kurser.lth.se/kursplaner/senaste/ETSN15.html), 7.5 credits: 
   * Course homepage: [lunduniversity.github.io/krav/](krav)
   * Course material: [reqeng](https://github.com/lunduniversity/reqeng)
   * Course software: [reqT.github.io](https://reqt.github.io/)
