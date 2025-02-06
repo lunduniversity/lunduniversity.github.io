@@ -17,7 +17,9 @@ Open source course pages at Lund University (alphabetical order):
 
 * **Introduction to Software Engineering**, [ETSA03](https://kurser.lth.se/kursplaner/20_21/ETSA03.html), 6 credits (last given 2022):
   * Course material: [introsofteng](https://github.com/lunduniversity/introsofteng)
-  * Course homepage: [cs.lth.se/etsa03/](https://cs.lth.se/etsa03/) (old hompage in typo3)
+  * Course homepage: [cs.lth.se/etsa03/](https://cs.lth.se/etsa03/) (deprecated)
+  * Software bot template: [introsofteng-protobot](https://github.com/lunduniversity/introsofteng-protobot) 
+  * Software bot example: [introsofteng-botexample](https://github.com/lunduniversity/introsofteng-botexample)
   
 
 * **Software Requirements Engineering**, [ETSN15](https://kurser.lth.se/kursplaner/senaste/ETSN15.html), 7.5 credits: 
