@@ -14,7 +14,7 @@ Open source course pages at Lund University (alphabetical order):
   * Software library: [introprog-scalalib](https://github.com/lunduniversity/introprog-scalalib)
 
 * **Introduction to Software Engineering**, [ETSA03](https://kurser.lth.se/kursplaner/20_21/ETSA03.html), 6 credits (last given 2022):
-  * Course material: [ntrosofteng](https://github.com/lunduniversity/introsofteng)
+  * Course material: [introsofteng](https://github.com/lunduniversity/introsofteng)
   * Course homepage: [cs.lth.se/etsa03/](https://cs.lth.se/etsa03/) (old hompage in typo3)
   
 
