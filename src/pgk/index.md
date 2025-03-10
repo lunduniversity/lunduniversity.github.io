@@ -1,6 +1,6 @@
 ## Om kursen 
 
-**Poäng**: 10,5 hp. **Period**: HT1-2 (lp1-2). **Kursplan**: [EDAB05](https://kurser.lth.se/kursplaner/senaste/EDAB05.html). **Kursansvarig**:  [Björn Regnell](http://cs.lth.se/bjornregnell)
+**Poäng**: 10,5 hp. **Period**: HT1-2 (lp1-2). **Kursplan**: [EDAB05](https://kurser.lth.se/kursplaner/senaste/EDAB05.html). **Kursansvarig**:  [Björn Regnell](http://cs.lth.se/bjornregnell)  **Biträdande kursansvarig**: [Mattias Nordahl](https://cs.lth.se/nordahl-mattias/)
 
 Kursen omfattar grundläggande programmeringsprinciper och datavetenskapliga begrepp. Du lär dig programmeringsspråket Scala, att konstruera algoritmer, att använda datastrukturer och mycket annat. Det krävs inga förkunskaper i programmering. Kursen ger en solid grund för fortsatta studier i systemutveckling.
 
