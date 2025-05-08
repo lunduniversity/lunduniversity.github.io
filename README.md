@@ -4,7 +4,7 @@ Open source web-pages of [Lund University, Sweden](https://www.lunduniversity.lu
 
 Employees of Lund University can host open source pages here. If you want to contribute to the contents of [lunduniversity.github.io](https://lunduniversity.github.io) then open an issue [here](https://github.com/lunduniversity/lunduniversity.github.io/issues) to discuss your contribution and then make a pull request. 
 
-By contributing you implicitly agree that your contributions are licensed under [LICENSE](https://github.com/lunduniversity/lunduniversity.github.io/blob/main/LICENSE) if not stated otherwise in contributed files. 
+By contributing you implicitly agree that your contributions are licensed as [CC-BY-SA](https://github.com/lunduniversity/lunduniversity.github.io/blob/main/LICENSE) if not stated otherwise in contributed files. 
 
 For more details on how to contribute, see: [CONTRIBUTING](https://github.com/lunduniversity/lunduniversity.github.io/blob/main/CONTRIBUTING.md)
 
@@ -14,7 +14,7 @@ Lund University use various content management systems for information about e.g
 
 All researcher should provide official publications in our [Official Research Portal](https://portal.research.lu.se/) and all teachers are encouraged to put course pages in our [Official Learning Management System](https://canvas.education.lu.se/).
 
-If you have open pages related to education or research, for which you want to invite contributions from students, colleagues or anyone in the world, you can publish such pages here under the [CC-BY-SA LICENSE](https://github.com/lunduniversity/lunduniversity.github.io/blob/main/LICENSE).
+If you have open pages related to education or research, for which you want to invite contributions from students, colleagues or anyone in the world, you can publish such pages here.
 
 Alternatives: 
 
