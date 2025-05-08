@@ -8,7 +8,7 @@
 
 **Research areas**: software engineering, requirements engineering, software quality, software innovation, software product management, and empirical research methods in software engineering. 
 
-**Current teaching**: Introduction to Programming in Scala EDAA45, Software Requirements Engineering ETSN15.
+**Current teaching**: Introduction to Programming in Scala EDAB05, Software Requirements Engineering ETSN15.
 
 **Member of**: REFSQ, REJ, and the Scala Improvement Process (SIP) Committee
 
