@@ -8,7 +8,7 @@
 
 Open source course pages at Lund University (alphabetical order):
 
-* **Introduction to Programming**, EDAB05 (Scala), 10.5 credits:  
+* **Introduction to Programming** (in Scala), [EDAB05](https://kurser.lth.se/kursplaner/senaste/EDAB05.html), 10.5 credits:  
   * Course homepage: [lunduniversity.github.io/pgk/](pgk)
   * Course material: [introprog](https://github.com/lunduniversity/introprog)
   * Software library: [introprog-scalalib](https://github.com/lunduniversity/introprog-scalalib)
