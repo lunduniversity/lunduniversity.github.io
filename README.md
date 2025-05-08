@@ -14,7 +14,7 @@ Lund University use various content management systems for information about e.g
 
 All researcher should provide official publications in our [Official Research Portal](https://portal.research.lu.se/) and all teachers are encouraged to put course pages in our [Official Learning Management System](https://canvas.education.lu.se/).
 
-If you have open pages related to education or research, for which you want to invite contributions from students, colleagues or anyone in the world, you can publish such pages here.
+If you have open pages related to education or research, for which you want to invite contributions from students, colleagues or anyone in the world, you can publish such pages here under the [CC-BY-SA LICENSE](https://github.com/lunduniversity/lunduniversity.github.io/blob/main/LICENSE).
 
 Alternatives: 
 
