@@ -31,7 +31,7 @@
 
 ## Citations
 
-* The publications of Björn Regnell has over **23 000** citations
+* The publications of Björn Regnell have over **23 000** citations
 * The *h-index* of Björn Regnell is **49**, meaning his 49 most cited publications have more than 49 citations. 
 * For details see the [Google Scholar Profile of Björn Regnell](http://scholar.google.com/citations?hl=en&user=W37CtAwAAAAJ&pagesize=200)
 
