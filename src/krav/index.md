@@ -4,7 +4,7 @@
 
 Requirements Engineering (RE) is the foundation for innovation and decision-making in software development. In this course you will learn useful theories and practical methods for how to dig up, understand, write down, check, prioritize, decide on, and track the features and qualities of software products.
 
-An expose of **40 years of Requirements Engineering** that touches upon several topics of this course is available in this column: [*Viewing Requirements Engineering Through a Ruby Lens*](http://fileadmin.cs.lth.se/krav/RE40.pdf)
+An anniversary column on **40 years of Requirements Engineering** that discuss several topics in this course: [*"Viewing Requirements Engineering Through a Ruby Lens"*](http://fileadmin.cs.lth.se/krav/RE40.pdf)
 
 ## Links
 
