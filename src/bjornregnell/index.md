@@ -87,3 +87,7 @@ Bjorn Regnell has contributed to the following open source software research pro
 * [reqT](https://github.com/reqT) a requirements modelling tool
 * [QUPER](https://portal.research.lu.se/sv/publications/a-prototype-tool-for-quper-to-support-release-planning-of-quality) for roadmapping of quality requirements
 * [ReqSimile](http://reqsimile.sourceforge.net/) for finding and linking similar requirements, published at [RE04](https://portal.research.lu.se/en/publications/speeding-up-requirements-management-in-a-product-software-company)
+
+## Thesis Guide
+
+* Here is a concise guide for writing your MSc Thesis (by Martin Höst, Per Runeson, Björn Regnell, in Swedish): [github.com/lunduniversity/thesis-guide](https://github.com/lunduniversity/thesis-guide/releases/)
