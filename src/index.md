@@ -40,8 +40,11 @@ Open source software projects at Lund University (alphabetical order):
 
 Open source personal pages at Lund University (alphabetical order, family name):
 
+* [Borg, Markus](https://cs.lth.se/markus-borg/) Dr., Adjunct Senior Lecturer, Project Manager, Dept. of Computer Science.
+* [Hedin, Görel](https://cs.lth.se/gorel-hedin/) Professor, Assistant Head of Department, Professor, Deputy Head of Department, Project Manager, Office Director, Dept. of Computer Science.
+* [Klang, Marcus](https://cs.lth.se/marcus-klang/) Dr., Research Engineer, Dept. of Computer Science.
 * [Regnell, Björn](https://cs.lth.se/bjorn-regnell/) Professor, Dept. of Computer Science.
 
 ## About
 
-Employees of Lund University can host, or link to, open source content here; contact [Björn Regnell](https://cs.lth.se/bjorn-regnell/).
+Employees of Lund University can host open source pages here. Open an issue and make a pull request here: [github.com/lunduniversity/lunduniversity.github.io](https://github.com/lunduniversity/lunduniversity.github.io)
