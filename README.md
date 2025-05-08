@@ -6,4 +6,4 @@ Employees of Lund University can host open source pages here. If you want to con
 
 By contributing you implicitly agree that your contributions are licensed under [LICENSE](https://github.com/lunduniversity/lunduniversity.github.io/blob/main/LICENSE) if not stated otherwise in contributed files. 
 
-For more details on how to contribute, see: [CONTRIBUTING](https://github.com/lunduniversity/lunduniversity.github.io/blob/main/CONTRIBUTING)
+For more details on how to contribute, see: [CONTRIBUTING](https://github.com/lunduniversity/lunduniversity.github.io/blob/main/CONTRIBUTING.md)
