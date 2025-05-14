@@ -33,8 +33,17 @@
 <ul>
 <li><a href="#om-kursen" id="toc-om-kursen">Om kursen</a></li>
 <li><a href="#länkar" id="toc-länkar">Länkar</a></li>
-<li><a href="#föreläsningar"
-id="toc-föreläsningar">Föreläsningar</a></li>
+<li><a href="#föreläsningar" id="toc-föreläsningar">Föreläsningar</a>
+<ul>
+<li><a href="#dod-föreläsningar"
+id="toc-dod-föreläsningar">Dod-föreläsningar</a></li>
+<li><a href="#inspelade-föreläsningar"
+id="toc-inspelade-föreläsningar">Inspelade föreläsningar</a></li>
+<li><a href="#föreläsningsbilder"
+id="toc-föreläsningsbilder">Föreläsningsbilder</a></li>
+<li><a href="#schema-och-innehåll" id="toc-schema-och-innehåll">Schema
+och innehåll</a></li>
+</ul></li>
 <li><a href="#litteratur" id="toc-litteratur">Litteratur</a></li>
 <li><a href="#ordlista" id="toc-ordlista">Ordlista</a></li>
 <li><a href="#verktyg" id="toc-verktyg">Verktyg</a></li>
@@ -43,12 +52,23 @@ id="toc-online-kodning">Online-kodning</a></li>
 <li><a href="#examination" id="toc-examination">Examination</a></li>
 </ul>
 </nav>
+<script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+<script type="text/javascript">
+  function loadContent(uri, elementId) {
+    $(elementId).load(uri, function(responseText, textStatus, jqXHR) {
+      if (textStatus !== 'success') {
+        $(elementId).html(`<p>Kunde inte ladda innehåll från <a href="${uri}">${uri}</a>.</p>`);
+      }
+    });
+  }
+</script>
 <h2 id="om-kursen">Om kursen</h2>
-<p><strong>Poäng</strong>: 10,5 hp. <strong>Period</strong>: HT1-2
-(lp1-2). <strong>Kursplan</strong>: <a
-href="https://kurser.lth.se/kursplaner/senaste/EDAB05.html">EDAB05</a>.
+<p><strong>Poäng</strong>: 10,5 hp.<br />
+<strong>Period</strong>: HT1-2 (lp1-2).<br />
+<strong>Kursplan</strong>: <a
+href="https://kurser.lth.se/kursplaner/senaste/EDAB05.html">EDAB05</a>.<br />
 <strong>Kursansvarig</strong>: <a
-href="http://cs.lth.se/bjornregnell">Björn Regnell</a>
+href="http://cs.lth.se/bjornregnell">Björn Regnell</a><br />
 <strong>Biträdande kursansvarig</strong>: <a
 href="https://cs.lth.se/nordahl-mattias/">Mattias Nordahl</a></p>
 <p>Kursen omfattar grundläggande programmeringsprinciper och
@@ -76,10 +96,64 @@ login</a></li>
 Login</a></li>
 </ul>
 <h2 id="föreläsningar">Föreläsningar</h2>
+<p>Kursen har två föreläsningsserier: en för programmering och en för
+datorer och datoranvändning (dod). Programmeringsföreläsningarna är
+varje vecka genom hela kursen, medan dod-föreläsningarna är under de
+fyra första veckorna. Mer. Mer!</p>
+<h3 id="dod-föreläsningar">Dod-föreläsningar</h3>
+<script type="text/javascript">
+  $(function(){
+    const uri = 'resources/dod-lectures.html';
+    loadContent(uri, '#dod-lectures');
+  });
+</script>
+<div id="dod-lectures">
+
+</div>
+<h3 id="inspelade-föreläsningar">Inspelade föreläsningar</h3>
+<p>Inspelade föreläsningar från tidigare år: <a
+href="https://cs.lth.se/pgk/youtube">https://cs.lth.se/pgk/youtube</a></p>
+<p>Men det är roligare lajv! Notera att vissa saker har ändrats, så
+dubbelkolla mot årets föreläsningsbilder nedan. För att minska
+övervakning och reklam, använd webbläsaren <a
+href="https://www.mozilla.org/en-US/firefox/all">Firefox</a> med <a
+href="https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/">uBlock
+Origin</a>.</p>
+<h3 id="föreläsningsbilder">Föreläsningsbilder</h3>
 <ul>
-<li>TODO: flytta <a href="https://cs.lth.se/pgk/foerelaesningar/">denna
-sida</a> hit</li>
+<li><p>Ladda ner föreläsningar per vecka: <a
+href="https://fileadmin.cs.lth.se/pgk/lect-w01.pdf">https://fileadmin.cs.lth.se/pgk/lect-w01.pdf</a>
+(byt <code>w01</code> mot önskad vecka).</p></li>
+<li><p>Ladda ner alla föreläsningar: <a
+href="https://cs.lth.se/pgk/allslides">https://cs.lth.se/pgk/allslides</a></p></li>
+<li><p>Bilder med <strong>rosa</strong> bakgrund innehåller praktisk
+information som inte finns i <a
+href="https://cs.lth.se/pgk/compendium/">kompendiet</a>.</p></li>
+<li><p>Kompilera veckans bilder direkt från GitHub (byt <code>w01</code>
+mot rätt vecka): <a
+href="https://latexonline.cc/compile?git=https://github.com/lunduniversity/introprog&amp;target=slides/lect-w01.tex&amp;command=pdflatex">latexonline.cc/compile…</a></p></li>
 </ul>
+<h3 id="schema-och-innehåll">Schema och innehåll</h3>
+<script type="text/javascript">
+  $(function(){
+    const contentURI= 'https://raw.githubusercontent.com/lunduniversity/introprog/master/plan/module-plan-generated.html';
+    const proxyURI = 'https://cs.lth.se/fileadmin/cs/phpLoad.php?url=';
+    // const uri = proxyURI + contentURI;
+    const uri = 'resources/module-plan-generated.html';
+    // $('#result').load(uri, function(responseText, textStatus, jqXHR) {
+    //   if (textStatus === 'success') {
+    //     console.log('Loaded content successfully');
+    //   } else {
+    //     console.error('Failed to load content2:', jqXHR.statusText);
+    //     $('#result').html(`<p>Kunde inte ladda innehåll från <a href="${contentURI}">${uri}</a>.</p>`);
+    //   }
+    // });
+    loadContent(uri, '#result');
+  });
+</script>
+<div id="result">
+
+</div>
 <h2 id="litteratur">Litteratur</h2>
 <ul>
 <li>TODO: flytta <a href="https://cs.lth.se/pgk/litteratur/">denna

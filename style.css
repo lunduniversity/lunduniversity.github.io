@@ -1,74 +1,80 @@
 body {
-  margin: auto;
-  padding-right: 1em;
-  padding-left: 1em;
-  max-width: 45em; 
-  border-left: 1px solid black;
-  border-right: 1px solid black;
-  color: black;
-  font-family: ui-sans-serif, Verdana, Helvetica, ui-sans-serif, sans-serif;
+  margin: 1em auto;
+  padding: 1.5em;
+  max-width: min(90%, 60em);
+  border: 1px solid rgba(214, 210, 196, .5);
+  border-radius: 10px;
+  box-shadow: -5px 5px 5px rgba(0, 0, 0, .3), 5px 5px 5px rgba(0, 0, 0, .3);
+  font-family: ui-sans-serif, Verdana, Helvetica, sans-serif;
   font-size: 120%;
   line-height: 140%;
-  color: #333; 
+  color: #333;
 }
+
 pre {
   border: 1px dotted gray;
   background-color: #f3f3f3;
   color: #111111;
   padding: 0.5em;
 }
+
 code {
   font-family: 'Liberation Mono', 'DejaVu Sans Mono', 'Consolas', 'Ubuntu Mono', 'Courier New', Courier, ui-monospace, monospace;
   font-size: 100%;
   line-height: 140%;
 }
-h1 a, h2 a, h3 a, h4 a, h5 a { 
+
+h1 a, h2 a, h3 a, h4 a, h5 a {
   text-decoration: none;
-  color: #7a5ada; 
+  color: #7a5ada;
 }
 
-h1, h2, h3, h4, h5 { 
+h1, h2, h3, h4, h5 {
   font-family: 'Helvetica Neue', 'Arial Nova', 'Liberation Sans', Arimo, Helvetica, Arial, sans-serif;
-
   font-weight: bold;
   border-bottom: 1px dotted black;
-  color: #885c2c; }
+  color: #885c2c;
+  padding: 0.2em 0;
+  margin: 0.8em 0;
+}
+
 h1 {
-      font-size: 130%;
+  font-size: 140%;
 }
 
 h2 {
-      font-size: 110%;
+  font-size: 130%;
 }
 
 h3 {
-      font-size: 95%;
+  font-size: 120%;
 }
 
 h4 {
-      font-size: 90%;
-      font-style: italic;
+  font-size: 95%;
+  font-style: italic;
 }
 
 h5 {
-      font-size: 90%;
-      font-style: italic;
+  font-size: 85%;
+  font-weight: 700;
 }
 
 h1.title {
-      font-size: 200%;
-      font-weight: bold;
-      padding-top: 0.2em;
-      padding-bottom: 0.2em;
-      text-align: left;
-      border: none;
+  font-size: 200%;
+  font-weight: bold;
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+  text-align: left;
+  border: none;
 }
 
 dt code {
-      font-weight: bold;
+  font-weight: bold;
 }
+
 dd p {
-      margin-top: 0;
+  margin-top: 0;
 }
 
 #footer, #TOC {
@@ -76,16 +82,18 @@ dd p {
   font-weight: bold;
 }
 
-#footer{
-      padding-top: 1em;
-      padding-bottom: 1em;
-      text-align: center;
-      font-size: 90%;
-    }
+#footer {
+  padding-top: 1em;
+  padding-bottom: 1em;
+  text-align: center;
+  font-size: 90%;
+}
 
 #TOC {
   padding-top: 0.5em;
   padding-bottom: 0.5em;
+  border-radius: 5px;
+  box-shadow: 3px 3px 6px rgba(0, 0, 0, .3);
 }
 
 #header {
@@ -108,29 +116,61 @@ dd p {
 }
 
 button {
-  background-color: #07a715; /* Green */
+  background-color: #07a715;
+  /* Green */
   border-radius: 10px;
-  border: 5px solid #0d770a;  color: rgb(255, 255, 255);
+  border: 5px solid #0d770a;
+  color: rgb(255, 255, 255);
   padding: 0.4em 0.7em;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   font-size: 120%;
-  font-family: ui-sans-serif, Verdana, Helvetica, ui-sans-serif, sans-serif;
+  font-family: ui-sans-serif, Verdana, Helvetica, sans-serif;
   font-weight: bold;
 
 }
 
 button a {
   text-decoration: none;
-  color: #ffffff; 
+  color: #ffffff;
 }
 
 .button:hover {
-  background-color:#37c200;
+  background-color: #37c200;
   transition: 0.3s;
 }
 
 .button:active {
   background-color: #e4d500;
+}
+
+table {
+  border: 1px solid rgb(156, 97, 20);
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 1rem;
+}
+
+table th {
+  background-color: rgb(156, 97, 20);
+  color: white;
+  padding: 0.5em;
+}
+
+table td {
+  padding: 0.5em;
+  border-bottom: 1px solid #ddd;
+}
+
+table tr:hover {
+  background-color: #f5f5f5;
+}
+
+table tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+table tr:nth-child(odd) {
+  background-color: #ffffff;
 }
