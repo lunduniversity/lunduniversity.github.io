@@ -39,24 +39,7 @@ kursen, medan dod-föreläsningarna är under de fyra första veckorna.
 - [Canvas Login](https://canvas.education.lu.se/courses/31677)
 
 
-## Föreläsningar: Datorer och datoranvändning (dod)
-
-| Vecka         | Förel     | Lab |
-|--------------|-----------|------------|
-| W01 | [Operativsystem](fileadmin/TODO)   | [`linux`](fileadmin/TODO)        |
-| W02 | [Versionshantering]()      | `git`        |
-| W03 | Typsättning      | `latex`        |
-| W04 | Maskinkod      | `c3pu`        |
-
-<script type="text/javascript">
-  $(function(){
-    const uri = 'resources/dod-lectures.html';
-    loadContent(uri, '#dod-lectures');
-  });
-</script>
-<div id="dod-lectures"></div>
-
-## Föreläsningar: Programmering (prog)
+## Programmering (prog)
 
 ### Inspelade programmeringsföreläsningar
 
@@ -83,7 +66,7 @@ webbläsaren [Firefox](https://www.mozilla.org/en-US/firefox/all) med
 - Kompilera veckans bilder direkt från GitHub (byt `w01` mot rätt vecka):
   [latexonline.cc/compile...](https://latexonline.cc/compile?git=https://github.com/lunduniversity/introprog&target=slides/lect-w01.tex&command=pdflatex)
 
-### Schema och innehåll
+### Schema programmering
 
 <script type="text/javascript">
   $(function(){
@@ -104,22 +87,42 @@ webbläsaren [Firefox](https://www.mozilla.org/en-US/firefox/all) med
 </script>
 <div id="result"></div>
 
-## Litteratur
+
+
+
+### Litteratur programmering
 
 - TODO: flytta [denna sida](https://cs.lth.se/pgk/litteratur/) hit
 
-## Ordlista
+### Ordlista programmering
 
 - TODO: flytta [denna sida](https://cs.lth.se/pgk/ordlista/) hit
 
-## Verktyg
+### Verktyg programmering
 
 - TODO: flytta [denna sida](https://cs.lth.se/pgk/verktyg/) hit
 
-## Online-kodning
+### Online-kodning
 
 - TODO: flytta [denna sida](https://cs.lth.se/pgk/code-online/) hit
 
-## Examination
+### Examination programmering
 
 - TODO: flytta [denna sida](https://cs.lth.se/pgk/examination/) hit
+
+## Datorer och datoranvändning (dod)
+
+| Vecka         | Förel     | Lab |
+|--------------|-----------|------------|
+| W01 | [Operativsystem](fileadmin/TODO)   | [`linux`](fileadmin/TODO)        |
+| W02 | [Versionshantering]()      | `git`        |
+| W03 | Typsättning      | `latex`        |
+| W04 | Maskinkod      | `c3pu`        |
+
+<script type="text/javascript">
+  $(function(){
+    const uri = 'resources/dod-lectures.html';
+    loadContent(uri, '#dod-lectures');
+  });
+</script>
+<div id="dod-lectures"></div>

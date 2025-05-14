@@ -33,12 +33,8 @@
 <ul>
 <li><a href="#om-kursen" id="toc-om-kursen">Om kursen</a></li>
 <li><a href="#länkar" id="toc-länkar">Länkar</a></li>
-<li><a href="#föreläsningar-datorer-och-datoranvändning-dod"
-id="toc-föreläsningar-datorer-och-datoranvändning-dod">Föreläsningar:
-Datorer och datoranvändning (dod)</a></li>
-<li><a href="#föreläsningar-programmering-prog"
-id="toc-föreläsningar-programmering-prog">Föreläsningar: Programmering
-(prog)</a>
+<li><a href="#programmering-prog"
+id="toc-programmering-prog">Programmering (prog)</a>
 <ul>
 <li><a href="#inspelade-programmeringsföreläsningar"
 id="toc-inspelade-programmeringsföreläsningar">Inspelade
@@ -46,15 +42,22 @@ programmeringsföreläsningar</a></li>
 <li><a href="#föreläsningsbilder-programmering"
 id="toc-föreläsningsbilder-programmering">Föreläsningsbilder
 programmering</a></li>
-<li><a href="#schema-och-innehåll" id="toc-schema-och-innehåll">Schema
-och innehåll</a></li>
-</ul></li>
-<li><a href="#litteratur" id="toc-litteratur">Litteratur</a></li>
-<li><a href="#ordlista" id="toc-ordlista">Ordlista</a></li>
-<li><a href="#verktyg" id="toc-verktyg">Verktyg</a></li>
+<li><a href="#schema-programmering" id="toc-schema-programmering">Schema
+programmering</a></li>
+<li><a href="#litteratur-programmering"
+id="toc-litteratur-programmering">Litteratur programmering</a></li>
+<li><a href="#ordlista-programmering"
+id="toc-ordlista-programmering">Ordlista programmering</a></li>
+<li><a href="#verktyg-programmering"
+id="toc-verktyg-programmering">Verktyg programmering</a></li>
 <li><a href="#online-kodning"
 id="toc-online-kodning">Online-kodning</a></li>
-<li><a href="#examination" id="toc-examination">Examination</a></li>
+<li><a href="#examination-programmering"
+id="toc-examination-programmering">Examination programmering</a></li>
+</ul></li>
+<li><a href="#datorer-och-datoranvändning-dod"
+id="toc-datorer-och-datoranvändning-dod">Datorer och datoranvändning
+(dod)</a></li>
 </ul>
 </nav>
 <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
@@ -104,8 +107,80 @@ login</a></li>
 <li><a href="https://canvas.education.lu.se/courses/31677">Canvas
 Login</a></li>
 </ul>
-<h2 id="föreläsningar-datorer-och-datoranvändning-dod">Föreläsningar:
-Datorer och datoranvändning (dod)</h2>
+<h2 id="programmering-prog">Programmering (prog)</h2>
+<h3 id="inspelade-programmeringsföreläsningar">Inspelade
+programmeringsföreläsningar</h3>
+<p>Inspelade föreläsningar från tidigare år: <a
+href="https://cs.lth.se/pgk/youtube">https://cs.lth.se/pgk/youtube</a></p>
+<p>Men det är roligare lajv! Notera att vissa saker har ändrats, så
+dubbelkolla mot årets föreläsningsbilder nedan. För att minska
+övervakning och reklam, använd webbläsaren <a
+href="https://www.mozilla.org/en-US/firefox/all">Firefox</a> med <a
+href="https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/">uBlock
+Origin</a>.</p>
+<h3 id="föreläsningsbilder-programmering">Föreläsningsbilder
+programmering</h3>
+<ul>
+<li><p>Ladda ner föreläsningar per vecka: <a
+href="https://fileadmin.cs.lth.se/pgk/lect-w01.pdf">https://fileadmin.cs.lth.se/pgk/lect-w01.pdf</a>
+(byt <code>w01</code> mot önskad vecka).</p></li>
+<li><p>Ladda ner alla föreläsningar: <a
+href="https://cs.lth.se/pgk/allslides">https://cs.lth.se/pgk/allslides</a></p></li>
+<li><p>Bilder med <strong>rosa</strong> bakgrund innehåller praktisk
+information som inte finns i <a
+href="https://cs.lth.se/pgk/compendium/">kompendiet</a>.</p></li>
+<li><p>Kompilera veckans bilder direkt från GitHub (byt <code>w01</code>
+mot rätt vecka): <a
+href="https://latexonline.cc/compile?git=https://github.com/lunduniversity/introprog&amp;target=slides/lect-w01.tex&amp;command=pdflatex">latexonline.cc/compile…</a></p></li>
+</ul>
+<h3 id="schema-programmering">Schema programmering</h3>
+<script type="text/javascript">
+  $(function(){
+    const contentURI= 'https://raw.githubusercontent.com/lunduniversity/introprog/master/plan/module-plan-generated.html';
+    const proxyURI = 'https://cs.lth.se/fileadmin/cs/phpLoad.php?url=';
+    // const uri = proxyURI + contentURI;
+    const uri = 'resources/module-plan-generated.html';
+    // $('#result').load(uri, function(responseText, textStatus, jqXHR) {
+    //   if (textStatus === 'success') {
+    //     console.log('Loaded content successfully');
+    //   } else {
+    //     console.error('Failed to load content2:', jqXHR.statusText);
+    //     $('#result').html(`<p>Kunde inte ladda innehåll från <a href="${contentURI}">${uri}</a>.</p>`);
+    //   }
+    // });
+    loadContent(uri, '#result');
+  });
+</script>
+<div id="result">
+
+</div>
+<h3 id="litteratur-programmering">Litteratur programmering</h3>
+<ul>
+<li>TODO: flytta <a href="https://cs.lth.se/pgk/litteratur/">denna
+sida</a> hit</li>
+</ul>
+<h3 id="ordlista-programmering">Ordlista programmering</h3>
+<ul>
+<li>TODO: flytta <a href="https://cs.lth.se/pgk/ordlista/">denna
+sida</a> hit</li>
+</ul>
+<h3 id="verktyg-programmering">Verktyg programmering</h3>
+<ul>
+<li>TODO: flytta <a href="https://cs.lth.se/pgk/verktyg/">denna sida</a>
+hit</li>
+</ul>
+<h3 id="online-kodning">Online-kodning</h3>
+<ul>
+<li>TODO: flytta <a href="https://cs.lth.se/pgk/code-online/">denna
+sida</a> hit</li>
+</ul>
+<h3 id="examination-programmering">Examination programmering</h3>
+<ul>
+<li>TODO: flytta <a href="https://cs.lth.se/pgk/examination/">denna
+sida</a> hit</li>
+</ul>
+<h2 id="datorer-och-datoranvändning-dod">Datorer och datoranvändning
+(dod)</h2>
 <table>
 <colgroup>
 <col style="width: 37%" />
@@ -151,78 +226,5 @@ Datorer och datoranvändning (dod)</h2>
 <div id="dod-lectures">
 
 </div>
-<h2 id="föreläsningar-programmering-prog">Föreläsningar: Programmering
-(prog)</h2>
-<h3 id="inspelade-programmeringsföreläsningar">Inspelade
-programmeringsföreläsningar</h3>
-<p>Inspelade föreläsningar från tidigare år: <a
-href="https://cs.lth.se/pgk/youtube">https://cs.lth.se/pgk/youtube</a></p>
-<p>Men det är roligare lajv! Notera att vissa saker har ändrats, så
-dubbelkolla mot årets föreläsningsbilder nedan. För att minska
-övervakning och reklam, använd webbläsaren <a
-href="https://www.mozilla.org/en-US/firefox/all">Firefox</a> med <a
-href="https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/">uBlock
-Origin</a>.</p>
-<h3 id="föreläsningsbilder-programmering">Föreläsningsbilder
-programmering</h3>
-<ul>
-<li><p>Ladda ner föreläsningar per vecka: <a
-href="https://fileadmin.cs.lth.se/pgk/lect-w01.pdf">https://fileadmin.cs.lth.se/pgk/lect-w01.pdf</a>
-(byt <code>w01</code> mot önskad vecka).</p></li>
-<li><p>Ladda ner alla föreläsningar: <a
-href="https://cs.lth.se/pgk/allslides">https://cs.lth.se/pgk/allslides</a></p></li>
-<li><p>Bilder med <strong>rosa</strong> bakgrund innehåller praktisk
-information som inte finns i <a
-href="https://cs.lth.se/pgk/compendium/">kompendiet</a>.</p></li>
-<li><p>Kompilera veckans bilder direkt från GitHub (byt <code>w01</code>
-mot rätt vecka): <a
-href="https://latexonline.cc/compile?git=https://github.com/lunduniversity/introprog&amp;target=slides/lect-w01.tex&amp;command=pdflatex">latexonline.cc/compile…</a></p></li>
-</ul>
-<h3 id="schema-och-innehåll">Schema och innehåll</h3>
-<script type="text/javascript">
-  $(function(){
-    const contentURI= 'https://raw.githubusercontent.com/lunduniversity/introprog/master/plan/module-plan-generated.html';
-    const proxyURI = 'https://cs.lth.se/fileadmin/cs/phpLoad.php?url=';
-    // const uri = proxyURI + contentURI;
-    const uri = 'resources/module-plan-generated.html';
-    // $('#result').load(uri, function(responseText, textStatus, jqXHR) {
-    //   if (textStatus === 'success') {
-    //     console.log('Loaded content successfully');
-    //   } else {
-    //     console.error('Failed to load content2:', jqXHR.statusText);
-    //     $('#result').html(`<p>Kunde inte ladda innehåll från <a href="${contentURI}">${uri}</a>.</p>`);
-    //   }
-    // });
-    loadContent(uri, '#result');
-  });
-</script>
-<div id="result">
-
-</div>
-<h2 id="litteratur">Litteratur</h2>
-<ul>
-<li>TODO: flytta <a href="https://cs.lth.se/pgk/litteratur/">denna
-sida</a> hit</li>
-</ul>
-<h2 id="ordlista">Ordlista</h2>
-<ul>
-<li>TODO: flytta <a href="https://cs.lth.se/pgk/ordlista/">denna
-sida</a> hit</li>
-</ul>
-<h2 id="verktyg">Verktyg</h2>
-<ul>
-<li>TODO: flytta <a href="https://cs.lth.se/pgk/verktyg/">denna sida</a>
-hit</li>
-</ul>
-<h2 id="online-kodning">Online-kodning</h2>
-<ul>
-<li>TODO: flytta <a href="https://cs.lth.se/pgk/code-online/">denna
-sida</a> hit</li>
-</ul>
-<h2 id="examination">Examination</h2>
-<ul>
-<li>TODO: flytta <a href="https://cs.lth.se/pgk/examination/">denna
-sida</a> hit</li>
-</ul>
 </body>
 </html>
