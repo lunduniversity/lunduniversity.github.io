@@ -36,27 +36,33 @@
 <li><a href="#programmering-prog"
 id="toc-programmering-prog">Programmering (prog)</a>
 <ul>
-<li><a href="#inspelade-föreläsningar-prog"
-id="toc-inspelade-föreläsningar-prog">Inspelade föreläsningar
+<li><a href="#översikt-prog" id="toc-översikt-prog">Översikt
 (prog)</a></li>
-<li><a href="#föreläsningsbilder-prog"
-id="toc-föreläsningsbilder-prog">Föreläsningsbilder (prog)</a></li>
-<li><a href="#schema-och-innehåll-prog"
-id="toc-schema-och-innehåll-prog">Schema och innehåll (prog)</a></li>
+<li><a href="#föreläsningar-prog"
+id="toc-föreläsningar-prog">Föreläsningar (prog)</a></li>
 <li><a href="#litteratur-prog" id="toc-litteratur-prog">Litteratur
-(prog)</a></li>
-<li><a href="#ordlista-prog" id="toc-ordlista-prog">Ordlista
-(prog)</a></li>
-<li><a href="#verktyg-prog" id="toc-verktyg-prog">Verktyg
-(prog)</a></li>
-<li><a href="#koda-online-prog" id="toc-koda-online-prog">Koda online
 (prog)</a></li>
 <li><a href="#examination-prog" id="toc-examination-prog">Examination
 (prog)</a></li>
 </ul></li>
 <li><a href="#datorer-och-datoranvändning-dod"
 id="toc-datorer-och-datoranvändning-dod">Datorer och datoranvändning
+(dod)</a>
+<ul>
+<li><a href="#operativsystem-dod"
+id="toc-operativsystem-dod">Operativsystem (dod)</a></li>
+<li><a href="#versionshantering-dod"
+id="toc-versionshantering-dod">Versionshantering (dod)</a></li>
+<li><a href="#typsättning-dod" id="toc-typsättning-dod">Typsättning
 (dod)</a></li>
+<li><a href="#maskinkod-dod" id="toc-maskinkod-dod">Maskinkod
+(dod)</a></li>
+</ul></li>
+<li><a href="#installera-programmeringsverktyg"
+id="toc-installera-programmeringsverktyg">Installera
+programmeringsverktyg</a></li>
+<li><a href="#koda-online" id="toc-koda-online">Koda online</a></li>
+<li><a href="#ordlista" id="toc-ordlista">Ordlista</a></li>
 </ul>
 </nav>
 <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
@@ -74,103 +80,115 @@ id="toc-datorer-och-datoranvändning-dod">Datorer och datoranvändning
 <strong>Period</strong>: HT1-2 (lp1-2).<br />
 <strong>Kursplan</strong>: <a
 href="https://kurser.lth.se/kursplaner/senaste/EDAB05.html">EDAB05</a>.<br />
-<strong>Kursansvarig</strong>: <a
-href="http://cs.lth.se/bjornregnell">Björn Regnell</a><br />
+<strong>Kursansvarig</strong>: <a href="../bjornregnell">Björn
+Regnell</a><br />
 <strong>Biträdande kursansvarig</strong>: <a
 href="https://cs.lth.se/nordahl-mattias/">Mattias Nordahl</a></p>
 <p>Kursen omfattar grundläggande programmeringsprinciper och
-datavetenskapliga begrepp. Du lär dig programmeringsspråket Scala, att
-konstruera algoritmer, att använda datastrukturer och mycket annat. Det
+datavetenskapliga begrepp. Du lär dig programmeringsspråket <a
+href="https://www.scala-lang.org/">Scala</a>, att konstruera algoritmer,
+att använda datastrukturer, programmeringsverktyg och mycket annat. Det
 krävs inga förkunskaper i programmering. Kursen ger en solid grund för
 fortsatta studier i systemutveckling.</p>
-<p>Kursen har två föreläsningsserier: en för programmering och en för
-datorer och datoranvändning (dod). Programmeringsföreläsningarna är
-varje vecka genom hela kursen, medan dod-föreläsningarna är under de
-fyra första veckorna.</p>
+<p>Kursen har två delar: en för programmering (prog) och en för datorer
+och datoranvändning (dod). Programmering pågår varje vecka genom hela
+kursen, medan datorer och datoranvändning endast pågår under de fyra
+första veckorna.</p>
 <h2 id="länkar">Länkar</h2>
 <ul>
 <li><a
-href="https://cloud.timeedit.net/lu/web/lth1/ri19566250000YQQ28Z0507007y9Y4763gQ0g5X6Y65ZQ176.html">Schedule
-in TimeEdit 2025</a></li>
-<li><a href="https://fileadmin.cs.lth.se/pgk/courseplan.pdf">Course
-program</a></li>
-<li><a href="https://cs.lth.se/pgk/kompendium/">Course
-compendium</a></li>
-<li><a href="http://github.com/lunduniversity/introprog">Compendium open
-source</a></li>
+href="https://cloud.timeedit.net/lu/web/lth1/ri19566250000YQQ28Z0507007y9Y4763gQ0g5X6Y65ZQ176.html">Schema
+TimeEdit</a></li>
+<li>Kurskompendium:
+<ul>
 <li><a
-href="http://github.com/lunduniversity/introprog-scalalib">Library
-introprog-scalalib</a></li>
+href="https://fileadmin.cs.lth.se/pgk/compendium.pdf">Kurskompendium
+Programmering hela kursen</a> (ca 730 sidor, anpassad för skärm)</li>
 <li><a
-href="https://www.student.ladok.se/student/app/studentwebb/">Ladok
-login</a></li>
-<li><a href="https://canvas.education.lu.se/courses/31677">Canvas
-Login</a></li>
+href="https://fileadmin.cs.lth.se/pgk/compendium1.pdf">Kurskompendium
+Programmering end. lp1</a> (ca 380 sidor, anpassad för papper)</li>
+<li><a
+href="https://fileadmin.cs.lth.se/pgk/compendium2.pdf">Kurskompendium
+Programmering end. lp2</a> (ca 380 sidor, anpassad för papper)</li>
+<li><a href="http://github.com/lunduniversity/introprog">Öppen källkod
+för Kompendium Programmering</a></li>
+<li><a href="TODO">Kompendium Datorer och datoranvändning</a></li>
+</ul></li>
+<li><a
+href="https://fileadmin.cs.lth.se/pgk/quickref.pdf">Snabbreferens</a></li>
+<li>Kodbibliotek <code>introprog-scalalib</code>:
+<ul>
+<li><a
+href="http://github.com/lunduniversity/introprog-scalalib">github.com/lunduniversity/introprog-scalalib</a></li>
+<li><a href="https://fileadmin.cs.lth.se/pgk/api">Api-dokumentation
+<code>introprog-scalalib</code></a></li>
+</ul></li>
+<li>Lärplattform:
+<ul>
+<li><a href="TODO">Kursyta i Canvas</a> (end. åtkomlig för registrerade
+studenter)</li>
+<li><a href="https://canvas.education.lu.se/courses/35559">Permanent
+öppen information i Canvas</a></li>
+</ul></li>
+<li><a
+href="https://www.student.ladok.se/student/app/studentwebb/">Ladok Login
+för studenter</a></li>
+<li><a
+href="https://kurser.lth.se/kursplaner/senaste/EDAB05.html">Formell
+kursplan</a></li>
+<li><a
+href="https://fileadmin.cs.lth.se/pgk/courseplan.pdf">Översiktligt
+kursprogram</a></li>
 </ul>
 <h2 id="programmering-prog">Programmering (prog)</h2>
-<h3 id="inspelade-föreläsningar-prog">Inspelade föreläsningar
-(prog)</h3>
-<p>Inspelade föreläsningar från tidigare år: <a
-href="https://cs.lth.se/pgk/youtube">https://cs.lth.se/pgk/youtube</a></p>
-<p>Men det är roligare lajv! Notera att vissa saker har ändrats, så
+<h3 id="översikt-prog">Översikt (prog)</h3>
+<script type="text/javascript">
+  $(function(){
+    const uri = 'resources/week-plan-generated.html';
+    loadContent(uri, '#week-plan-generated');
+  });
+</script>
+<div id="week-plan-generated">
+
+</div>
+<h3 id="föreläsningar-prog">Föreläsningar (prog)</h3>
+<ul>
+<li>Föreläsningsbilder (prog):
+<ul>
+<li>Ladda ner föreläsningar per vecka: <a
+href="https://fileadmin.cs.lth.se/pgk/lect-w01.pdf">https://fileadmin.cs.lth.se/pgk/lect-w01.pdf</a>
+(byt <code>w01</code> mot önskad vecka) eller klicka på länk i tabellen
+nedan.</li>
+<li>Ladda ner alla föreläsningar: <a
+href="https://cs.lth.se/pgk/allslides">https://cs.lth.se/pgk/allslides</a></li>
+<li>Bilder med <strong>rosa</strong> bakgrund innehåller praktisk
+information som inte finns i <a
+href="https://cs.lth.se/pgk/compendium/">kompendiet</a>.</li>
+<li>Kompilera veckans bilder direkt från GitHub (byt <code>w01</code>
+mot rätt vecka i adressen, kan låååång tid om omkompilering krävs): <a
+href="https://latexonline.cc/compile?git=https://github.com/lunduniversity/introprog&amp;target=slides/lect-w01.tex&amp;command=pdflatex"><code>latexonline.cc/compile?git=https://github.com/lunduniversity/introprog&amp;target=slides/lect-w01.tex&amp;command=pdflatex</code></a></li>
+</ul></li>
+<li>Inspelade föreläsningar (prog) från tidigare år: <a
+href="https://cs.lth.se/pgk/youtube">https://cs.lth.se/pgk/youtube</a>
+Men det är roligare lajv! Notera att vissa saker har ändrats, så
 dubbelkolla mot årets föreläsningsbilder nedan. För att minska
 övervakning och reklam, använd webbläsaren <a
 href="https://www.mozilla.org/en-US/firefox/all">Firefox</a> med <a
 href="https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/">uBlock
-Origin</a>.</p>
-<h3 id="föreläsningsbilder-prog">Föreläsningsbilder (prog)</h3>
-<ul>
-<li><p>Ladda ner föreläsningar per vecka: <a
-href="https://fileadmin.cs.lth.se/pgk/lect-w01.pdf">https://fileadmin.cs.lth.se/pgk/lect-w01.pdf</a>
-(byt <code>w01</code> mot önskad vecka).</p></li>
-<li><p>Ladda ner alla föreläsningar: <a
-href="https://cs.lth.se/pgk/allslides">https://cs.lth.se/pgk/allslides</a></p></li>
-<li><p>Bilder med <strong>rosa</strong> bakgrund innehåller praktisk
-information som inte finns i <a
-href="https://cs.lth.se/pgk/compendium/">kompendiet</a>.</p></li>
-<li><p>Kompilera veckans bilder direkt från GitHub (byt <code>w01</code>
-mot rätt vecka i adressen): <a
-href="https://latexonline.cc/compile?git=https://github.com/lunduniversity/introprog&amp;target=slides/lect-w01.tex&amp;command=pdflatex"><code>latexonline.cc/compile?git=https://github.com/lunduniversity/introprog&amp;target=slides/lect-w01.tex&amp;command=pdflatex</code></a></p></li>
+Origin</a>.</li>
 </ul>
-<h3 id="schema-och-innehåll-prog">Schema och innehåll (prog)</h3>
 <script type="text/javascript">
   $(function(){
-    const contentURI= 'https://raw.githubusercontent.com/lunduniversity/introprog/master/plan/module-plan-generated.html';
-    const proxyURI = 'https://cs.lth.se/fileadmin/cs/phpLoad.php?url=';
-    // const uri = proxyURI + contentURI;
     const uri = 'resources/module-plan-generated.html';
-    // $('#result').load(uri, function(responseText, textStatus, jqXHR) {
-    //   if (textStatus === 'success') {
-    //     console.log('Loaded content successfully');
-    //   } else {
-    //     console.error('Failed to load content2:', jqXHR.statusText);
-    //     $('#result').html(`<p>Kunde inte ladda innehåll från <a href="${contentURI}">${uri}</a>.</p>`);
-    //   }
-    // });
-    loadContent(uri, '#result');
+    loadContent(uri, '#module-plan-generated');
   });
 </script>
-<div id="result">
+<div id="module-plan-generated">
 
 </div>
 <h3 id="litteratur-prog">Litteratur (prog)</h3>
 <ul>
 <li>TODO: flytta <a href="https://cs.lth.se/pgk/litteratur/">denna
-sida</a> hit</li>
-</ul>
-<h3 id="ordlista-prog">Ordlista (prog)</h3>
-<ul>
-<li>TODO: flytta <a href="https://cs.lth.se/pgk/ordlista/">denna
-sida</a> hit</li>
-</ul>
-<h3 id="verktyg-prog">Verktyg (prog)</h3>
-<ul>
-<li>TODO: flytta <a href="https://cs.lth.se/pgk/verktyg/">denna sida</a>
-hit</li>
-</ul>
-<h3 id="koda-online-prog">Koda online (prog)</h3>
-<ul>
-<li>TODO: flytta <a href="https://cs.lth.se/pgk/code-online/">denna
 sida</a> hit</li>
 </ul>
 <h3 id="examination-prog">Examination (prog)</h3>
@@ -180,49 +198,170 @@ sida</a> hit</li>
 </ul>
 <h2 id="datorer-och-datoranvändning-dod">Datorer och datoranvändning
 (dod)</h2>
-<table>
-<colgroup>
-<col style="width: 37%" />
-<col style="width: 29%" />
-<col style="width: 32%" />
-</colgroup>
-<thead>
-<tr>
-<th>Vecka</th>
-<th>Förel</th>
-<th>Lab</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>W01</td>
-<td><a href="fileadmin/TODO">Operativsystem</a></td>
-<td><a href="fileadmin/TODO"><code>linux</code></a></td>
-</tr>
-<tr>
-<td>W02</td>
-<td><a href="">Versionshantering</a></td>
-<td><code>git</code></td>
-</tr>
-<tr>
-<td>W03</td>
-<td>Typsättning</td>
-<td><code>latex</code></td>
-</tr>
-<tr>
-<td>W04</td>
-<td>Maskinkod</td>
-<td><code>c3pu</code></td>
-</tr>
-</tbody>
-</table>
+<p>I denna del lär du dig några viktiga programmeringsverktyg som
+används i professionell systemutveckling. Dod omfattar 4 föreläsningar
+och 4 laborationer och går under kursens första 4 veckor. När du är
+godkänd på laborationerna får du 3hp som delresultat i Ladok.</p>
+<h3 id="operativsystem-dod">Operativsystem (dod)</h3>
+<ul>
+<li><strong>Läsning</strong>:
+<ul>
+<li><a
+href="https://fileadmin.cs.lth.se/pgk/compendium.pdf">Scalakompendium
+(Appendix B)</a></li>
+<li><a
+href="http://fileadmin.cs.lth.se/cs/Education/EDAA60/general/unix-x.pdf">Linuxkompendium</a></li>
+</ul></li>
+<li><strong>Föreläsningsbilder</strong>:
+<ul>
+<li><a
+href="https://fileadmin.cs.lth.se/cs/Education/EDAA60/lectures/2024/lecture0-intro-handout.pdf">PDF
+Kursintro</a></li>
+<li><a
+href="https://fileadmin.cs.lth.se/cs/Education/EDAA60/lectures/2024/lecture1-unix-handout.pdf">PDF
+Unix</a></li>
+<li><a
+href="https://fileadmin.cs.lth.se/cs/Education/EDAA60/lectures/2024/lecture1-menti.pdf">PDF
+Menti</a></li>
+</ul></li>
+<li><strong>Mera intressant</strong>:
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Linux">Wikipedia
+Linux</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Unix">Wikipedia Unix</a></li>
+<li><a href="https://github.com/RehanSaeed/Bash-Cheat-Sheet">Bash cheat
+sheet</a></li>
+</ul></li>
+<li><strong>Lab</strong>: <a href="TODO">TODO LINK</a></li>
+</ul>
+<h3 id="versionshantering-dod">Versionshantering (dod)</h3>
+<ul>
+<li>
+<strong>Läsning:</strong> <a
+      href="https://fileadmin.cs.lth.se/pgk/compendium.pdf"
+      target="_blank"
+      >Scalakompendium (Appendix G)</a
+    >, <a
+      href="https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV"
+      target="_blank"
+      >Git and GitHub for Poets (YouTube)</a
+    >, <a href="https://git-scm.com/book/en/v2" target="_blank"
+      >Pro Git (Chacon/Staub)</a
+    >
+</li>
+<li>
+<strong>Föreläsningsbilder:</strong> <a
+      href="https://fileadmin.cs.lth.se/cs/Education/EDAA60/lectures/2024/lecture-git-handout.pdf"
+      target="_blank"
+      >PDF, git</a
+    >
+</li>
+<li>
+<strong>Mera intressant:</strong>
+<ul>
+<li>
+<a href="https://git-scm.com" target="_blank"
+          >Git (git-scm.com)</a
+        >
+</li>
+<li>
+Git cheat sheets:
+<ul>
+<li>
+<a
+              href="https://education.github.com/git-cheat-sheet-education.pdf"
+              target="_blank"
+              >GitHub</a
+            >
+</li>
+<li>
+<a
+              href="https://about.gitlab.com/images/press/git-cheat-sheet.pdf"
+              target="_blank"
+              >GitLab</a
+            >
+</li>
+<li>
+<a
+              href="https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet"
+              target="_blank"
+              >BitBucket</a
+            >
+</li>
+</ul>
+</li>
+<li>
+<a
+          href="https://fileadmin.cs.lth.se/cs/Education/EDAA60/lectures/2023/EDAF45-lab0-git-basics-v1.1.pdf"
+          target="_blank"
+          >EDAF45 Lab 0</a
+        >
+</li>
+</ul>
+</li>
+</ul>
+<h3 id="typsättning-dod">Typsättning (dod)</h3>
+<h3 id="maskinkod-dod">Maskinkod (dod)</h3>
+<!--
+
+| Vecka         | Förel     | Lab |
+|--------------|-----------|------------|
+| W01 | [Operativsystem](fileadmin/TODO)   | [`linux`](fileadmin/TODO)        |
+| W02 | [Versionshantering]()      | `git`        |
+| W03 | Typsättning      | `latex`        |
+| W04 | Maskinkod      | `c3pu`        |
+
 <script type="text/javascript">
   $(function(){
     const uri = 'resources/dod-lectures.html';
     loadContent(uri, '#dod-lectures');
   });
 </script>
-<div id="dod-lectures">
+<div id="dod-lectures"></div>
+
+-->
+<h2 id="installera-programmeringsverktyg">Installera
+programmeringsverktyg</h2>
+<p>I filen <a
+href="https://github.com/lunduniversity/introprog/blob/master/web/tools/tools.md"><code>tools.md</code></a>
+finns instruktioner om programmeringsverktyg som finns på LTH:s
+studentdatorer, och hur du installerar dessa verktyg på din egen dator
+för olika operativsystem. Här finns också tips när du ska <a
+href="https://github.com/lunduniversity/introprog/blob/master/web/tools/tools.md#k%C3%B6pa-egen-dator">köpa
+egen dator</a>.</p>
+<ul>
+<li><a
+href="https://github.com/lunduniversity/introprog/blob/master/web/tools/tools.md">github.com/lunduniversity/introprog/blob/master/web/tools/tools.md</a></li>
+</ul>
+<h2 id="koda-online">Koda online</h2>
+<ul>
+<li>Du kan skapa och köra Scala-program direkt i din webbläsare med här:
+<ul>
+<li><a
+href="https://scastie.scala-lang.org/kXwW4wXzQYaKpmyNtjXp4w">scastie.scala-lang.org</a></li>
+</ul></li>
+<li>Du kan skapa Scala-program som ritar med hjälp av en sköldpaddan
+här:
+<ul>
+<li><a href="http://kojo.lu.se/">kojo.lu.se</a></li>
+</ul></li>
+</ul>
+<h2 id="ordlista">Ordlista</h2>
+<ul>
+<li>I tabellen nedan finns de programmeringsbegrepp som används i
+quiz-övningarna i kompendiet. Försök först att lösa quiz-övningarna
+baserat på dina studier av förklaringar av veckans begrepp i kompendiet,
+<em>innan</em> du kollar här.</li>
+<li>Du kan också träna på begrepp med hjälp av <a
+href="https://fileadmin.cs.lth.se/pgk/muntabot/#muntabot">muntabot</a></li>
+</ul>
+<script type="text/javascript">
+  $(function(){
+    const uri = 'resources/concepts-generated.html';
+    loadContent(uri, '#concepts-generated');
+  });
+</script>
+<div id="concepts-generated">
 
 </div>
 </body>
