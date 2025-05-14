@@ -41,7 +41,7 @@ kursen, medan dod-föreläsningarna är under de fyra första veckorna.
 
 ## Programmering (prog)
 
-### Inspelade programmeringsföreläsningar
+### Inspelade föreläsningar (prog)
 
 Inspelade föreläsningar från tidigare år:
 [https://cs.lth.se/pgk/youtube](https://cs.lth.se/pgk/youtube)
@@ -51,7 +51,7 @@ Men det är roligare lajv! Notera att vissa saker har ändrats, så dubbelkolla 
 webbläsaren [Firefox](https://www.mozilla.org/en-US/firefox/all) med
 [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/).
 
-### Föreläsningsbilder programmering
+### Föreläsningsbilder (prog)
 
 - Ladda ner föreläsningar per vecka:
   [https://fileadmin.cs.lth.se/pgk/lect-w01.pdf](https://fileadmin.cs.lth.se/pgk/lect-w01.pdf)
@@ -66,7 +66,7 @@ webbläsaren [Firefox](https://www.mozilla.org/en-US/firefox/all) med
 - Kompilera veckans bilder direkt från GitHub (byt `w01` mot rätt vecka):
   [latexonline.cc/compile...](https://latexonline.cc/compile?git=https://github.com/lunduniversity/introprog&target=slides/lect-w01.tex&command=pdflatex)
 
-### Schema programmering
+### Schema (prog)
 
 <script type="text/javascript">
   $(function(){
@@ -88,25 +88,23 @@ webbläsaren [Firefox](https://www.mozilla.org/en-US/firefox/all) med
 <div id="result"></div>
 
 
-
-
-### Litteratur programmering
+### Litteratur (prog)
 
 - TODO: flytta [denna sida](https://cs.lth.se/pgk/litteratur/) hit
 
-### Ordlista programmering
+### Ordlista (prog)
 
 - TODO: flytta [denna sida](https://cs.lth.se/pgk/ordlista/) hit
 
-### Verktyg programmering
+### Verktyg (prog)
 
 - TODO: flytta [denna sida](https://cs.lth.se/pgk/verktyg/) hit
 
-### Online-kodning
+### Koda online (prog)
 
 - TODO: flytta [denna sida](https://cs.lth.se/pgk/code-online/) hit
 
-### Examination programmering
+### Examination (prog)
 
 - TODO: flytta [denna sida](https://cs.lth.se/pgk/examination/) hit
 
