@@ -104,7 +104,7 @@ or add useful educational content. You can help by:
 ## 🧑‍🏫 For Lund University Employees
 
 If you are a teacher or employee at LU and would like to host your course or
-project here:
+project here, or your personal page, please follow these steps:
 
 1. **Create an issue:**  
    Go to the
@@ -136,46 +136,128 @@ project here:
 
 ## 📄 Page Organization
 
-Each course or content area lives in its own directory under `src/`, often
-structured like this:
+Each course, project or personal page must live in its own subdirectory under
+`src/`, and should follow this structure:
 
 <pre>
 src/
-    yourcourse/
+    yourpage/
         index.md ← Your course content in Markdown
         build.sh ← Script to build the HTML using Pandoc
         otherfiles/ ← Any other files you need
 </pre>
 
-The root directory contains shared files like:
+Replace `yourpage` with the name of your course, project, or your own name (for
+personal pages), following the naming convention below.
 
-- `top.html`: Entry points linking to subpages
-- `style.css`: Shared CSS
-- `build.sh`: Top-level build script, that includes all subdirectories
+### 🔤 Naming Convention
+
+- Use **lowercase letters only**
+- No spaces, dashes, underscores, or special characters
+- For **courses**, use a **short, stable acronym** that reflects the course
+  title in swedish or english.
+  - The acronym must be **unique** and **unlikely to change**
+  - **Do not use the course code**, as it may change over time (e.g., use `pgk`
+    rather than `EDAB05`)
+- For **personal pages**, use your full name in lowercase (e.g., `johndoe`)
+  - If your name isn't unique, append a number or other identifier (e.g.,
+    `johndoe2`)
+
+### 📁 Root Directory Contents
+
+The root of the repository contains shared files:
+
+- `top.html`: Entry page with links to all subpages
+- `style.css`: Shared stylesheet used across all pages
+- `build.sh`: Top-level build script that builds all subpages by sourcing their
+  `build.sh` scripts
 
 ## 🔧 Building Pages
 
-Each folder should contain a `build.sh` script similar to:
+Each page directory under `src/` must include a `build.sh` script to generate
+the corresponding HTML file using [Pandoc](https://pandoc.org/). The resulting
+HTML file must be placed outside of the `src/` directory, in a subdirectory with
+the same name as the page directory. For example, if your page is in
+`src/yourpage/`, the generated HTML file should be in `yourpage/index.html`.
+
+The build script must be runnable from the root of the repository, and we
+recommend including a path check to ensure the script is run from the correct
+location.
+
+Below is a basic example of a `build.sh` script for a page. It includes a path
+check to ensure it is run from the root of the repository, creates its own
+subdirectory, and generates a HTML file using Pandoc.
 
 ```bash
-#!/bin/bash
-mkdir -p yourcourse
-pandoc -s --toc -c ../style.css -B top.html --metadata title="KURSKOD Kurstitel" src/yourcourse/index.md -o yourcourse/index.html
+#!/usr/bin/bash
+
+###############################################################################
+### Make sure the script is run from the root of the repository ###############
+###############################################################################
+REPO_ROOT=$(cd "$(git rev-parse --show-toplevel)"; pwd)
+CURRENT_DIR=$(pwd)
+
+if [ "$CURRENT_DIR" != "$REPO_ROOT" ]; then
+    echo "Please run this script from the root of the repository."
+    echo "Current: $CURRENT_DIR"
+    echo "Expected: $REPO_ROOT"
+    exit 1
+fi
+###############################################################################
+
+mkdir -p yourpage
+pandoc \
+  -s \                             # Use standalone mode (includes full HTML structure)
+  --toc \                          # Add a table of contents
+  -c ../style.css \                # Link to the shared stylesheet
+  -B top.html \                    # Insert content from top.html at the beginning of the body
+  --metadata title="Your title" \  # Set the page title (used in the HTML <title> tag)
+  src/yourpage/index.md \          # Your Markdown source file
+  -o yourpage/index.html           # Output file
+
 ```
 
-Adjust paths as needed depending on your directory depth.
+- Replace `yourpage` with the name of your course, project, or personal page.
+- The `top.html` file includes the LU header, and should always be included.
+- **Tip:** Adjust relative paths (`../style.css`, `top.html`, etc.) if your
+  subdirectory is nested deeper or organized differently.
 
-If you add a new `build.sh` script, make sure to include it in the top-level
-`build.sh` script. This ensures that your subdirectories are built when you run
-the top-level script.
+### 🧱 Including Your Script in the Top-Level Build
 
-Add a line like this to the top-level `build.sh`:
+To make sure your page is built when the repository is built, add a line to the
+top-level `build.sh`:
 
 ```bash
 source src/yourcourse/build.sh
 ```
 
+This runs your script as part of the global build process.
+
+**Note:** The top-level `build.sh` script is responsible for building all
+subpages. It should include a line for each subpage's `build.sh` script. It is
+also responsible for creating the landing page (root `index.html`) that links to
+all subpages. The top-level `build.sh` script additionally runs the `dos2unix`
+command on all HTML files to ensure that Windows-style line endings are
+converted to Unix-style line endings. This is important for compatibility across
+different operating systems and to avoid files being committed unnecessarily
+when no content changes have been made.
+
+> 🔁 If you're renaming or moving folders, don't forget to update the top-level
+> script too!
+
 ## 🛠️ Tool Recommendations
+
+For running the build script, we recommend using a terminal with Bash support.
+If you're on Windows, you can use [Git Bash](https://gitforwindows.org/) or
+[WSL](https://docs.microsoft.com/en-us/windows/wsl/install) (Windows Subsystem
+for Linux) to run the build script. If you're using a Mac or Linux, you can use
+the built-in terminal.
+
+> **Important!**  
+> In order to run the build script, you need to have
+> [Pandoc](https://pandoc.org/) installed. You can install it using your package
+> manager or by downloading it from the
+> [Pandoc website](https://pandoc.org/installing.html).
 
 For working with this repo in your own fork we recommend using VS Code, and the
 following extensions for a better editing experience:

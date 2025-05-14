@@ -1,3 +1,4 @@
+#!/usr/bin/bash
 echo "Building Lund University Open Source Pages"
 source src/krav/build.sh
 source src/pgk/build.sh
