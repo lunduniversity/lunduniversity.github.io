@@ -26,7 +26,7 @@ systemutveckling.
 
 Kursen har två föreläsningsserier: en för programmering och en för datorer och
 datoranvändning (dod). Programmeringsföreläsningarna är varje vecka genom hela
-kursen, medan dod-föreläsningarna är under de fyra första veckorna. 
+kursen, medan dod-föreläsningarna är under de fyra första veckorna.
 
 ## Länkar
 
@@ -37,7 +37,6 @@ kursen, medan dod-föreläsningarna är under de fyra första veckorna.
 - [Library introprog-scalalib](http://github.com/lunduniversity/introprog-scalalib)
 - [Ladok login](https://www.student.ladok.se/student/app/studentwebb/)
 - [Canvas Login](https://canvas.education.lu.se/courses/31677)
-
 
 ## Programmering (prog)
 
@@ -63,7 +62,8 @@ webbläsaren [Firefox](https://www.mozilla.org/en-US/firefox/all) med
 - Bilder med **rosa** bakgrund innehåller praktisk information som inte finns i
   [kompendiet](https://cs.lth.se/pgk/compendium/).
 
-- Kompilera veckans bilder direkt från GitHub (byt `w01` mot rätt vecka i adressen):
+- Kompilera veckans bilder direkt från GitHub (byt `w01` mot rätt vecka i
+  adressen):
   [`latexonline.cc/compile?git=https://github.com/lunduniversity/introprog&target=slides/lect-w01.tex&command=pdflatex`](https://latexonline.cc/compile?git=https://github.com/lunduniversity/introprog&target=slides/lect-w01.tex&command=pdflatex)
 
 ### Schema och innehåll (prog)
@@ -87,7 +87,6 @@ webbläsaren [Firefox](https://www.mozilla.org/en-US/firefox/all) med
 </script>
 <div id="result"></div>
 
-
 ### Litteratur (prog)
 
 - TODO: flytta [denna sida](https://cs.lth.se/pgk/litteratur/) hit
@@ -110,12 +109,21 @@ webbläsaren [Firefox](https://www.mozilla.org/en-US/firefox/all) med
 
 ## Datorer och datoranvändning (dod)
 
-| Vecka         | Förel     | Lab |
-|--------------|-----------|------------|
-| W01 | [Operativsystem](fileadmin/TODO)   | [`linux`](fileadmin/TODO)        |
-| W02 | [Versionshantering]()      | `git`        |
-| W03 | Typsättning      | `latex`        |
-| W04 | Maskinkod      | `c3pu`        |
+Detta är en modul i pgk-kursen som är tänkt som en introduktion till datorer och
+datoranvändning, både kortfattat på ett allmänt plan men i synnerhet med fokus
+på verktyg och metoder som används i kursen och i resten av utbildningen.
+
+Modulen går under de fyra första veckorna av kursen och innehåller en
+föreläsning och en laboration per vecka, med teman:
+
+<ul>
+  <li>Vecka 1: Operativsystem, Unix/Linux</li>
+  <li>Vecka 2: Versionshantering och kodlagring (git)</li>
+  <li>Vecka 3: Typsättning (LaTeX)</li>
+  <li>Vecka 4: Maskinkodsprogrammering</li>
+</ul>
+
+### Föreläsningar (dod)
 
 <script type="text/javascript">
   $(function(){
@@ -124,3 +132,9 @@ webbläsaren [Firefox](https://www.mozilla.org/en-US/firefox/all) med
   });
 </script>
 <div id="dod-lectures"></div>
+
+### Laborationer (dod)
+
+Laborationerna är en del av kursen och är obligatoriska.
+
+TODO

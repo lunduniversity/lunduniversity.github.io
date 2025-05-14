@@ -174,3 +174,8 @@ table tr:nth-child(even) {
 table tr:nth-child(odd) {
   background-color: #ffffff;
 }
+
+.small {
+  font-size: 90%;
+  font-style: italic;
+}
