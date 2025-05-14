@@ -1,8 +1,10 @@
 ## Links
 
-* Lund University official homepage: [English](https://www.lunduniversity.lu.se/), [Swedish](https://www.lu.se/)
-* Faculty of Engineering (LTH) official homepage: [English](https://www.lth.se/english/), [Swedish](https://www.lth.se/)
-* Source of this site: [github.com/lunduniversity/lunduniversity.github.io](https://github.com/lunduniversity/lunduniversity.github.io)
+* Wikipedia on Lund University: [en.wikipedia.org/wiki/Lund_University](https://en.wikipedia.org/wiki/Lund_University)
+* Official homepage of Lund University : [LU English](https://www.lunduniversity.lu.se/), [LU Swedish](https://www.lu.se/)
+* Wikipedia on Faculty of Engineering, LTH: [en.wikipedia.org/wiki/Faculty_of_Engineering,_Lund_University](https://en.wikipedia.org/wiki/Faculty_of_Engineering,_Lund_University)
+* Official homepage of Faculty of Engineering: [LTH English](https://www.lth.se/english/), [LTH Swedish](https://www.lth.se/)
+* Source code of this site: [github.com/lunduniversity/lunduniversity.github.io](https://github.com/lunduniversity/lunduniversity.github.io)
 
 ## Courses
 
