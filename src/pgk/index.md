@@ -24,6 +24,10 @@ använda datastrukturer och mycket annat. Det krävs inga förkunskaper i
 programmering. Kursen ger en solid grund för fortsatta studier i
 systemutveckling.
 
+Kursen har två föreläsningsserier: en för programmering och en för datorer och
+datoranvändning (dod). Programmeringsföreläsningarna är varje vecka genom hela
+kursen, medan dod-föreläsningarna är under de fyra första veckorna. 
+
 ## Länkar
 
 - [Schedule in TimeEdit](https://cs.lth.se/pgk/schema/timeedit/)
@@ -34,13 +38,15 @@ systemutveckling.
 - [Ladok login](https://www.student.ladok.se/student/app/studentwebb/)
 - [Canvas Login](https://canvas.education.lu.se/courses/31677)
 
-## Föreläsningar
 
-Kursen har två föreläsningsserier: en för programmering och en för datorer och
-datoranvändning (dod). Programmeringsföreläsningarna är varje vecka genom hela
-kursen, medan dod-föreläsningarna är under de fyra första veckorna. Mer. Mer!
+## Föreläsningar: Datorer och datoranvändning (dod)
 
-### Dod-föreläsningar
+| Vecka         | Förel     | Lab |
+|--------------|-----------|------------|
+| W01 | [Operativsystem](fileadmin/TODO)   | [`linux`](fileadmin/TODO)        |
+| W02 | [Versionshantering]()      | `git`        |
+| W03 | Typsättning      | `latex`        |
+| W04 | Maskinkod      | `c3pu`        |
 
 <script type="text/javascript">
   $(function(){
@@ -50,7 +56,9 @@ kursen, medan dod-föreläsningarna är under de fyra första veckorna. Mer. Mer
 </script>
 <div id="dod-lectures"></div>
 
-### Inspelade föreläsningar
+## Föreläsningar: Programmering (prog)
+
+### Inspelade programmeringsföreläsningar
 
 Inspelade föreläsningar från tidigare år:
 [https://cs.lth.se/pgk/youtube](https://cs.lth.se/pgk/youtube)
@@ -60,7 +68,7 @@ Men det är roligare lajv! Notera att vissa saker har ändrats, så dubbelkolla 
 webbläsaren [Firefox](https://www.mozilla.org/en-US/firefox/all) med
 [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/).
 
-### Föreläsningsbilder
+### Föreläsningsbilder programmering
 
 - Ladda ner föreläsningar per vecka:
   [https://fileadmin.cs.lth.se/pgk/lect-w01.pdf](https://fileadmin.cs.lth.se/pgk/lect-w01.pdf)
