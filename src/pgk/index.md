@@ -221,7 +221,7 @@ I filen [`tools.md`](https://github.com/lunduniversity/introprog/blob/master/web
 
 ## Koda online
 
-* Du kan skapa och köra Scala-program direkt i din webbläsare med här: 
+* Du kan skapa och köra Scala-program direkt i din webbläsare här: 
   * [scastie.scala-lang.org](https://scastie.scala-lang.org/kXwW4wXzQYaKpmyNtjXp4w)
 
 * Du kan skapa Scala-program som ritar med hjälp av en sköldpaddan här: 
