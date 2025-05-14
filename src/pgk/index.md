@@ -63,8 +63,8 @@ webbläsaren [Firefox](https://www.mozilla.org/en-US/firefox/all) med
 - Bilder med **rosa** bakgrund innehåller praktisk information som inte finns i
   [kompendiet](https://cs.lth.se/pgk/compendium/).
 
-- Kompilera veckans bilder direkt från GitHub (byt `w01` mot rätt vecka):
-  [latexonline.cc/compile...](https://latexonline.cc/compile?git=https://github.com/lunduniversity/introprog&target=slides/lect-w01.tex&command=pdflatex)
+- Kompilera veckans bilder direkt från GitHub (byt `w01` mot rätt vecka i adressen):
+  [`latexonline.cc/compile?git=https://github.com/lunduniversity/introprog&target=slides/lect-w01.tex&command=pdflatex`](https://latexonline.cc/compile?git=https://github.com/lunduniversity/introprog&target=slides/lect-w01.tex&command=pdflatex)
 
 ### Schema och innehåll (prog)
 
