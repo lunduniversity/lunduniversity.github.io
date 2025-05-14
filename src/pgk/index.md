@@ -30,7 +30,7 @@ kursen, medan dod-föreläsningarna är under de fyra första veckorna.
 
 ## Länkar
 
-- [Schedule in TimeEdit](https://cs.lth.se/pgk/schema/timeedit/)
+- [Schedule in TimeEdit 2025](https://cloud.timeedit.net/lu/web/lth1/ri19566250000YQQ28Z0507007y9Y4763gQ0g5X6Y65ZQ176.html)
 - [Course program](https://fileadmin.cs.lth.se/pgk/courseplan.pdf)
 - [Course compendium](https://cs.lth.se/pgk/kompendium/)
 - [Compendium open source](http://github.com/lunduniversity/introprog)
