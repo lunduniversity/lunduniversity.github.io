@@ -66,7 +66,7 @@ webbläsaren [Firefox](https://www.mozilla.org/en-US/firefox/all) med
 - Kompilera veckans bilder direkt från GitHub (byt `w01` mot rätt vecka):
   [latexonline.cc/compile...](https://latexonline.cc/compile?git=https://github.com/lunduniversity/introprog&target=slides/lect-w01.tex&command=pdflatex)
 
-### Schema (prog)
+### Schema och innehåll (prog)
 
 <script type="text/javascript">
   $(function(){
