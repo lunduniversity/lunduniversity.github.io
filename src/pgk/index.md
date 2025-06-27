@@ -196,11 +196,11 @@ I kursen ingår följande **obligatoriska** examinationsmoment:
 - **Projekt**: visa att du självständigt kan designa, implementera och felsöka ett större program.
 - **Muntligt prov**: visa att du har tillräcklig förståelse för kursens teori för att vara redo för efterföljande programmeringskurs. Godkända laborationer, projekt och muntligt prov ger betyg 3 på kursen. Du kan träna på muntliga provet med vår [muntabot](https://fileadmin.cs.lth.se/pgk/muntabot).
 
-Tentamen i januari är en *valfri* skrivning som kan ge överbetyg. Alla uppmuntras att tentera.
+Tentamen i januari är en *valfri* skrivning som kan ge överbetyg. **Alla uppmuntras att tentera**. För att få tentera krävs att alla obligatoriska moment är godkända. Tentamen skrivs med papper och penna och enda tillåtna hjälpmedel är [snabbreferensen](https://fileadmin.cs.lth.se/pgk/quickref.pdf).
 
 **Tidigare Scala-skrivningar:** 
 
-Från och med läsåret 2021/2022 är tentamen valfri för ev. överbetyg. Tentamina som gavs före läsåret 2021/2022 var obligatoriska och godkänt resultat krävdes för godkänd kurs. Kontrollskrivningen var en obl. övningstenta som gavs sista gången 2024.
+Från och med läsåret 2021/2022 är tentamen valfri för ev. överbetyg. Tentamina som gavs före läsåret 2021/2022 var obligatoriska och godkänt resultat krävdes för godkänd kurs. Kontrollskrivningen var en obl. övningstenta som gavs sista gången 2024 och omfattade endast kursens första läsperiod.
 
 - Tentamen 2025-01-08: **4-i-rad**   [skrivning i pdf](https://fileadmin.cs.lth.se/pgk/EDAA45-skrivning-2025jan08.pdf) och [lösning i pdf](https://fileadmin.cs.lth.se/pgk/EDAA45-losning-2025jan08.pdf)
 - Kontrollskrivning 2024-10-29: **Labbregister**  [skrivning.pdf](https://fileadmin.cs.lth.se/pgk/EDAA45-skrivning-2024okt29.pdf) och [lösning.pdf](https://fileadmin.cs.lth.se/pgk/EDAA45-losning-2024okt29.pdf)
