@@ -1,6 +1,6 @@
 body {
   margin: 1em auto;
-  padding: 1.5em;
+  padding: 2rem;
   max-width: min(90%, 60em);
   border: 1px solid rgba(214, 210, 196, .5);
   border-radius: 10px;
@@ -67,6 +67,43 @@ h1.title {
   padding-bottom: 0.2em;
   text-align: left;
   border: none;
+}
+
+/* main sections */
+#sec_about, #sec_links, #sec_prog, #sec_dod, #sec_tools, #sec_code_online, #sec_dictionary {
+  margin: 0 -2rem;
+  padding: 2rem;
+  border-top: 1px solid rgb(191, 184, 175);
+  border-bottom: 1px solid rgb(191, 184, 175);
+}
+
+#sec_about {
+  margin-top: 3em;
+  background-color: #f9f9f9;
+}
+
+#sec_links {
+  background-color: #eef6ff;
+}
+
+#sec_prog {
+  background-color: #fff4e6;
+}
+
+#sec_dod {
+  background-color: #f0f5e6;
+}
+
+#sec_tools {
+  background-color: #e8f4f8;
+}
+
+#sec_code_online {
+  background-color: #f6e8f8;
+}
+
+#sec_dictionary {
+  background-color: #f5f5f5;
 }
 
 dt code {
@@ -147,6 +184,7 @@ button a {
 
 table {
   border: 1px solid rgb(156, 97, 20);
+  border-bottom: 1px solid rgb(156, 97, 20);
   border-collapse: collapse;
   width: 100%;
   font-size: 1rem;
@@ -161,6 +199,10 @@ table th {
 table td {
   padding: 0.5em;
   border-bottom: 1px solid #ddd;
+}
+
+table tr:last-child td {
+  border-bottom: none;
 }
 
 table tr:hover {
@@ -178,4 +220,63 @@ table tr:nth-child(odd) {
 .small {
   font-size: 90%;
   font-style: italic;
+}
+
+.scroll-top {
+  position: fixed;
+  bottom: 20px;
+  right: 4%;
+  background-color: #333;
+  border: none;
+  border-radius: 50%;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.5);
+  transition: background-color 0.3s;
+  z-index: 1000;
+}
+
+.scroll-top:hover {
+  background-color: #555;
+}
+
+.scroll-top svg {
+  fill: white;
+}
+
+
+/* LU-guld ikon + neutral ljusgrå bakgrund */
+.scroll-top.svg-lu-gold {
+  background-color: rgb(244, 241, 235);
+  /* varm ljusbeige */
+}
+
+.scroll-top.svg-lu-gold:hover {
+  background-color: rgb(232, 229, 223);
+}
+
+.scroll-top.svg-lu-gold svg {
+  fill: rgb(206, 176, 138);
+}
+
+.scroll-top.svg-lu-gold:hover svg {
+  fill: rgb(156, 97, 20);
+}
+
+#section-indicator {
+  position: sticky;
+  top: 0;
+  background-color: rgba(244, 241, 235);
+  color: "black";
+  margin: 0 -4rem;
+  padding: 0.5em 3em;
+  /* font-weight: bold; */
+  font-size: 1.1rem;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.5);
+  z-index: 999;
+  display: none;
+  /* göm tills man scrollar */
 }

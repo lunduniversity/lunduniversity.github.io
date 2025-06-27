@@ -25,7 +25,13 @@
   <link rel="stylesheet" href="../style.css" />
 </head>
 <body>
-<p><a href="https://lunduniversity.github.io/"><img src="https://lunduniversity.github.io/img/logo.svg" alt="Lund University Logo"></a></p>
+<p id="top">
+  <a href="https://lunduniversity.github.io/"
+    ><img
+      src="https://lunduniversity.github.io/img/logo.svg"
+      alt="Lund University Logo"
+  /></a>
+</p>
 <header id="title-block-header">
 <h1 class="title">EDAB05 Programmering, grundkurs</h1>
 </header>
@@ -79,6 +85,81 @@ programmeringsverktyg</a></li>
     });
   }
 </script>
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const indicator = document.getElementById("section-indicator");
+  const headings = [...document.querySelectorAll("h2, h3")];
+
+  const current = {
+    h2: null,
+    h3: null,
+    h2id: null,
+    h3id: null,
+  };
+
+  const getHeadingLevel = el => el.tagName.toLowerCase();
+
+  const ensureId = (el) => {
+    if (!el.id) {
+      el.id = el.textContent.toLowerCase().replace(/\s+/g, '-').replace(/[^\w-]/g, '');
+    }
+    return el.id;
+  };
+
+  const updateIndicator = () => {
+    const scrollY = window.scrollY + 100; // lite marginal
+
+    current.h2 = null;
+    current.h3 = null;
+    current.h2id = null;
+    current.h3id = null;
+
+    for (const h of headings) {
+      if (scrollY >= h.offsetTop) {
+        const level = getHeadingLevel(h);
+        const id = ensureId(h);
+        if (level === 'h2') {
+          current.h2 = h.textContent;
+          current.h2id = id;
+          current.h3 = null;
+          current.h3id = null;
+        } else if (level === 'h3') {
+          current.h3 = h.textContent;
+          current.h3id = id;
+        }
+      } else {
+        break;
+      }
+    }
+
+    const parts = [];
+
+    // Kursakronym med länk till toppen
+    parts.push(`<a href="#top">pgk</a>`);
+
+    if (current.h2 && current.h2id) {
+      parts.push(`<a href="#${current.h2id}">${current.h2}</a>`);
+    }
+    if (current.h3 && current.h3id) {
+      parts.push(`<a href="#${current.h3id}">${current.h3}</a>`);
+    }
+
+    if (parts.length === 1) {
+      indicator.style.display = "none";
+    } else {
+      indicator.innerHTML = parts.join(" :: ");
+      indicator.style.display = "block";
+    }
+  };
+
+  window.addEventListener("scroll", updateIndicator);
+  updateIndicator(); // initialt
+});
+</script>
+<div id="section-indicator" aria-hidden="true">
+📌 Sektionstitel
+</div>
+<div id="sec_about">
 <h2 id="om-kursen">Om kursen</h2>
 <p><strong>Poäng</strong>: 10,5 hp.<br />
 <strong>Period</strong>: HT1-2 (lp1-2).<br />
@@ -98,6 +179,8 @@ fortsatta studier i systemutveckling.</p>
 och datoranvändning (dod). Programmering pågår varje vecka genom hela
 kursen, medan datorer och datoranvändning endast pågår under de fyra
 första veckorna.</p>
+</div>
+<div id="sec_links">
 <h2 id="länkar">Länkar</h2>
 <ul>
 <li><a
@@ -146,6 +229,8 @@ kursplan</a></li>
 href="https://fileadmin.cs.lth.se/pgk/courseplan.pdf">Översiktligt
 kursprogram</a></li>
 </ul>
+</div>
+<div id="sec_prog">
 <h2 id="programmering-prog">Programmering (prog)</h2>
 <h3 id="översikt-prog">Översikt (prog)</h3>
 <script type="text/javascript">
@@ -246,44 +331,8 @@ den officiella platsen för handledning om Java.</li>
 <li>TODO: flytta <a href="https://cs.lth.se/pgk/examination/">denna
 sida</a> hit</li>
 </ul>
-<h3 id="extra-bredvidläsning">Extra bredvidläsning</h3>
-<p>Kurskompendiet, som är fritt att ladda ner, definierar kursens
-innehåll och ordningen på materialet. Om du vill ha kompletterande
-kursmaterial som extra bredvidläsning rekommenderas nedan böcker. De
-finns tillgängliga via nätbokhandlare, t.ex. AdLibris. Tips om fler
-böcker finns här <a
-href="https://docs.scala-lang.org/books.html">docs.scala-lang.org/books.html</a></p>
-<ul>
-<li>Bredvidläsning för nybörjare:
-<ul>
-<li><strong>Introduction to Programming and Problem-Solving Using Scala,
-<a
-href="https://www.adlibris.com/se/bok/introduction-to-programming-and-problem-solving-using-scala-9781498730952">Second
-Edition</a></strong>, <em>Mark C. Lewis, Lisa Lacher</em> (2016). Denna
-bok täcker stora delar av kursen, men innehåller även en del material
-som ingår i senare LTH-kurser. Ordningen är ganska annorlunda, men det
-går bra att läsa boken i en annan ordning än den är skriven, men du får
-själv anpassa din läsning av denna bok efter pgk-kursens
-progression.</li>
-</ul></li>
-<li>Bredvidläsning för dig som redan programmerat en hel del i ett
-objektorienterat språk t.ex. Java el. C#:
-<ul>
-<li><strong>Programming in Scala, <a
-href="https://www.artima.com/shop/programming_in_scala_5ed">Fifth
-edition</a></strong>, Martin Odersky, Lex Spoon, and Bill Venners
-(2021). Martin Odersky är upphovspersonen bakom Scala och denna
-välskrivna bok innehåller en komplett genomgång av Scala-språket med
-många exempel och tips. ‘’Fifth Edition’’ täcker senaste versionen av
-Scala, version 3. Boken riktar sig till de som redan har kunskap om
-något objektorienterat språk, t.ex. Java. Boken följer inte kursens
-upplägg men det finns ett bra index som gör det lätt att anpassa din
-läsning efter kursens progression. Boken innehåller en hel del material
-som är på en mer avancerad nivå än pgk-kursen, men du kommer att ha stor
-nytta av innehållet i kommande kurser och när du fördjupar dig i
-Scala.</li>
-</ul></li>
-</ul>
+</div>
+<div id="sec_dod">
 <h2 id="datorer-och-datoranvändning-dod">Datorer och datoranvändning
 (dod)</h2>
 <p>I denna del lär du dig några viktiga programmeringsverktyg som
@@ -292,7 +341,7 @@ och 4 laborationer och går under kursens första 4 veckor. När du är
 godkänd på laborationerna får du 3hp som delresultat i Ladok.</p>
 <h3 id="operativsystem-dod">Operativsystem (dod)</h3>
 <ul>
-<li><strong>Läsning</strong>:
+<li><p><strong>Läsning</strong>:</p>
 <ul>
 <li><a
 href="https://fileadmin.cs.lth.se/pgk/compendium.pdf">Scalakompendium
@@ -300,7 +349,7 @@ href="https://fileadmin.cs.lth.se/pgk/compendium.pdf">Scalakompendium
 <li><a
 href="http://fileadmin.cs.lth.se/cs/Education/EDAA60/general/unix-x.pdf">Linuxkompendium</a></li>
 </ul></li>
-<li><strong>Föreläsningsbilder</strong>:
+<li><p><strong>Föreläsningsbilder</strong>:</p>
 <ul>
 <li><a
 href="https://fileadmin.cs.lth.se/cs/Education/EDAA60/lectures/2024/lecture0-intro-handout.pdf">PDF
@@ -312,7 +361,7 @@ Unix</a></li>
 href="https://fileadmin.cs.lth.se/cs/Education/EDAA60/lectures/2024/lecture1-menti.pdf">PDF
 Menti</a></li>
 </ul></li>
-<li><strong>Mera intressant</strong>:
+<li><p><strong>Mera intressant</strong>:</p>
 <ul>
 <li><a href="http://en.wikipedia.org/wiki/Linux">Wikipedia
 Linux</a></li>
@@ -320,76 +369,116 @@ Linux</a></li>
 <li><a href="https://github.com/RehanSaeed/Bash-Cheat-Sheet">Bash cheat
 sheet</a></li>
 </ul></li>
-<li><strong>Lab</strong>: <a href="TODO">TODO LINK</a></li>
+<li><p><strong>Lab</strong>:</p>
+<ul>
+<li><a
+href="http://fileadmin.cs.lth.se/cs/Education/EDAA60/labs/dodlabs.pdf">Laborationsuppgifter</a></li>
+<li><a
+href="http://fileadmin.cs.lth.se/cs/Education/EDAA60/labs/unix/example.txt">example.txt</a>
+(Fil som används i labben)</li>
+</ul></li>
 </ul>
 <h3 id="versionshantering-dod">Versionshantering (dod)</h3>
 <ul>
-<li>
-<strong>Läsning:</strong> <a
-      href="https://fileadmin.cs.lth.se/pgk/compendium.pdf"
-      target="_blank"
-      >Scalakompendium (Appendix G)</a
-    >, <a
-      href="https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV"
-      target="_blank"
-      >Git and GitHub for Poets (YouTube)</a
-    >, <a href="https://git-scm.com/book/en/v2" target="_blank"
-      >Pro Git (Chacon/Staub)</a
-    >
-</li>
-<li>
-<strong>Föreläsningsbilder:</strong> <a
-      href="https://fileadmin.cs.lth.se/cs/Education/EDAA60/lectures/2024/lecture-git-handout.pdf"
-      target="_blank"
-      >PDF, git</a
-    >
-</li>
-<li>
-<strong>Mera intressant:</strong>
+<li><p><strong>Läsning</strong>:</p>
 <ul>
-<li>
-<a href="https://git-scm.com" target="_blank"
-          >Git (git-scm.com)</a
-        >
-</li>
-<li>
-Git cheat sheets:
+<li><a
+href="https://fileadmin.cs.lth.se/pgk/compendium.pdf">Scalakompendium
+(Appendix G)</a></li>
+<li><a
+href="https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV">Git
+and GitHub for Poets (YouTube)</a></li>
+<li><a href="https://git-scm.com/book/en/v2">Pro Git
+(Chacon/Staub)</a></li>
+</ul></li>
+<li><p><strong>Föreläsningsbilder</strong>:</p>
 <ul>
-<li>
-<a
-              href="https://education.github.com/git-cheat-sheet-education.pdf"
-              target="_blank"
-              >GitHub</a
-            >
-</li>
-<li>
-<a
-              href="https://about.gitlab.com/images/press/git-cheat-sheet.pdf"
-              target="_blank"
-              >GitLab</a
-            >
-</li>
-<li>
-<a
-              href="https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet"
-              target="_blank"
-              >BitBucket</a
-            >
-</li>
-</ul>
-</li>
-<li>
-<a
-          href="https://fileadmin.cs.lth.se/cs/Education/EDAA60/lectures/2023/EDAF45-lab0-git-basics-v1.1.pdf"
-          target="_blank"
-          >EDAF45 Lab 0</a
-        >
-</li>
-</ul>
-</li>
+<li><a
+href="https://fileadmin.cs.lth.se/cs/Education/EDAA60/lectures/2024/lecture-git-handout.pdf">PDF
+Git</a></li>
+</ul></li>
+<li><p><strong>Mera intressant</strong>:</p>
+<ul>
+<li><a href="https://git-scm.com/">Git (officiell webbsida)</a></li>
+<li><a href="https://www.github.com/">GitHub</a></li>
+<li>Git cheat sheets
+<ul>
+<li><a
+href="https://education.github.com/git-cheat-sheet-education.pdf">GitHub</a></li>
+<li><a
+href="https://about.gitlab.com/images/press/git-cheat-sheet.pdf">GitLab</a></li>
+<li><a
+href="https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet">BitBucket</a></li>
+</ul></li>
+<li><a
+href="https://fileadmin.cs.lth.se/cs/Education/EDAA60/lectures/2024/EDAF45-lab0-git-basics-v1.1.pdf">EDAA45
+Lab 0</a> (<em>Kursen Programvaruutveckling i grupp (<code>pvg</code>)
+kommer ni läsa nästa år. Om ni vill lära er mer om Git kan ni redan nu
+göra dess <code>Lab 0</code>, som går igenom Git mer
+grundligt.</em>)</li>
+</ul></li>
+<li><p><strong>Lab</strong>:</p>
+<ul>
+<li><a
+href="http://fileadmin.cs.lth.se/cs/Education/EDAA60/labs/dodlabs.pdf">Laborationsuppgifter</a></li>
+</ul></li>
 </ul>
 <h3 id="typsättning-dod">Typsättning (dod)</h3>
+<ul>
+<li><p><strong>Läsning</strong>:</p>
+<ul>
+<li><a href="http://www.ddg.lth.se/perf/handledning/">LaTeX-kompendium
+(av Per Foreby)</a></li>
+<li><a
+href="http://fileadmin.cs.lth.se/cs/Education/EDAA60/general/unix-x.pdf">Linuxkompendium</a></li>
+</ul></li>
+<li><p><strong>Föreläsningsbilder</strong>:</p>
+<ul>
+<li><a
+href="https://fileadmin.cs.lth.se/cs/Education/EDAA60/lectures/2024/lecture-latex-handout.pdf">PDF
+LaTeX</a></li>
+</ul></li>
+<li><p><strong>Mera intressant</strong>:</p>
+<ul>
+<li><a href="http://www.overleaf.com/">Overleaf</a></li>
+<li><a href="http://en.wikipedia.org/wiki/LaTeX">Wikipedia
+LaTeX</a></li>
+<li><a href="http://www.tug.org/">TeX Users Grup</a></li>
+<li>LaTeX cheat sheet, t.ex. <a
+href="https://wch.github.io/latexsheet/">här</a></li>
+</ul></li>
+<li><p><strong>Lab</strong>:</p>
+<ul>
+<li><a
+href="http://fileadmin.cs.lth.se/cs/Education/EDAA60/labs/dodlabs.pdf">Laborationsuppgifter</a></li>
+<li><a
+href="http://fileadmin.cs.lth.se/cs/Education/EDAA60/labs/latex/rapportmall.tex">rapportmall.tex</a></li>
+<li><a
+href="http://fileadmin.cs.lth.se/cs/Education/EDAA60/labs/latex/rapporttext.txt">rapporttext.txt</a></li>
+<li><a
+href="https://fileadmin.cs.lth.se/cs/Education/EDAA60/labs/latex/NewtonRaphson.scala">NewtonRaphson.scala</a></li>
+<li><a
+href="http://fileadmin.cs.lth.se/cs/Education/EDAA60/labs/latex/nrbild.pdf">nrbuld.pdf</a></li>
+<li><a
+href="http://fileadmin.cs.lth.se/cs/Education/EDAA60/labs/latex/konvbild.pdf">konvbild.pdf</a></li>
+</ul></li>
+</ul>
 <h3 id="maskinkod-dod">Maskinkod (dod)</h3>
+<ul>
+<li><p><strong>Föreläsningsbilder</strong>:</p>
+<ul>
+<li><a
+href="https://fileadmin.cs.lth.se/cs/Education/EDAA60/lectures/2024/lecture-machine-code-handout.pdf">PDF
+Maskinkod</a></li>
+</ul></li>
+<li><p><strong>Lab</strong>:</p>
+<ul>
+<li><a
+href="http://fileadmin.cs.lth.se/cs/Education/EDAA60/labs/dodlabs.pdf">Laborationsuppgifter</a></li>
+<li><a
+href="https://github.com/lunduniversity/introprog-cpu-emulator/releases/latest">c3pu</a></li>
+</ul></li>
+</ul>
 <!--
 
 | Vecka         | Förel     | Lab |
@@ -408,6 +497,8 @@ Git cheat sheets:
 <div id="dod-lectures"></div>
 
 -->
+</div>
+<div id="sec_tools">
 <h2 id="installera-programmeringsverktyg">Installera
 programmeringsverktyg</h2>
 <p>I filen <a
@@ -421,19 +512,24 @@ egen dator</a>.</p>
 <li><a
 href="https://github.com/lunduniversity/introprog/blob/master/web/tools/tools.md">github.com/lunduniversity/introprog/blob/master/web/tools/tools.md</a></li>
 </ul>
+</div>
+<div id="sec_code_online">
 <h2 id="koda-online">Koda online</h2>
 <ul>
-<li>Du kan skapa och köra Scala-program direkt i din webbläsare här:
+<li><p>Du kan skapa och köra Scala-program direkt i din webbläsare
+här:</p>
 <ul>
 <li><a
 href="https://scastie.scala-lang.org/kXwW4wXzQYaKpmyNtjXp4w">scastie.scala-lang.org</a></li>
 </ul></li>
-<li>Du kan skapa Scala-program som ritar med hjälp av en sköldpaddan
-här:
+<li><p>Du kan skapa Scala-program som ritar med hjälp av en sköldpaddan
+här:</p>
 <ul>
 <li><a href="http://kojo.lu.se/">kojo.lu.se</a></li>
 </ul></li>
 </ul>
+</div>
+<div id="sec_dictionary">
 <h2 id="ordlista">Ordlista</h2>
 <ul>
 <li>I tabellen nedan finns de programmeringsbegrepp som används i
@@ -452,5 +548,9 @@ href="https://fileadmin.cs.lth.se/pgk/muntabot/#muntabot">muntabot</a></li>
 <div id="concepts-generated">
 
 </div>
+</div>
+<p><a href="#top" class="scroll-top svg-lu-gold" aria-label="Gå till toppen">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+<path d="M12 4l-8 8h5v8h6v-8h5z"/> </svg> </a></p>
 </body>
 </html>
