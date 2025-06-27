@@ -226,6 +226,10 @@ Kurskompendiet, som är fritt att ladda ner, definierar kursens innehåll och or
 
 * **Scala Times**: [nyhetsbrev om Scala](https://scalatimes.com)
 
+</div>
+
+<div id="sec_dod">
+
 ## Datorer och datoranvändning (dod)
 
 I denna del lär du dig några viktiga programmeringsverktyg som används i
@@ -321,25 +325,6 @@ du 3hp som delresultat i Ladok.
   - [Laborationsuppgifter](http://fileadmin.cs.lth.se/cs/Education/EDAA60/labs/dodlabs.pdf)
   - [c3pu](https://github.com/lunduniversity/introprog-cpu-emulator/releases/latest)
 
-<!--
-
-| Vecka         | Förel     | Lab |
-|--------------|-----------|------------|
-| W01 | [Operativsystem](fileadmin/TODO)   | [`linux`](fileadmin/TODO)        |
-| W02 | [Versionshantering]()      | `git`        |
-| W03 | Typsättning      | `latex`        |
-| W04 | Maskinkod      | `c3pu`        |
-
-<script type="text/javascript">
-  $(function(){
-    const uri = 'resources/dod-lectures.html';
-    loadContent(uri, '#dod-lectures');
-  });
-</script>
-<div id="dod-lectures"></div>
-
--->
-
 </div>
 
 <div id="sec_tools">
@@ -387,8 +372,23 @@ Här finns också tips när du ska
 
 </div>
 
+<div id="sec_contribute">
+## Bidra till kursen
+
+Om du vill bidra till kursen genom att rapportera fel eller föreslå
+förbättringar på denna webbsida kan du göra det genom att skapa en issue eller
+pull request, här:
+
+[https://github.com/lunduniversity/lunduniversity.github.io/tree/main/src/pgk](https://github.com/lunduniversity/lunduniversity.github.io/tree/main/src/pgk)
+
+Sidan är skriven i Markdown, och HTML-kod genereras genom att köra `./build.sh` 
+**i roten** av repot. Rot-skriptet anropar sedan `./build.sh` i varje
+underkatalog, inklusive denna.
+
+</div>
+
 <a href="#top" class="scroll-top svg-lu-gold" aria-label="Gå till toppen">
   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
-    <path d="M12 4l-8 8h5v8h6v-8h5z"/>
+    <path d="M12 4l-8 8h5v8h6v-8h5z" />
   </svg>
 </a>

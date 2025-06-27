@@ -39,11 +39,42 @@
 <ul>
 <li><a href="#om-kursen" id="toc-om-kursen">Om kursen</a></li>
 <li><a href="#länkar" id="toc-länkar">Länkar</a></li>
+<li><a href="#programmering-prog"
+id="toc-programmering-prog">Programmering (prog)</a>
+<ul>
+<li><a href="#översikt-prog" id="toc-översikt-prog">Översikt
+(prog)</a></li>
+<li><a href="#föreläsningar-prog"
+id="toc-föreläsningar-prog">Föreläsningar (prog)</a></li>
+<li><a href="#litteratur-prog" id="toc-litteratur-prog">Litteratur
+(prog)</a></li>
+<li><a href="#dokumentation-prog"
+id="toc-dokumentation-prog">Dokumentation (prog):</a></li>
+<li><a href="#examination-prog" id="toc-examination-prog">Examination
+(prog)</a></li>
+<li><a href="#extra-bredvidläsning-prog"
+id="toc-extra-bredvidläsning-prog">Extra bredvidläsning (prog)</a></li>
+</ul></li>
+<li><a href="#datorer-och-datoranvändning-dod"
+id="toc-datorer-och-datoranvändning-dod">Datorer och datoranvändning
+(dod)</a>
+<ul>
+<li><a href="#operativsystem-dod"
+id="toc-operativsystem-dod">Operativsystem (dod)</a></li>
+<li><a href="#versionshantering-dod"
+id="toc-versionshantering-dod">Versionshantering (dod)</a></li>
+<li><a href="#typsättning-dod" id="toc-typsättning-dod">Typsättning
+(dod)</a></li>
+<li><a href="#maskinkod-dod" id="toc-maskinkod-dod">Maskinkod
+(dod)</a></li>
+</ul></li>
 <li><a href="#installera-programmeringsverktyg"
 id="toc-installera-programmeringsverktyg">Installera
 programmeringsverktyg</a></li>
 <li><a href="#koda-online" id="toc-koda-online">Koda online</a></li>
 <li><a href="#ordlista" id="toc-ordlista">Ordlista</a></li>
+<li><a href="#bidra-till-kursen" id="toc-bidra-till-kursen">Bidra till
+kursen</a></li>
 </ul>
 </nav>
 <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
@@ -392,6 +423,8 @@ den beskriver gamla Scala 2 med delvis annorlunda syntax.</p></li>
 <li><p><strong>Scala Times</strong>: <a
 href="https://scalatimes.com">nyhetsbrev om Scala</a></p></li>
 </ul>
+</div>
+<div id="sec_dod">
 <h2 id="datorer-och-datoranvändning-dod">Datorer och datoranvändning
 (dod)</h2>
 <p>I denna del lär du dig några viktiga programmeringsverktyg som
@@ -538,24 +571,6 @@ href="http://fileadmin.cs.lth.se/cs/Education/EDAA60/labs/dodlabs.pdf">Laboratio
 href="https://github.com/lunduniversity/introprog-cpu-emulator/releases/latest">c3pu</a></li>
 </ul></li>
 </ul>
-<!--
-
-| Vecka         | Förel     | Lab |
-|--------------|-----------|------------|
-| W01 | [Operativsystem](fileadmin/TODO)   | [`linux`](fileadmin/TODO)        |
-| W02 | [Versionshantering]()      | `git`        |
-| W03 | Typsättning      | `latex`        |
-| W04 | Maskinkod      | `c3pu`        |
-
-<script type="text/javascript">
-  $(function(){
-    const uri = 'resources/dod-lectures.html';
-    loadContent(uri, '#dod-lectures');
-  });
-</script>
-<div id="dod-lectures"></div>
-
--->
 </div>
 <div id="sec_tools">
 <h2 id="installera-programmeringsverktyg">Installera
@@ -608,8 +623,20 @@ href="https://fileadmin.cs.lth.se/pgk/muntabot/#muntabot">muntabot</a></li>
 
 </div>
 </div>
+<div id="sec_contribute">
+<h2 id="bidra-till-kursen">Bidra till kursen</h2>
+<p>Om du vill bidra till kursen genom att rapportera fel eller föreslå
+förbättringar på denna webbsida kan du göra det genom att skapa en issue
+eller pull request, här:</p>
+<p><a
+href="https://github.com/lunduniversity/lunduniversity.github.io/tree/main/src/pgk">https://github.com/lunduniversity/lunduniversity.github.io/tree/main/src/pgk</a></p>
+<p>Sidan är skriven i Markdown, och HTML-kod genereras genom att köra
+<code>./build.sh</code> <strong>i roten</strong> av repot. Rot-skriptet
+anropar sedan <code>./build.sh</code> i varje underkatalog, inklusive
+denna.</p>
+</div>
 <p><a href="#top" class="scroll-top svg-lu-gold" aria-label="Gå till toppen">
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
-<path d="M12 4l-8 8h5v8h6v-8h5z"/> </svg> </a></p>
+<path d="M12 4l-8 8h5v8h6v-8h5z" /> </svg> </a></p>
 </body>
 </html>

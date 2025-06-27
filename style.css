@@ -70,7 +70,7 @@ h1.title {
 }
 
 /* main sections */
-#sec_about, #sec_links, #sec_prog, #sec_dod, #sec_tools, #sec_code_online, #sec_dictionary {
+#sec_about, #sec_links, #sec_prog, #sec_dod, #sec_tools, #sec_code_online, #sec_dictionary, #sec_contribute {
   margin: 0 -2rem;
   padding: 2rem;
   border-top: 1px solid rgb(191, 184, 175);
@@ -104,6 +104,9 @@ h1.title {
 
 #sec_dictionary {
   background-color: #f5f5f5;
+}
+#sec_contribute {
+  background-color: #ffeaea;
 }
 
 dt code {
