@@ -10,7 +10,7 @@
 
 Open source course pages at Lund University (alphabetical order):
 
-* [**Introduction to Programming in Scala**](pgk), 10.5 credits
+* [**Introduction to Programming using Scala**](pgk), 10.5 credits
   * Course code and formal plan: [EDAB05](https://kurser.lth.se/kursplaner/senaste/EDAB05.html) 
   * Course homepage: [lunduniversity.github.io/pgk/](pgk)
   * Course material: [introprog](https://github.com/lunduniversity/introprog)
