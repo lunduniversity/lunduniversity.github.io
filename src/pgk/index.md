@@ -334,8 +334,8 @@ På LTH:s [Linuxdatorer i E-huset](https://fileadmin.cs.lth.se/cs/Bilder/Salar/D
 
 - **Rekommenderad kodeditor:** VS Code startas med kommandot `code .`  
   (Tillägget `Scala Metals` är förinstallerat.)
-- **Scala REPL:** `scala` eller `scala repl .`
-- **Kompilera och kör:** `scala run .` eller `scala compile .`
+- **Scala REPL:** `scala` eller `scala repl .` (punkten på slutet inkluderar dina .scala-filer i aktuell katalog)
+- **Kompilera och kör:** `scala run .` eller `scala compile .` 
 - **Nybörjarvänlig utvecklingsmiljö Kojo:** `kojo`
 - **Byggverktyget Scala Build Tool:** `sbt`
 - **Java-kompilatorn:** `javac`
