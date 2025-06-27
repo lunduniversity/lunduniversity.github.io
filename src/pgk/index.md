@@ -145,18 +145,16 @@ datorer och datoranvändning endast pågår under de fyra första veckorna.
 ### Föreläsningar (prog)
 
 - Föreläsningsbilder (prog):
-  - Ladda ner föreläsningar per vecka:
-    [https://fileadmin.cs.lth.se/pgk/lect-w01.pdf](https://fileadmin.cs.lth.se/pgk/lect-w01.pdf)
-    (byt `w01` mot önskad vecka) eller klicka på länk i tabellen nedan.
-  - Ladda ner alla föreläsningar:
-    [https://cs.lth.se/pgk/allslides](https://cs.lth.se/pgk/allslides)
-  - Bilder med **rosa** bakgrund innehåller praktisk information som inte finns
-    i [kompendiet](https://cs.lth.se/pgk/compendium/).
+  - Ladda ner föreläsningsbilder *per vecka*:
+    [fileadmin.cs.lth.se/pgk/lect-w01.pdf](https://fileadmin.cs.lth.se/pgk/lect-w01.pdf)
+    (byt `w01` mot önskad vecka) eller klicka på länk i tabellen nedan. De flesta föreläsningsbilder finns även i [kompendiet](https://fileadmin.cs.lth.se/pgk/compendium.pdf) förutom bilder med **vacker rosa** bakgrund som innehåller praktisk eller flyktig information.
+  - Ladda ner *alla* föreläsningsbilder:
+    [fileadmin.cs.lth.se/pgk/all-lectures.pdf](https://fileadmin.cs.lth.se/pgk/all-lectures.pdf) 
   - Kompilera veckans bilder direkt från GitHub (byt `w01` mot rätt vecka i
     adressen, kan låååång tid om omkompilering krävs):
     [`latexonline.cc/compile?git=https://github.com/lunduniversity/introprog&target=slides/lect-w01.tex&command=pdflatex`](https://latexonline.cc/compile?git=https://github.com/lunduniversity/introprog&target=slides/lect-w01.tex&command=pdflatex)
-- Spellista med inspelade programmeringsföreläsningar från tidigare år på
-  [Björn Regnells youtube-kanal](https://www.youtube.com/watch?v=ayEFku9Re8k&list=PLEV42dlCGAJ-A-F15fVPcTNhHgO3VU7mc) **Men det är mycket roligare lajv!** Notera att vissa saker har ändrats, så dubbelkolla mot årets
+- Spellista med tidskodade programmeringsföreläsningar från pandemin finns på
+  [Björn Regnells youtube-kanal](https://www.youtube.com/watch?v=ayEFku9Re8k&list=PLEV42dlCGAJ-A-F15fVPcTNhHgO3VU7mc). **Men det är mycket roligare lajv!** Notera att det finns många saker som har ändrats, så dubbelkolla mot årets
   föreläsningsbilder nedan. För att minska övervakning och reklam, använd
   webbläsaren [Firefox](https://www.mozilla.org/en-US/firefox/all) med
   [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/).
@@ -186,23 +184,23 @@ Kurskompendiet är [öppen källkod](https://github.com/lunduniversity/introprog
 * [`scala-lang.org`](https://scala-lang.org) Scalas officiella hemsida.
 * [`scala-lang.org/api/current`](https://scala-lang.org/api/current/)  dokumentation av standarbiblioteket i Scala 3.
 * [`docs.scala-lang.org/`](https://docs.scala-lang.org/) den officiella platsen för handledning om Scala 3.
-* [Visual Scala reference](https://superruzafa.github.io/visual-scala-reference/) med illustrationer av metoderna i Scalas standardbibliotek.
+* [Visual Scala reference](https://superruzafa.github.io/visual-scala-reference/) med illustrationer av många funktioner i Scalas standardbibliotek.
 * [Java SE JDK dokumentation](https://docs.oracle.com/en/java/javase/21/docs/api/) av standarbiblioteket Java JDK.
 * [`docs.oracle.com/javase/tutorial`](https://docs.oracle.com/javase/tutorial/) den officiella platsen för handledning om Java.
-* [stackoverflow.com](http://stackoverflow.com/) frågor och svar om programmering.
 
 ### Examination (prog)
 
 I kursen ingår följande **obligatoriska** examinationsmoment:
 
 - **Laborationer**: lär dig teorin genom praktiskt arbete.
-- **Kontrollskrivning**: kontrollera vad du lärt dig efter halva kursen och träna på att tentera. Kontrollskrivningen är diagnostisk, kamraträttad, och kan ge samarbetsbonuspoäng. Enda tillåtna hjälpmedel är [snabbreferens](http://cs.lth.se/pgk/quickref). Ditt resultat påverkar inte om du blir godkänd på kursen eller ej.
 - **Projekt**: visa att du självständigt kan designa, implementera och felsöka ett större program.
-- **Muntligt prov**: visa att du har tillräcklig förståelse för kursens teori för att vara redo för efterföljande programmeringskurs. Godkända laborationer, projekt och muntligt prov ger betyg 3 på kursen. Du kan träna på muntliga provet med vår [muntabot](https://cs.lth.se/pgk/muntabot).
+- **Muntligt prov**: visa att du har tillräcklig förståelse för kursens teori för att vara redo för efterföljande programmeringskurs. Godkända laborationer, projekt och muntligt prov ger betyg 3 på kursen. Du kan träna på muntliga provet med vår [muntabot](https://fileadmin.cs.lth.se/pgk/muntabot).
+
+Tentamen i januari är en *valfri* skrivning som kan ge överbetyg. Alla uppmuntras att tentera.
 
 **Tidigare Scala-skrivningar:** 
 
-Från och med läsåret 2021/2022 är tentamen valfri för ev. överbetyg. Tentamina som gavs före läsåret 2021/2022 var obligatoriska och godkänt resultat krävdes för godkänd kurs. 
+Från och med läsåret 2021/2022 är tentamen valfri för ev. överbetyg. Tentamina som gavs före läsåret 2021/2022 var obligatoriska och godkänt resultat krävdes för godkänd kurs. Kontrollskrivningen var en obl. övningstenta som gavs sista gången 2024.
 
 - Tentamen 2025-01-08: **4-i-rad**   [skrivning i pdf](https://fileadmin.cs.lth.se/pgk/EDAA45-skrivning-2025jan08.pdf) och [lösning i pdf](https://fileadmin.cs.lth.se/pgk/EDAA45-losning-2025jan08.pdf)
 - Kontrollskrivning 2024-10-29: **Labbregister**  [skrivning.pdf](https://fileadmin.cs.lth.se/pgk/EDAA45-skrivning-2024okt29.pdf) och [lösning.pdf](https://fileadmin.cs.lth.se/pgk/EDAA45-losning-2024okt29.pdf)
