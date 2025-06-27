@@ -214,8 +214,6 @@ Från och med läsåret 2021/2022 är tentamen valfri för ev. överbetyg. Tenta
 - Tentamen 2022-01-08: **Allokering av granskare** [skrivning](https://fileadmin.cs.lth.se/pgk/EDAA45-exam-2022jan08.pdf), [lösning](https://fileadmin.cs.lth.se/pgk/EDAA45-exam-2022jan08-solution.pdf)
 
 
-
-
 ### Extra bredvidläsning (prog)
 
 Kurskompendiet, som är fritt att ladda ner, definierar kursens innehåll och ordningen på materialet. Om du vill ha kompletterande kursmaterial som extra bredvidläsning rekommenderas nedan böcker. De finns tillgängliga via nätbokhandlare, t.ex. AdLibris. Tips om fler böcker finns här [docs.scala-lang.org/books.html](https://docs.scala-lang.org/books.html)
@@ -328,21 +326,36 @@ du 3hp som delresultat i Ladok.
 </div>
 
 <div id="sec_tools">
-## Installera programmeringsverktyg
+## Verktyg
+
+### Verktyg på LTH:s studentdatorer
+
+På LTH:s [Linuxdatorer i E-huset](https://fileadmin.cs.lth.se/cs/Bilder/Salar/Datorsalar_E-huset.pdf) finns alla dessa verktyg förinstallerade:
+
+- **Rekommenderad kodeditor:** VS Code startas med kommandot `code .`  
+  (Tillägget `Scala Metals` är förinstallerat.)
+- **Scala REPL:** `scala` eller `scala repl .`
+- **Kompilera och kör:** `scala run .` eller `scala compile .`
+- **Nybörjarvänlig utvecklingsmiljö Kojo:** `kojo`
+- **Byggverktyget Scala Build Tool:** `sbt`
+- **Java-kompilatorn:** `javac`
+- **Exekveringsmiljön JVM med tillhörande utvecklingsbibliotek (OpenJDK):** `java`
+- **Utvecklingsmiljön IntelliJ IDEA med Scala-plugin:** `idea`
+
+Mer info om skolans datorer finns [här](https://www.lth.se/lthin/datorsalar/vaara-datorsalar/e-huset/), om hur du använder [Linux](http://fileadmin.cs.lth.se/cs/Education/EDAA60/general/unix-x.pdf) och [bash](https://github.com/RehanSaeed/Bash-Cheat-Sheet).
+
+### Installera verktyg på din egen dator
 
 I filen
-[`tools.md`](https://github.com/lunduniversity/introprog/blob/master/web/tools/tools.md)
-finns instruktioner om programmeringsverktyg som finns på LTH:s studentdatorer,
-och hur du installerar dessa verktyg på din egen dator för olika operativsystem.
+[`tools.md`](https://github.com/lunduniversity/introprog/blob/master/web/tools/tools.md#programmera-p%C3%A5-din-egen-dator)
+finns instruktioner om hur du installerar programmeringsverktyg på din egen dator för olika operativsystem.
 Här finns också tips när du ska
-[köpa egen dator](https://github.com/lunduniversity/introprog/blob/master/web/tools/tools.md#k%C3%B6pa-egen-dator).
+[köpa egen dator](https://github.com/lunduniversity/introprog/blob/master/web/tools/tools.md#k%C3%B6pa-egen-dator) och [tips vid krångel med ÅÄÖ i Windows-terminalen](https://github.com/lunduniversity/introprog/blob/master/web/encoding/char-encoding-windows.md).
 
 - [github.com/lunduniversity/introprog/blob/master/web/tools/tools.md](https://github.com/lunduniversity/introprog/blob/master/web/tools/tools.md)
+- [github.com/lunduniversity/introprog/blob/master/web/encoding/char-encoding-windows.md](https://github.com/lunduniversity/introprog/blob/master/web/encoding/char-encoding-windows.md)
 
-</div>
-
-<div id="sec_code_online">
-## Koda online
+### Koda online
 
 - Du kan skapa och köra Scala-program direkt i din webbläsare här:
 
