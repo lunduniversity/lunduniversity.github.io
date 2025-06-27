@@ -32,7 +32,7 @@ kursen, medan datorer och datoranvändning endast pågår under de fyra första 
   - [Kurskompendium Programmering end. lp1](https://fileadmin.cs.lth.se/pgk/compendium1.pdf) (ca 380 sidor, anpassad för papper)
   - [Kurskompendium Programmering end. lp2](https://fileadmin.cs.lth.se/pgk/compendium2.pdf) (ca 380 sidor, anpassad för papper)
   - [Öppen källkod för Kompendium Programmering](http://github.com/lunduniversity/introprog)
-  - [Kompendium Datorer och datoranvändning](TODO)
+  - [Kompendium Datorer och datoranvändning](https://fileadmin.cs.lth.se/cs/Education/EDAA60/labs/dodlabs.pdf)
 - [Snabbreferens](https://fileadmin.cs.lth.se/pgk/quickref.pdf)
 - Kodbibliotek `introprog-scalalib`:
   - [github.com/lunduniversity/introprog-scalalib](http://github.com/lunduniversity/introprog-scalalib)
@@ -88,13 +88,38 @@ webbläsaren [Firefox](https://www.mozilla.org/en-US/firefox/all) med
 
 ### Litteratur (prog)
 
-- TODO: flytta [denna sida](https://cs.lth.se/pgk/litteratur/) hit
+Kurskompendiet är [öppen källkod](https://github.com/lunduniversity/introprog/) och alla är välkomna att bidra enligt instruktioner i appendix i kompendiet. En tryckt version säljs till självkostnadspris via institutionen efter beställning på första föreläsningen.
 
+* **Kurskompendiet** i pdf: 
+  * [båda läsperioderna, anpassad för skärm](https://fileadmin.cs.lth.se/pgk/compendium.pdf)
+  * [läsperiod 1, anpassad för A4-papper](https://fileadmin.cs.lth.se/pgk/compendium1.pdf)
+  * [läsperiod 2, anpassad för A4-papper](https://fileadmin.cs.lth.se/pgk/compendium2.pdf)
+* **Snabbreferens** för Scala i pdf: [anpassad för A5-häfte](https://fileadmin.cs.lth.se/pgk/quickref.pdf) 
+* **Föreläsningsbilder** i pdf per vecka kan laddas ner här (byt `w01` mot önskad vecka): 
+  * [`fileadmin.cs.lth.se/pgk/lect-w01.pdf`](https://fileadmin.cs.lth.se/pgk/lect-w01.pdf) 
 
+### Dokumentation (prog):
+* [Scala-biblioteket `introprog-scalalib`](https://fileadmin.cs.lth.se/pgk/api) med bl.a. [`introprog.PixelWindow`](https://fileadmin.cs.lth.se/pgk/api/introprog/PixelWindow.html)
+* [`scala-lang.org`](https://scala-lang.org) Scalas officiella hemsida.
+* [`scala-lang.org/api/current`](https://scala-lang.org/api/current/)  dokumentation av standarbiblioteket i Scala 3.
+* [`docs.scala-lang.org/`](https://docs.scala-lang.org/) den officiella platsen för handledning om Scala 3.
+* [Visual Scala reference](https://superruzafa.github.io/visual-scala-reference/) med illustrationer av metoderna i Scalas standardbibliotek.
+* [Java SE JDK dokumentation](https://docs.oracle.com/en/java/javase/21/docs/api/) av standarbiblioteket Java JDK.
+* [`docs.oracle.com/javase/tutorial`](https://docs.oracle.com/javase/tutorial/) den officiella platsen för handledning om Java.
 
 ### Examination (prog)
 
 - TODO: flytta [denna sida](https://cs.lth.se/pgk/examination/) hit
+
+### Extra bredvidläsning
+
+Kurskompendiet, som är fritt att ladda ner, definierar kursens innehåll och ordningen på materialet. Om du vill ha kompletterande kursmaterial som extra bredvidläsning rekommenderas nedan böcker. De finns tillgängliga via nätbokhandlare, t.ex. AdLibris. Tips om fler böcker finns här [docs.scala-lang.org/books.html](https://docs.scala-lang.org/books.html)
+
+* Bredvidläsning för nybörjare: 
+  * **Introduction to Programming and Problem-Solving Using Scala, [Second Edition](https://www.adlibris.com/se/bok/introduction-to-programming-and-problem-solving-using-scala-9781498730952)**, *Mark C. Lewis, Lisa Lacher* (2016). Denna bok täcker stora delar av kursen, men innehåller även en del material som ingår i senare LTH-kurser. Ordningen är ganska annorlunda, men det går bra att läsa boken i en annan ordning än den är skriven, men du får själv anpassa din läsning av denna bok efter pgk-kursens progression.
+
+* Bredvidläsning för dig som redan programmerat en hel del i ett objektorienterat språk t.ex. Java el. C#: 
+  * **Programming in Scala, [Fifth edition](https://www.artima.com/shop/programming_in_scala_5ed)**, Martin Odersky, Lex Spoon, and Bill Venners (2021). Martin Odersky är upphovspersonen bakom Scala och denna välskrivna bok innehåller en komplett genomgång av Scala-språket med många exempel och tips. ''Fifth Edition'' täcker senaste versionen av Scala, version 3. Boken riktar sig till de som redan har kunskap om något objektorienterat språk, t.ex. Java. Boken följer inte kursens upplägg men det finns ett bra index som gör det lätt att anpassa din läsning efter kursens progression. Boken innehåller en hel del material som är på en mer avancerad nivå än pgk-kursen, men du kommer att ha stor nytta av innehållet i kommande kurser och när du fördjupar dig i Scala.
 
 ## Datorer och datoranvändning (dod)
 
