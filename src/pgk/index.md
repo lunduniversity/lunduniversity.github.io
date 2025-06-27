@@ -190,10 +190,31 @@ Kurskompendiet är [öppen källkod](https://github.com/lunduniversity/introprog
 * [Visual Scala reference](https://superruzafa.github.io/visual-scala-reference/) med illustrationer av metoderna i Scalas standardbibliotek.
 * [Java SE JDK dokumentation](https://docs.oracle.com/en/java/javase/21/docs/api/) av standarbiblioteket Java JDK.
 * [`docs.oracle.com/javase/tutorial`](https://docs.oracle.com/javase/tutorial/) den officiella platsen för handledning om Java.
+* [stackoverflow.com](http://stackoverflow.com/) frågor och svar om programmering.
 
 ### Examination (prog)
 
-- TODO: flytta [denna sida](https://cs.lth.se/pgk/examination/) hit
+I kursen ingår följande **obligatoriska** examinationsmoment:
+
+- **Laborationer**: lär dig teorin genom praktiskt arbete.
+- **Kontrollskrivning**: kontrollera vad du lärt dig efter halva kursen och träna på att tentera. Kontrollskrivningen är diagnostisk, kamraträttad, och kan ge samarbetsbonuspoäng. Enda tillåtna hjälpmedel är [snabbreferens](http://cs.lth.se/pgk/quickref). Ditt resultat påverkar inte om du blir godkänd på kursen eller ej.
+- **Projekt**: visa att du självständigt kan designa, implementera och felsöka ett större program.
+- **Muntligt prov**: visa att du har tillräcklig förståelse för kursens teori för att vara redo för efterföljande programmeringskurs. Godkända laborationer, projekt och muntligt prov ger betyg 3 på kursen. Du kan träna på muntliga provet med vår [muntabot](https://cs.lth.se/pgk/muntabot).
+
+**Tidigare Scala-skrivningar:** 
+
+Från och med läsåret 2021/2022 är tentamen valfri för ev. överbetyg. Tentamina som gavs före läsåret 2021/2022 var obligatoriska och godkänt resultat krävdes för godkänd kurs. 
+
+- Tentamen 2025-01-08: **4-i-rad**   [skrivning i pdf](https://fileadmin.cs.lth.se/pgk/EDAA45-skrivning-2025jan08.pdf) och [lösning i pdf](https://fileadmin.cs.lth.se/pgk/EDAA45-losning-2025jan08.pdf)
+- Kontrollskrivning 2024-10-29: **Labbregister**  [skrivning.pdf](https://fileadmin.cs.lth.se/pgk/EDAA45-skrivning-2024okt29.pdf) och [lösning.pdf](https://fileadmin.cs.lth.se/pgk/EDAA45-losning-2024okt29.pdf)
+- Tentamen 2024-01-04: **Finns i sjön**  [skrivning i pdf](https://fileadmin.cs.lth.se/pgk/EDAA45-skrivning-2024jan04.pdf), och [lösning i pdf](https://fileadmin.cs.lth.se/pgk/EDAA45-losning-2024jan04.pdf)
+- Kontrollskrivning 2023-10-25 **ModuloCounter, Gruppindelning**  [skrivning i pdf](https://fileadmin.cs.lth.se/pgk/EDAA45-skrivning-2023okt25.pdf), [bedömningsmall i pdf](https://fileadmin.cs.lth.se/pgk/EDAA45-losning-2023okt25.pdf)
+- Tentamen 2023-01-07: **Bubblor**  [skrivning i pdf](https://fileadmin.cs.lth.se/pgk/EDAA45-skrivning-2023jan07.pdf), [bedömningsmall i pdf](https://fileadmin.cs.lth.se/pgk/EDAA45-losning-2023jan07.pdf)
+- Kontrollskrivning 2022-10-26: **Sänka skepp** [skrivning i pdf](https://fileadmin.cs.lth.se/pgk/EDAA45-skrivning-2022okt26.pdf), [bedömningsmall i pdf](https://fileadmin.cs.lth.se/pgk/EDAA45-losning-2022okt26.pdf)
+- Tentamen 2022-01-08: **Allokering av granskare** [skrivning](https://fileadmin.cs.lth.se/pgk/EDAA45-exam-2022jan08.pdf), [lösning](https://fileadmin.cs.lth.se/pgk/EDAA45-exam-2022jan08-solution.pdf)
+
+
+
 
 ### Extra bredvidläsning (prog)
 
@@ -201,7 +222,9 @@ Kurskompendiet, som är fritt att ladda ner, definierar kursens innehåll och or
 
 * **Introduction to Programming and Problem-Solving Using Scala, [Second Edition](https://www.adlibris.com/se/bok/introduction-to-programming-and-problem-solving-using-scala-9781498730952)**, *Mark C. Lewis, Lisa Lacher* (2016). Lärobok i programmering för nybörjare på universitetsnivå. Denna bok täcker stora delar av kursen, men innehåller även material som ingår i senare LTH-kurser. Ordningen är ganska annorlunda, men det går bra att läsa boken i en annan ordning än den är skriven, men du får själv anpassa din läsning av denna bok efter pgk-kursens progression.
 
-* **Programming in Scala, [Fifth edition](https://www.artima.com/shop/programming_in_scala_5ed)**, Martin Odersky, Lex Spoon, and Bill Venners (2021). Lämplig för dig som redan programmerat en hel del i ett objektorienterat språk t.ex. Java eller C#. Martin Odersky är upphovspersonen bakom Scala och denna välskrivna bok innehåller en komplett genomgång av Scala-språket med många exempel och tips. Boken följer inte kursens upplägg men det finns ett bra index som gör det lätt att anpassa din läsning efter kursens progression. Boken innehåller en hel del material som är på en mer avancerad nivå, men du kommer att ha nytta av innehållet inför kommande kurser.
+* **Programming in Scala, [Fifth edition](https://www.artima.com/shop/programming_in_scala_5ed)**, Martin Odersky, Lex Spoon, and Bill Venners (2021). Lämplig för dig som redan programmerat en hel del i ett objektorienterat språk t.ex. Java eller C#. Författaren Martin Odersky är upphovspersonen bakom Scala. Denna välskrivna bok innehåller en grundlig genomgång av Scala-språket med många exempel och tips. Boken följer inte kursens upplägg men det finns ett bra index som gör det lätt att anpassa din läsning efter kursens progression. Boken innehåller en hel del material som är på en mer avancerad nivå, men du kommer att ha nytta av innehållet inför kommande kurser. Den första utgåvan är tillgänglig öppet via [www.artima.com/pins1ed](http://www.artima.com/pins1ed/), men den beskriver gamla Scala 2 med delvis annorlunda syntax.
+
+* **Scala Times**: [nyhetsbrev om Scala](https://scalatimes.com)
 
 ## Datorer och datoranvändning (dod)
 
