@@ -155,9 +155,8 @@ datorer och datoranvändning endast pågår under de fyra första veckorna.
   - Kompilera veckans bilder direkt från GitHub (byt `w01` mot rätt vecka i
     adressen, kan låååång tid om omkompilering krävs):
     [`latexonline.cc/compile?git=https://github.com/lunduniversity/introprog&target=slides/lect-w01.tex&command=pdflatex`](https://latexonline.cc/compile?git=https://github.com/lunduniversity/introprog&target=slides/lect-w01.tex&command=pdflatex)
-- Inspelade föreläsningar (prog) från tidigare år:
-  [https://cs.lth.se/pgk/youtube](https://cs.lth.se/pgk/youtube) Men det är
-  roligare lajv! Notera att vissa saker har ändrats, så dubbelkolla mot årets
+- Spellista med inspelade programmeringsföreläsningar från tidigare år på
+  [Björn Regnells youtube-kanal](https://www.youtube.com/watch?v=ayEFku9Re8k&list=PLEV42dlCGAJ-A-F15fVPcTNhHgO3VU7mc) **Men det är mycket roligare lajv!** Notera att vissa saker har ändrats, så dubbelkolla mot årets
   föreläsningsbilder nedan. För att minska övervakning och reklam, använd
   webbläsaren [Firefox](https://www.mozilla.org/en-US/firefox/all) med
   [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/).
