@@ -376,14 +376,15 @@ Här finns också tips när du ska
 ## Bidra till kursen
 
 Om du vill bidra till kursen genom att rapportera fel eller föreslå
-förbättringar på denna webbsida kan du göra det genom att skapa en issue eller
-pull request, här:
+förbättringar kan du göra det genom att skapa ärende (issue) och bidrag (pull request), här:
 
-[https://github.com/lunduniversity/lunduniversity.github.io/tree/main/src/pgk](https://github.com/lunduniversity/lunduniversity.github.io/tree/main/src/pgk)
+* Bidra till kompendiet: [`github.com/lunduniversity/introprog`](https://github.com/lunduniversity/introprog)
+* Bidra till kodbiblioteket: [`github.com/lunduniversity/introprog-scalalib`](https://github.com/lunduniversity/introprog-scalalib)
+* Bidra till dod-labbar: [`github.com/lunduniversity/introprog-computer-intro`](https://github.com/lunduniversity/introprog-computer-intro)
+* Bidra till CPU-emulator: [`github.com/lunduniversity/introprog-cpu-emulator`](https://github.com/lunduniversity/introprog-cpu-emulator)
+* Bidrag till denna hemsida: [`github.com/lunduniversity/lunduniversity.github.io/tree/main/src/pgk`](https://github.com/lunduniversity/lunduniversity.github.io/tree/main/src/pgk)
 
-Sidan är skriven i Markdown, och HTML-kod genereras genom att köra `./build.sh` 
-**i roten** av repot. Rot-skriptet anropar sedan `./build.sh` i varje
-underkatalog, inklusive denna.
+  * Denna sidan är skriven i Markdown, och HTML-kod genereras genom att köra `./build.sh` **i roten** av repot. Rot-skriptet anropar i sin tur `./build.sh` i varje underkatalog, inklusive denna.
 
 </div>
 
