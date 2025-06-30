@@ -85,12 +85,13 @@ document.addEventListener("DOMContentLoaded", () => {
 <div id="sec_about">
 ## Om kursen
 
-**Poäng**: 10,5 hp.  
-**Period**: HT1-2 (lp1-2).  
-**Kursplan**: [EDAB05](https://kurser.lth.se/kursplaner/senaste/EDAB05.html).  
-**Kursansvarig**: [Björn Regnell](../bjornregnell)  
-**Biträdande kursansvarig**:
-[Mattias Nordahl](https://cs.lth.se/nordahl-mattias/)
+* **Namn**: Programmering, grundkurs (Scala)
+* **Poäng**: 10,5 högskolepoäng
+* **Period**: höstterminen läsperiod 1 och 2
+* **Schema**: [TimeEdit](https://cloud.timeedit.net/lu/web/lth1/ri19566250000YQQ28Z0507007y9Y4763gQ0g5X6Y65ZQ176.html)
+* **Kursplan**: [EDAB05-sv](https://kurser.lth.se/kursplaner/senaste/EDAB05.html), [EDAB05-en](https://kurser.lth.se/kursplaner/senaste-en/EDAB05.html)
+* **Kursansv.**: [Björn Regnell](../bjornregnell)  
+* **Bitr. kursansv.**: [Mattias Nordahl](https://cs.lth.se/nordahl-mattias/)
 
 Kursen omfattar grundläggande programmeringsprinciper och datavetenskapliga
 begrepp. Du lär dig programmeringsspråket [Scala](https://www.scala-lang.org/),
@@ -98,9 +99,24 @@ att konstruera algoritmer, att använda datastrukturer, programmeringsverktyg oc
 mycket annat. Det krävs inga förkunskaper i programmering. Kursen ger en solid
 grund för fortsatta studier i systemutveckling.
 
-Kursen har två delar: en för programmering (prog) och en för datorer och
-datoranvändning (dod). Programmering pågår varje vecka genom hela kursen, medan
-datorer och datoranvändning endast pågår under de fyra första veckorna.
+Kursen har två delar: en för programmering (*prog*) och en för datorer och
+datoranvändning (*dod*). Programmeringsdelen pågår varje vecka genom hela kursen, medan
+datorer-och-datoranvändningsdelen endast pågår under de fyra första veckorna.
+
+Kursen gavs för första gången 2016. Här presenteras kursens ursprungliga pedagogiska idé samt erfarenheter från kursens tre första år: [Bilder](https://github.com/bjornregnell/scala-first-lessons) och [video (mp4)](https://fileadmin.cs.lth.se/pgk/scala-first-lessons.mp4).
+
+### Information till äldre studenter
+
+* Kursen EDAB05 ersätter från och med HT2025 de båda kurserna EDAA45 och EDAA60. 
+
+* Examinationen ändras från och med HT2021. Äldre studenter följer nya examinationsformen från och med HT2021. Sista omtentan enligt gamla examinationsformen gavs 2021-08-17.
+
+* Från HT2021 läser även C-programmet denna kurs som sin första programmeringskurs. Välkomna! Äldre C-are, se övergångsregler för [nedlagda java-grundkurser](https://cs.lth.se/javagrundkurser/).
+
+### Information till programbytare
+
+* Studenter som byter från annat program till C eller D och redan har läst en programmeringskurs på universitetsnivå omfattande minst 7,5 hp kan ansöka om att tillgodoräkna prog-delen och bara delta i dod-delen, men även de med förkunskaper kan ha stor nytta av *hela* denna grundkurs på 10,5 hp som är specialanpassad för C och D och innehåller stora möjligheter till fördjupning. Kontakta [studievägledare](https://www.student.lth.se/stoed-och-service/studievaegledning/) för vidare information.
+
 
 </div>
 
@@ -127,6 +143,8 @@ datorer och datoranvändning endast pågår under de fyra första veckorna.
 - [Ladok Login för studenter](https://www.student.ladok.se/student/app/studentwebb/)
 - [Formell kursplan](https://kurser.lth.se/kursplaner/senaste/EDAB05.html)
 - [Översiktligt kursprogram](https://fileadmin.cs.lth.se/pgk/courseplan.pdf)
+- Senaste kursutvärdering (begr. access): [CEQ prog (tidigare EDAA45) 2024](https://www.ceq.lth.se/rapporter/ceq/2024_HT/LP2/EDAA45_2024_HT_LP2_slutrapport.html), [CEQ dod (tidigare EDAA60) 2024](https://www.ceq.lth.se/rapporter/ceq/2024_HT/LP1/EDAA60_2024_HT_LP1_slutrapport.html)
+
 </div>
 
 <div id="sec_prog">
