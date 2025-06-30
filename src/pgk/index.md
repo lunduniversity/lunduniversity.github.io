@@ -103,7 +103,7 @@ Kursen har två delar: en för programmering (*prog*) och en för datorer och
 datoranvändning (*dod*). Programmeringsdelen pågår varje vecka genom hela kursen, medan
 datorer-och-datoranvändningsdelen endast pågår under de fyra första veckorna.
 
-Kursen gavs för första gången 2016. Här presenteras kursens ursprungliga pedagogiska idé samt erfarenheter från kursens tre första år: [Bilder](https://github.com/bjornregnell/scala-first-lessons) och [video (mp4)](https://fileadmin.cs.lth.se/pgk/scala-first-lessons.mp4).
+Kursen gavs för första gången 2016, då med gamla kurskoden EDAA45. Här presenteras kursens ursprungliga pedagogiska idé samt **erfarenheter från kursens tre första år**: [Bilder](https://github.com/bjornregnell/scala-first-lessons) och [video (mp4)](https://fileadmin.cs.lth.se/pgk/scala-first-lessons.mp4).
 
 ### Information till äldre studenter
 
