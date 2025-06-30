@@ -88,6 +88,7 @@ document.addEventListener("DOMContentLoaded", () => {
 * **Namn**: Programmering, grundkurs (Scala)
 * **Poäng**: 10,5 högskolepoäng
 * **Period**: höstterminen läsperiod 1 och 2
+* **LTH-program:**: Obligatorisk för [Infocom (C)](https://kurser.lth.se/lot/programme?programme=C) och [Datateknik (D)](https://kurser.lth.se/lot/programme?programme=D)
 * **Upprop**: Måndagen den 1 september kl 13:15 i [E:A](https://fileadmin.cs.lth.se/cs/Bilder/Salar/EA.pdf)
 * **Schema**: [TimeEdit](https://cloud.timeedit.net/lu/web/lth1/ri19566250000YQQ28Z0507007y9Y4763gQ0g5X6Y65ZQ176.html)
 * **Kursplan**: [EDAB05-sv](https://kurser.lth.se/kursplaner/senaste/EDAB05.html), [EDAB05-en](https://kurser.lth.se/kursplaner/senaste-en/EDAB05.html)
@@ -104,7 +105,7 @@ Kursen har två delar: en för programmering (*prog*) och en för datorer och
 datoranvändning (*dod*). Programmeringsdelen pågår varje vecka genom hela kursen, medan
 datorer-och-datoranvändningsdelen endast pågår under de fyra första veckorna.
 
-Programmeringsdelen gavs för första gången 2016. Här presenteras den pedagogiska idén samt **erfarenheter från kursens tre första år**: [Bilder](https://github.com/bjornregnell/scala-first-lessons) och [video (mp4)](https://fileadmin.cs.lth.se/pgk/scala-first-lessons.mp4). Presentationen gavs på konferensen Scala Days 2019 i Lusanne.
+Programmeringsdelen gavs för första gången 2016 för D-programmet. Här presenteras den pedagogiska idén samt **erfarenheter från kursens tre första år**: [Bilder](https://github.com/bjornregnell/scala-first-lessons) och [video (mp4)](https://fileadmin.cs.lth.se/pgk/scala-first-lessons.mp4). Presentationen gavs på konferensen *Scala Days* 2019 i Lusanne.
 
 *Information till äldre studenter:*
 
