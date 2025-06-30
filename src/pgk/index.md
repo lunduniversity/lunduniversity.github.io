@@ -85,6 +85,8 @@ document.addEventListener("DOMContentLoaded", () => {
 <div id="sec_about">
 ## Om kursen
 
+### Kursfakta
+
 * **Namn**: Programmering, grundkurs (Scala)
 * **Poäng**: 10,5 högskolepoäng
 * **Period**: höstterminen läsperiod 1 och 2
@@ -95,27 +97,29 @@ document.addEventListener("DOMContentLoaded", () => {
 * **Kursansv.**: [Björn Regnell](../bjornregnell)  
 * **Bitr. kursansv.**: [Mattias Nordahl](https://cs.lth.se/nordahl-mattias/)
 
+### Översikt
+
 Kursen omfattar grundläggande programmeringsprinciper och datavetenskapliga
 begrepp. Du lär dig programmeringsspråket [Scala](https://www.scala-lang.org/),
 att konstruera algoritmer, att använda datastrukturer, programmeringsverktyg och
 mycket annat. Det krävs inga förkunskaper i programmering. Kursen ger en solid
 grund för fortsatta studier i systemutveckling.
 
-Kursen har två delar: en för programmering (*prog*) och en för datorer och
-datoranvändning (*dod*). Prog-delen pågår under alla kursens 14 läsveckor, medan
+Kursen har två delar: en för programmering ([*prog*](#programmering-prog) och en för datorer och
+datoranvändning ([*dod*](#datorer-och-datoranvändning-dod)). Prog-delen pågår under alla kursens 14 läsveckor, medan
 dod-delen endast pågår under de fyra första veckorna.
 
 Prog-delen gavs för första gången 2016 för D-programmet. Här presenteras den pedagogiska idén samt **erfarenheter från kursens tre första år**: [Bilder](https://github.com/bjornregnell/scala-first-lessons) och [video (mp4)](https://fileadmin.cs.lth.se/pgk/scala-first-lessons.mp4). Presentationen gavs på konferensen *Scala Days* 2019 i Lusanne.
 
 <iframe width="425" height="240" src="https://www.youtube.com/embed/ii_sC1TfpZY" title="Scala First Lessons from 3 student generations - Björn Regnell" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-*Information till äldre studenter:*
+### Information till äldre studenter
 
 * Kursen EDAB05 ersätter från och med HT2025 de båda kurserna EDAA45 och EDAA60. 
-* Examinationen ändras från och med HT2021. Äldre studenter följer nya examinationsformen från och med HT2021. Sista omtentan enligt gamla examinationsformen gavs 2021-08-17.
-* Från HT2021 läser även C-programmet denna kurs som sin första programmeringskurs. 
+* Examinationen ändrades från och med HT2021 då tentan blev valfri och ett muntligt prov infördes. Äldre studenter följer nya examinationsformen. Kontakta kursanvarig för mer information.
+* Från HT2021 läser även C-programmet denna kurs som sin första programmeringskurs. Äldre C-studenter: kontakta [studievägledare](https://www.student.lth.se/stoed-och-service/studievaegledning/) för mer information.
 
-*Information till programbytare:*
+### Information till programbytare
 
 * Studenter som byter från annat program till C eller D och redan har läst en programmeringskurs på universitetsnivå omfattande minst 7,5 hp kan ansöka om att tillgodoräkna prog-delen och bara delta i dod-delen, men även de med formella förkunskaper kan ha stor nytta av *hela* denna grundkurs på 10,5 hp som är specialanpassad för C och D och innehåller stora möjligheter till fördjupning. 
 * Kontakta [studievägledare](https://www.student.lth.se/stoed-och-service/studievaegledning/) för mer information om ansökan om tillgodoräknande.
@@ -245,6 +249,8 @@ Kurskompendiet, som är fritt att ladda ner, definierar kursens innehåll och pr
 <div id="sec_dod">
 
 ## Datorer och datoranvändning (dod)
+
+### Översikt (dod)
 
 I denna del lär du dig några viktiga programmeringsverktyg som används i
 professionell systemutveckling. Dod omfattar 4 föreläsningar och 4 laborationer
