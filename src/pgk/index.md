@@ -232,13 +232,11 @@ Från och med läsåret 2021/2022 är tentamen valfri för ev. överbetyg. Tenta
 
 ### Extra bredvidläsning (prog)
 
-Kurskompendiet, som är fritt att ladda ner, definierar kursens innehåll och ordningen på materialet. Om du vill ha kompletterande kursmaterial som extra bredvidläsning rekommenderas nedan böcker. De finns tillgängliga via nätbokhandlare, t.ex. AdLibris. Tips om fler böcker finns här [docs.scala-lang.org/books.html](https://docs.scala-lang.org/books.html)
+Kurskompendiet, som är fritt att ladda ner, definierar kursens innehåll och progression. Om du vill ha kompletterande kursmaterial som extra bredvidläsning rekommenderas nedan böcker. Tips om fler böcker finns [här](https://docs.scala-lang.org/books.html).
 
-* **Introduction to Programming and Problem-Solving Using Scala, [Second Edition](https://www.adlibris.com/se/bok/introduction-to-programming-and-problem-solving-using-scala-9781498730952)**, *Mark C. Lewis, Lisa Lacher* (2016). Lärobok i programmering för nybörjare på universitetsnivå. Denna bok täcker stora delar av kursen, men innehåller även material som ingår i senare LTH-kurser. Ordningen är ganska annorlunda, men det går bra att läsa boken i en annan ordning än den är skriven, men du får själv anpassa din läsning av denna bok efter pgk-kursens progression.
+* **Introduction to Programming and Problem-Solving Using Scala, [Second Edition](https://www.adlibris.com/se/bok/introduction-to-programming-and-problem-solving-using-scala-9781498730952)**, *Mark C. Lewis, Lisa Lacher* (2016). Lärobok i programmering för nybörjare på universitetsnivå. Denna bok täcker stora delar av kursen, men innehåller även material som ingår i senare LTH-kurser. Ordningen är ganska annorlunda, men det går bra att läsa boken i en annan ordning än den är skriven - du får själv anpassa din läsning av denna bok efter pgk-kursens progression.
 
 * **Programming in Scala, [Fifth edition](https://www.artima.com/shop/programming_in_scala_5ed)**, Martin Odersky, Lex Spoon, and Bill Venners (2021). Lämplig för dig som redan programmerat en hel del i ett objektorienterat språk t.ex. Java eller C#. Författaren Martin Odersky är upphovspersonen bakom Scala. Denna välskrivna bok innehåller en grundlig genomgång av Scala-språket med många exempel och tips. Boken följer inte kursens upplägg men det finns ett bra index som gör det lätt att anpassa din läsning efter kursens progression. Boken innehåller en hel del material som är på en mer avancerad nivå, men du kommer att ha nytta av innehållet inför kommande kurser. Den första utgåvan är tillgänglig öppet via [www.artima.com/pins1ed](http://www.artima.com/pins1ed/), men den beskriver gamla Scala 2 med delvis annorlunda syntax.
-
-* **Scala Times**: [nyhetsbrev om Scala](https://scalatimes.com)
 
 </div>
 
