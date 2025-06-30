@@ -103,7 +103,7 @@ Kursen har två delar: en för programmering (*prog*) och en för datorer och
 datoranvändning (*dod*). Programmeringsdelen pågår varje vecka genom hela kursen, medan
 datorer-och-datoranvändningsdelen endast pågår under de fyra första veckorna.
 
-Kursen gavs för första gången 2016, då med gamla kurskoden EDAA45. Här presenteras kursens ursprungliga pedagogiska idé samt **erfarenheter från kursens tre första år**: [Bilder](https://github.com/bjornregnell/scala-first-lessons) och [video (mp4)](https://fileadmin.cs.lth.se/pgk/scala-first-lessons.mp4).
+Kursen gavs för första gången 2016, då med gamla kurskoderna EDAA45+EDAA60. Här presenteras prog-delens nya pedagogiska idé samt **erfarenheter från kursens tre första år**: [Bilder](https://github.com/bjornregnell/scala-first-lessons) och [video (mp4)](https://fileadmin.cs.lth.se/pgk/scala-first-lessons.mp4).
 
 ### Information till äldre studenter
 
@@ -115,7 +115,7 @@ Kursen gavs för första gången 2016, då med gamla kurskoden EDAA45. Här pres
 
 ### Information till programbytare
 
-* Studenter som byter från annat program till C eller D och redan har läst en programmeringskurs på universitetsnivå omfattande minst 7,5 hp kan ansöka om att tillgodoräkna prog-delen och bara delta i dod-delen, men även de med förkunskaper kan ha stor nytta av *hela* denna grundkurs på 10,5 hp som är specialanpassad för C och D och innehåller stora möjligheter till fördjupning. Kontakta [studievägledare](https://www.student.lth.se/stoed-och-service/studievaegledning/) för vidare information.
+* Studenter som byter från annat program till C eller D och redan har läst en programmeringskurs på universitetsnivå omfattande minst 7,5 hp kan ansöka om att tillgodoräkna prog-delen och bara delta i dod-delen, men även de med formella förkunskaper kan ha stor nytta av *hela* denna grundkurs på 10,5 hp som är specialanpassad för C och D och innehåller stora möjligheter till fördjupning. Kontakta [studievägledare](https://www.student.lth.se/stoed-och-service/studievaegledning/) för vidare information.
 
 
 </div>
