@@ -150,7 +150,9 @@ Prog-delen gavs för första gången 2016 för D-programmet. Här presenteras de
 - [Ladok Login för studenter](https://www.student.ladok.se/student/app/studentwebb/)
 - [Formell kursplan](https://kurser.lth.se/kursplaner/senaste/EDAB05.html)
 - [Översiktligt kursprogram](https://fileadmin.cs.lth.se/pgk/courseplan.pdf)
-- Senaste kursutvärdering (begr. access): [CEQ prog (tidigare EDAA45) 2024](https://www.ceq.lth.se/rapporter/ceq/2024_HT/LP2/EDAA45_2024_HT_LP2_slutrapport.html), [CEQ dod (tidigare EDAA60) 2024](https://www.ceq.lth.se/rapporter/ceq/2024_HT/LP1/EDAA60_2024_HT_LP1_slutrapport.html)
+- Senaste kursutvärdering (begr. access inom lu/lth): 
+  - [CEQ prog (tidigare EDAA45) 2024](https://www.ceq.lth.se/rapporter/ceq/2024_HT/LP2/EDAA45_2024_HT_LP2_slutrapport.html)
+  - [CEQ dod (tidigare EDAA60) 2024](https://www.ceq.lth.se/rapporter/ceq/2024_HT/LP1/EDAA60_2024_HT_LP1_slutrapport.html)
 
 </div>
 
