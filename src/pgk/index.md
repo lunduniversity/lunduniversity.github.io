@@ -90,7 +90,7 @@ document.addEventListener("DOMContentLoaded", () => {
 * **Namn**: Programmering, grundkurs (Scala)
 * **Poäng**: 10,5 högskolepoäng
 * **Period**: höstterminen läsperiod 1 och 2
-* **LTH-program**: Obligatorisk för [Infocom (C)](https://kurser.lth.se/lot/programme?programme=C) och [Datateknik (D)](https://kurser.lth.se/lot/programme?programme=D)
+* **LTH-program**: Obligatorisk för civilingenjörsprogrammen [Infocom (C)](https://kurser.lth.se/lot/programme?programme=C) och [Datateknik (D)](https://kurser.lth.se/lot/programme?programme=D)
 * **Upprop**: Måndagen den 1 september kl 13:15 i [E:A](https://fileadmin.cs.lth.se/cs/Bilder/Salar/EA.pdf)
 * **Schema**: [TimeEdit](https://cloud.timeedit.net/lu/web/lth1/ri19566250000YQQ28Z0507007y9Y4763gQ0g5X6Y65ZQ176.html)
 * **Kursplan**: [EDAB05-sv](https://kurser.lth.se/kursplaner/senaste/EDAB05.html), [EDAB05-en](https://kurser.lth.se/kursplaner/senaste-en/EDAB05.html)
