@@ -102,8 +102,8 @@ mycket annat. Det krävs inga förkunskaper i programmering. Kursen ger en solid
 grund för fortsatta studier i systemutveckling.
 
 Kursen har två delar: en för programmering (*prog*) och en för datorer och
-datoranvändning (*dod*). Programmeringsdelen pågår varje vecka genom hela kursen, medan
-datorer-och-datoranvändningsdelen endast pågår under de fyra första veckorna.
+datoranvändning (*dod*). Prog-delen pågår varje vecka genom hela kursen, medan
+dod-delen endast pågår under de fyra första veckorna.
 
 Prog-delen gavs för första gången 2016 för D-programmet. Här presenteras den pedagogiska idén samt **erfarenheter från kursens tre första år**: [Bilder](https://github.com/bjornregnell/scala-first-lessons) och [video (mp4)](https://fileadmin.cs.lth.se/pgk/scala-first-lessons.mp4). Presentationen gavs på konferensen *Scala Days* 2019 i Lusanne.
 
