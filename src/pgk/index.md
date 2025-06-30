@@ -109,9 +109,7 @@ Programmeringsdelen gavs för första gången 2016. Här presenteras den pedagog
 *Information till äldre studenter:*
 
 * Kursen EDAB05 ersätter från och med HT2025 de båda kurserna EDAA45 och EDAA60. 
-
 * Examinationen ändras från och med HT2021. Äldre studenter följer nya examinationsformen från och med HT2021. Sista omtentan enligt gamla examinationsformen gavs 2021-08-17.
-
 * Från HT2021 läser även C-programmet denna kurs som sin första programmeringskurs. 
 
 *Information till programbytare:*
