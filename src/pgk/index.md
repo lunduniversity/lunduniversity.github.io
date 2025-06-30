@@ -114,7 +114,8 @@ Programmeringsdelen gavs för första gången 2016. Här presenteras den pedagog
 
 *Information till programbytare:*
 
-* Studenter som byter från annat program till C eller D och redan har läst en programmeringskurs på universitetsnivå omfattande minst 7,5 hp kan ansöka om att tillgodoräkna prog-delen och bara delta i dod-delen, men även de med formella förkunskaper kan ha stor nytta av *hela* denna grundkurs på 10,5 hp som är specialanpassad för C och D och innehåller stora möjligheter till fördjupning. Kontakta [studievägledare](https://www.student.lth.se/stoed-och-service/studievaegledning/) för vidare information.
+* Studenter som byter från annat program till C eller D och redan har läst en programmeringskurs på universitetsnivå omfattande minst 7,5 hp kan ansöka om att tillgodoräkna prog-delen och bara delta i dod-delen, men även de med formella förkunskaper kan ha stor nytta av *hela* denna grundkurs på 10,5 hp som är specialanpassad för C och D och innehåller stora möjligheter till fördjupning. 
+* Kontakta [studievägledare](https://www.student.lth.se/stoed-och-service/studievaegledning/) för vidare information.
 
 
 </div>
