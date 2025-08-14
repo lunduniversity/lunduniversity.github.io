@@ -108,7 +108,7 @@ att konstruera algoritmer, att använda datastrukturer, programmeringsverktyg oc
 mycket annat. Det krävs inga förkunskaper i programmering. Kursen ger en solid
 grund för fortsatta studier i systemutveckling.
 
-Kursen har två delar: en för programmering ([*prog*](#programmering-prog) och en för datorer och
+Kursen har två delar: en för programmering ([*prog*](#programmering-prog)) och en för datorer och
 datoranvändning ([*dod*](#datorer-och-datoranvändning-dod)). Prog-delen pågår under alla kursens 14 läsveckor, medan
 dod-delen endast pågår under de fyra första veckorna.
 
