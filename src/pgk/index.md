@@ -94,6 +94,9 @@ document.addEventListener("DOMContentLoaded", () => {
 * **Kursstart**: Måndagen den 1 september kl 13:15 i [E:A](https://fileadmin.cs.lth.se/cs/Bilder/Salar/EA.pdf)
 * **Schema**: [TimeEdit](https://cloud.timeedit.net/lu/web/lth1/ri19566250000YQQ28Z0507007y9Y4763gQ0g5X6Y65ZQ176.html)
 * **Kursplan**: [EDAB05-sv](https://kurser.lth.se/kursplaner/senaste/EDAB05.html), [EDAB05-en](https://kurser.lth.se/kursplaner/senaste-en/EDAB05.html)
+* **Kompendium**: [github.com/lunduniversity/introprog](https://github.com/lunduniversity/introprog)
+* **Kodbibliotek**: [github.com/lunduniversity/introprog-scalalib](https://github.com/lunduniversity/introprog-scalalib)
+* **Lärplattform** (kräver inloggning): [Kursyta 2025](https://canvas.education.lu.se/courses/37281) [Permanent info](https://canvas.education.lu.se/courses/35559)
 * **Kursansv.**: [Björn Regnell](../bjornregnell)  
 * **Bitr. kursansv.**: [Mattias Nordahl](https://cs.lth.se/nordahl-mattias/)
 
