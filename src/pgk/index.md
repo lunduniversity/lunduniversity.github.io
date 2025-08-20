@@ -148,7 +148,7 @@ Prog-delen gavs för första gången 2016 för D-programmet. Här presenteras de
   - [github.com/lunduniversity/introprog-scalalib](http://github.com/lunduniversity/introprog-scalalib)
   - [Api-dokumentation `introprog-scalalib`](https://fileadmin.cs.lth.se/pgk/api)
 - Lärplattform:
-  - [Kursyta i Canvas](TODO) (end. åtkomlig för registrerade studenter)
+  - [Kursyta för pgk 2025 i Canvas](https://canvas.education.lu.se/courses/35559) (end. åtkomlig för registrerade studenter)
   - [Permanent öppen information i Canvas](https://canvas.education.lu.se/courses/35559)
 - [Ladok Login för studenter](https://www.student.ladok.se/student/app/studentwebb/)
 - [Formell kursplan](https://kurser.lth.se/kursplaner/senaste/EDAB05.html)
