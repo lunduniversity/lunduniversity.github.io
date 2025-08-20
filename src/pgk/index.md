@@ -133,7 +133,7 @@ Prog-delen gavs för första gången 2016 för D-programmet. Här presenteras de
 <div id="sec_links">
 ## Länkar
 
-- [Schema TimeEdit](https://cloud.timeedit.net/lu/web/lth1/ri19566250000YQQ28Z0507007y9Y4763gQ0g5X6Y65ZQ176.html)
+- Schema [TimeEdit](https://cloud.timeedit.net/lu/web/lth1/ri19566250000YQQ28Z0507007y9Y4763gQ0g5X6Y65ZQ176.html) [Kapten Alloc](https://fileadmin.cs.lth.se/pgk/kaptenalloc/)
 - Kurskompendium:
   - [Kurskompendium Programmering hela kursen](https://fileadmin.cs.lth.se/pgk/compendium.pdf)
     (ca 730 sidor, anpassad för skärm)
