@@ -92,10 +92,9 @@ document.addEventListener("DOMContentLoaded", () => {
 * **Period**: höstterminen läsperiod 1 och 2
 * **LTH-program**: Obligatorisk för civilingenjörsprogrammen [Infocom (C)](https://kurser.lth.se/lot/programme?programme=C) och [Datateknik (D)](https://kurser.lth.se/lot/programme?programme=D)
 * **Kursstart**: Måndagen den 1 september kl 13:15 i [E:A](https://fileadmin.cs.lth.se/cs/Bilder/Salar/EA.pdf)
-* **Schema**: [TimeEdit](https://cloud.timeedit.net/lu/web/lth1/ri19566250000YQQ28Z0507007y9Y4763gQ0g5X6Y65ZQ176.html)
+* **Schema**: [TimeEdit](https://cloud.timeedit.net/lu/web/lth1/ri19566250000YQQ28Z0507007y9Y4763gQ0g5X6Y65ZQ176.html), [Kapten Alloc](https://fileadmin.cs.lth.se/pgk/kaptenalloc/)
 * **Kursplan**: [EDAB05-sv](https://kurser.lth.se/kursplaner/senaste/EDAB05.html), [EDAB05-en](https://kurser.lth.se/kursplaner/senaste-en/EDAB05.html)
-* **Kompendium**: [github.com/lunduniversity/introprog](https://github.com/lunduniversity/introprog)
-* **Kodbibliotek**: [github.com/lunduniversity/introprog-scalalib](https://github.com/lunduniversity/introprog-scalalib)
+* **Kompendium**: [fileadmin.cs.lth.se/pgk/compendium.pdf](https://fileadmin.cs.lth.se/pgk/compendium.pdf)
 * **Lärplattform** (kräver inloggning): [Kursyta 2025](https://canvas.education.lu.se/courses/37281) [Permanent info](https://canvas.education.lu.se/courses/35559)
 * **Kursansv.**: [Björn Regnell](../bjornregnell)  
 * **Bitr. kursansv.**: [Mattias Nordahl](https://cs.lth.se/nordahl-mattias/)
@@ -134,7 +133,7 @@ Prog-delen gavs för första gången 2016 för D-programmet. Här presenteras de
 ## Länkar
 
 - Schema [TimeEdit](https://cloud.timeedit.net/lu/web/lth1/ri19566250000YQQ28Z0507007y9Y4763gQ0g5X6Y65ZQ176.html) [Kapten Alloc](https://fileadmin.cs.lth.se/pgk/kaptenalloc/)
-- Kurskompendium:
+- Kursmaterial:
   - [Kurskompendium Programmering hela kursen](https://fileadmin.cs.lth.se/pgk/compendium.pdf)
     (ca 730 sidor, anpassad för skärm)
   - [Kurskompendium Programmering end. lp1](https://fileadmin.cs.lth.se/pgk/compendium1.pdf)
@@ -147,6 +146,7 @@ Prog-delen gavs för första gången 2016 för D-programmet. Här presenteras de
 - Kodbibliotek `introprog-scalalib`:
   - [github.com/lunduniversity/introprog-scalalib](http://github.com/lunduniversity/introprog-scalalib)
   - [Api-dokumentation `introprog-scalalib`](https://fileadmin.cs.lth.se/pgk/api)
+- Workspace med given kod till labbar: [fileadmin.cs.lth.se/pgk/workspace.zip](https://fileadmin.cs.lth.se/pgk/workspace.zip)
 - Lärplattform:
   - [Kursyta för pgk 2025 i Canvas](https://canvas.education.lu.se/courses/35559) (end. åtkomlig för registrerade studenter)
   - [Permanent öppen information i Canvas](https://canvas.education.lu.se/courses/35559)
