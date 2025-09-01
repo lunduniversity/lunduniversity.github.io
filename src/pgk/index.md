@@ -141,7 +141,7 @@ Prog-delen gavs för första gången 2016 för D-programmet. Här presenteras de
   - [Kurskompendium Programmering end. lp2](https://fileadmin.cs.lth.se/pgk/compendium2.pdf)
     (ca 380 sidor, anpassad för papper)
   - [Öppen källkod för Kompendium Programmering](http://github.com/lunduniversity/introprog)
-  - [Kompendium Datorer och datoranvändning](https://fileadmin.cs.lth.se/cs/Education/EDAA60/labs/dodlabs.pdf)
+  - [Kompendium Datorer och datoranvändning](https://github.com/lunduniversity/introprog-computer-intro/releases/tag/dodlabs_latest)
 - [Snabbreferens](https://fileadmin.cs.lth.se/pgk/quickref.pdf)
 - Kodbibliotek `introprog-scalalib`:
   - [github.com/lunduniversity/introprog-scalalib](http://github.com/lunduniversity/introprog-scalalib)
@@ -262,18 +262,23 @@ professionell systemutveckling. Dod omfattar 4 föreläsningar och 4 laboratione
 och går under kursens första 4 veckor. När du är godkänd på laborationerna får
 du 3hp som delresultat i Ladok.
 
+#### Laborationsuppgifter och labbfiler
+Alla laborationsuppgifter är samlade i ett laborationshäfte. Ladda ned senaste versionen här: [Laborationsuppgifter](https://github.com/lunduniversity/introprog-computer-intro/releases/tag/dodlabs_latest).
+Det finns också ett [arkiv med labbfiler](http://fileadmin.cs.lth.se/pgk/dod-lab-material.zip). (Se instruktioner i Lab 1 för hur labbfilerna kan laddas ned med `curl`)
+
+
 ### Operativsystem (dod)
 
 - **Läsning**:
 
   - [Scalakompendium (Appendix B)](https://fileadmin.cs.lth.se/pgk/compendium.pdf)
-  - [Linuxkompendium](http://fileadmin.cs.lth.se/cs/Education/EDAA60/general/unix-x.pdf)
+  - Linuxkompendium — **länk kommer snart**
 
 - **Föreläsningsbilder**:
 
-  - [PDF Kursintro](https://fileadmin.cs.lth.se/cs/Education/EDAA60/lectures/2024/lecture0-intro-handout.pdf)
-  - [PDF Unix](https://fileadmin.cs.lth.se/cs/Education/EDAA60/lectures/2024/lecture1-unix-handout.pdf)
-  - [PDF Menti](https://fileadmin.cs.lth.se/cs/Education/EDAA60/lectures/2024/lecture1-menti.pdf)
+  - [PDF Kursintro](https://github.com/lunduniversity/introprog-computer-intro/releases/tag/slides_intro_latest)
+  - [PDF Unix](https://github.com/lunduniversity/introprog-computer-intro/releases/tag/slides_unix_latest)
+  <!-- - [PDF Menti](https://fileadmin.cs.lth.se/cs/Education/EDAA60/lectures/2024/lecture1-menti.pdf) -->
 
 - **Mera intressant**:
 
@@ -282,9 +287,7 @@ du 3hp som delresultat i Ladok.
   - [Bash cheat sheet](https://github.com/RehanSaeed/Bash-Cheat-Sheet)
 
 - **Lab**:
-  - [Laborationsuppgifter](http://fileadmin.cs.lth.se/cs/Education/EDAA60/labs/dodlabs.pdf)
-  - [example.txt](http://fileadmin.cs.lth.se/cs/Education/EDAA60/labs/unix/example.txt)
-    (Fil som används i labben)
+  - Se laborationshäftet ovan.
 
 ### Versionshantering (dod)
 
@@ -296,7 +299,7 @@ du 3hp som delresultat i Ladok.
 
 - **Föreläsningsbilder**:
 
-  - [PDF Git](https://fileadmin.cs.lth.se/cs/Education/EDAA60/lectures/2024/lecture-git-handout.pdf)
+  - [PDF Git](https://github.com/lunduniversity/introprog-computer-intro/releases/tag/slides_git_latest)
 
 - **Mera intressant**:
 
@@ -306,24 +309,24 @@ du 3hp som delresultat i Ladok.
     - [GitHub](https://education.github.com/git-cheat-sheet-education.pdf)
     - [GitLab](https://about.gitlab.com/images/press/git-cheat-sheet.pdf)
     - [BitBucket](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
-  - [EDAA45 Lab 0](https://fileadmin.cs.lth.se/cs/Education/EDAA60/lectures/2024/EDAF45-lab0-git-basics-v1.1.pdf)
+  - [EDAA45 Lab 0](https://coursegit.cs.lth.se/edaf45/labs/lab0-git-basics)
     (_Kursen Programvaruutveckling i grupp (`pvg`) kommer ni läsa nästa år. Om
-    ni vill lära er mer om Git kan ni redan nu göra dess `Lab 0`, som går igenom
+    ni redan nu vill lära er mer om Git kan ni kika på dess `Lab 0`, som går igenom
     Git mer grundligt._)
 
 - **Lab**:
-  - [Laborationsuppgifter](http://fileadmin.cs.lth.se/cs/Education/EDAA60/labs/dodlabs.pdf)
+  - Se laborationshäftet ovan.
 
 ### Typsättning (dod)
 
 - **Läsning**:
 
   - [LaTeX-kompendium (av Per Foreby)](http://www.ddg.lth.se/perf/handledning/)
-  - [Linuxkompendium](http://fileadmin.cs.lth.se/cs/Education/EDAA60/general/unix-x.pdf)
+  - Linuxkompendium — **länk kommer snart**
 
 - **Föreläsningsbilder**:
 
-  - [PDF LaTeX](https://fileadmin.cs.lth.se/cs/Education/EDAA60/lectures/2024/lecture-latex-handout.pdf)
+  - [PDF LaTeX](https://github.com/lunduniversity/introprog-computer-intro/releases/tag/slides_latex_latest)
 
 - **Mera intressant**:
 
@@ -333,22 +336,17 @@ du 3hp som delresultat i Ladok.
   - LaTeX cheat sheet, t.ex. [här](https://wch.github.io/latexsheet/)
 
 - **Lab**:
-  - [Laborationsuppgifter](http://fileadmin.cs.lth.se/cs/Education/EDAA60/labs/dodlabs.pdf)
-  - [rapportmall.tex](http://fileadmin.cs.lth.se/cs/Education/EDAA60/labs/latex/rapportmall.tex)
-  - [rapporttext.txt](http://fileadmin.cs.lth.se/cs/Education/EDAA60/labs/latex/rapporttext.txt)
-  - [NewtonRaphson.scala](https://fileadmin.cs.lth.se/cs/Education/EDAA60/labs/latex/NewtonRaphson.scala)
-  - [nrbuld.pdf](http://fileadmin.cs.lth.se/cs/Education/EDAA60/labs/latex/nrbild.pdf)
-  - [konvbild.pdf](http://fileadmin.cs.lth.se/cs/Education/EDAA60/labs/latex/konvbild.pdf)
+  - Se laborationshäftet och labbfilerna ovan.
 
 ### Maskinkod (dod)
 
 - **Föreläsningsbilder**:
 
-  - [PDF Maskinkod](https://fileadmin.cs.lth.se/cs/Education/EDAA60/lectures/2024/lecture-machine-code-handout.pdf)
+  - [PDF Maskinkod](https://github.com/lunduniversity/introprog-computer-intro/releases/tag/slides_machine-code_latest)
 
 - **Lab**:
-  - [Laborationsuppgifter](http://fileadmin.cs.lth.se/cs/Education/EDAA60/labs/dodlabs.pdf)
-  - [c3pu](https://github.com/lunduniversity/introprog-cpu-emulator/releases/latest)
+  - Se laborationshäftet ovan.
+  - [c3pu](https://github.com/lunduniversity/introprog-cpu-emulator/releases/latest) (CPU-emulator som ni ska använda i labben)
 
 </div>
 
@@ -369,7 +367,7 @@ På LTH:s [Linuxdatorer i E-huset](https://fileadmin.cs.lth.se/cs/Bilder/Salar/D
 - **Exekveringsmiljön JVM med tillhörande utvecklingsbibliotek (OpenJDK):** `java`
 - **Utvecklingsmiljön IntelliJ IDEA med Scala-plugin:** `idea`
 
-Mer info om skolans datorer finns [här](https://www.lth.se/lthin/datorsalar/vaara-datorsalar/e-huset/), om hur du använder [Linux](http://fileadmin.cs.lth.se/cs/Education/EDAA60/general/unix-x.pdf) och [bash](https://github.com/RehanSaeed/Bash-Cheat-Sheet).
+Mer info om skolans datorer finns [här](https://www.lth.se/lthin/datorsalar/vaara-datorsalar/e-huset/), om hur du använder Linux (Linuxkompendium — **länk kommer snart**) och [bash](https://github.com/RehanSaeed/Bash-Cheat-Sheet).
 
 ### Installera verktyg på din egen dator
 
