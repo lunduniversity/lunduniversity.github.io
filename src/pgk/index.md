@@ -272,7 +272,7 @@ Det finns också ett [arkiv med labbfiler](http://fileadmin.cs.lth.se/pgk/dod-la
 - **Läsning**:
 
   - [Scalakompendium (Appendix B)](https://fileadmin.cs.lth.se/pgk/compendium.pdf)
-  - Linuxkompendium — **länk kommer snart**
+  - [Linuxkompendium](https://github.com/lunduniversity/introprog-linux/releases/latest)
 
 - **Föreläsningsbilder**:
 
@@ -322,7 +322,7 @@ Det finns också ett [arkiv med labbfiler](http://fileadmin.cs.lth.se/pgk/dod-la
 - **Läsning**:
 
   - [LaTeX-kompendium (av Per Foreby)](http://www.ddg.lth.se/perf/handledning/)
-  - Linuxkompendium — **länk kommer snart**
+  - [Linuxkompendium](https://github.com/lunduniversity/introprog-linux/releases/latest)
 
 - **Föreläsningsbilder**:
 
@@ -367,7 +367,7 @@ På LTH:s [Linuxdatorer i E-huset](https://fileadmin.cs.lth.se/cs/Bilder/Salar/D
 - **Exekveringsmiljön JVM med tillhörande utvecklingsbibliotek (OpenJDK):** `java`
 - **Utvecklingsmiljön IntelliJ IDEA med Scala-plugin:** `idea`
 
-Mer info om skolans datorer finns [här](https://www.lth.se/lthin/datorsalar/vaara-datorsalar/e-huset/), om hur du använder Linux (Linuxkompendium — **länk kommer snart**) och [bash](https://github.com/RehanSaeed/Bash-Cheat-Sheet).
+Mer info om skolans datorer finns [här](https://www.lth.se/lthin/datorsalar/vaara-datorsalar/e-huset/), om hur du använder [Linux](https://github.com/lunduniversity/introprog-linux/releases/latest) och [bash](https://github.com/RehanSaeed/Bash-Cheat-Sheet).
 
 ### Installera verktyg på din egen dator
 
