@@ -6,9 +6,9 @@
 
 **Research areas**: software engineering, requirements engineering, software quality, software innovation, software product management, and empirical research methods in software engineering. 
 
-**Current teaching**: Introduction to Programming in Scala EDAB05, Software Requirements Engineering ETSN15.
+**Current teaching**: [Introduction to Programming in Scala EDAB05](https://lunduniversity.github.io/pgk), [Software Requirements Engineering ETSN15](https://lunduniversity.github.io/krav), [Scientific Theory for Engineers EDAG10](https://kurser.lth.se/lot/course-syllabus/25_26/EDAG10).
 
-**Member of**: REFSQ, REJ, and the Scala Improvement Process (SIP) Committee
+**Member of**: [REFSQ Program Committee](https://refsq.org/), [REJ Editorial Board](https://link.springer.com/journal/766), and the [Scala Improvement Process (SIP) Committee](https://www.scala-lang.org/blog/2022/07/13/scala-improvement-process-reloaded.html)
 
 ## Contact information
 
@@ -17,6 +17,8 @@
 * Postal address: Box 118, SE-221 00 Lund
 * Visiting address: E-huset, Klas Anshelms väg 10
 * [Map to find my office E:2413 in the E-building at LTH](https://fileadmin.cs.lth.se/cs/Bilder/rum/E2413.gif)
+* Open source software: [github.com/bjornregnell](https://github.com/bjornregnell)
+* Personal home page: [cs.lth.se/bjornregnell](https://cs.lth.se/bjornregnell)
 
 ## Publications 
 
@@ -53,15 +55,17 @@ Prof. Regnell worked part time as Senior Researcher at Sony Ericsson, CTO Office
 
 ## Books
 
-* [**Experimentation in Software Engineering**](https://link.springer.com/book/10.1007/978-3-662-69306-3), Wohlin, C., Runeson, P., Höst, M., Ohlsson, M.C., Regnell, B., Wesslén, A. ISBN 978-3-642-29043-5 
+* [**Introduktion till programmering med Scala**](https://fileadmin.cs.lth.se/pgk/compendium.pdf), Björn Regnell, (2016-2025) open source compendium in our [Scala-first course in programming](https://lunduniversity.github.io/pgk) at Lund University with [many contributors](https://github.com/lunduniversity/introprog/blob/master/contributors.tex). (It's in Swedish but an AI translator may help.)
 
-* [**Case Study Research in Software Engineering**](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118181034), Per Runeson, Martin Höst, Austen Rainer, Björn Regnell. ISBN:9781118104354
+* [**Experimentation in Software Engineering**](https://link.springer.com/book/10.1007/978-3-662-69306-3), Wohlin, C., Runeson, P., Höst, M., Ohlsson, M.C., Regnell, B., Wesslén, A. ISBN 978-3-642-29043-5. This book more than [12000 citations](https://scholar.google.com/citations?hl=en&user=W37CtAwAAAAJ&pagesize=200) and is used by many universities in graduate education in Software Engineering.
+
+* [**Case Study Research in Software Engineering**](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118181034), Per Runeson, Martin Höst, Austen Rainer, Björn Regnell. ISBN:9781118104354. This book more than [2000 citations](https://scholar.google.com/citations?hl=en&user=W37CtAwAAAAJ&pagesize=200) and is used by many universities in graduate education in Software Engineering.
 
 * [**Requirements Engineering: Foundation for Software Quality, REFSQ 2012**](https://link.springer.com/book/10.1007/978-3-642-28714-5) Regnell, Björn; Damian, Daniela (Eds.) ISBN 978-3-642-28713-8. 18th Working Conference, REFSQ 2012, Essen, Germany, March 19-22, 2012, Proceedings, Series: Lecture Notes in Computer Science, Vol. 7195, Subseries: Programming and Software Engineering.
 
 * [**Software Business, ICSOB 2011**](https://link.springer.com/book/10.1007/978-3-642-21544-5) Björn Regnell, Inge Weerd, Olga Troyer (Eds.) Second International Conference, ICSOB 2011, Brussels, Belgium, June 8-10, 2011, Proceedings, Series: Lecture Notes in Business Information Processing (LNBIP, volume 80).
 
-* [**Att genomföra examensarbete**](https://github.com/lunduniversity/thesis-guide/releases/tag/v1.0) Martin Höst, Björn Regnell, Per Runeson. [Open source](https://github.com/lunduniversity/thesis-guide) since 2024, was Studentlitteratur, 2006, ISBN: 9789144005218.
+* [**Att genomföra examensarbete**](https://github.com/lunduniversity/thesis-guide/releases/tag/v1.0) Martin Höst, Björn Regnell, Per Runeson. [Open source](https://github.com/lunduniversity/thesis-guide) since 2024, first published by Studentlitteratur, 2006, ISBN: 9789144005218. (It's in Swedish but an AI translator may help.)
 
 * [**Requirements Engineering: Foundation for Software Quality, REFSQ 2004**](https://refsq.org/2004/default.htm) Björn Regnell, Erik Kamsties, Vincenzo Gervasi (Eds.) ISBN 3-922602-91-6. 10th Anniversary Workshop on Requirements Engineering: Foundation for Software Quality (REFSQ’2004), Riga, Latvia, 7-8 June, 2004, Essener Informatik Beiträge, Band 9.
 
@@ -71,7 +75,7 @@ Quality (REFSQ’2003), Klagenfurt/Velden, Austria on the 16-17 June, 2003. Esse
 * [**Requirements Engineering: Foundation for Software Quality, REFSQ 2002**](https://refsq.org/2002/default.htm) Camille Salinesi, Björn Regnell (Eds.) ISBN 3-922602-86-7. International Workshop on Requirements Engineering: Foundations of Software
 Quality (REFSQ’2002), Essen, Germany 9-10 September, 2002. Essener Informatik Beiträge, Band 7.
 
-## Supervised Doctoral Candidates
+## Doctoral Candidates
 
 ### Main supervisor
 
@@ -106,25 +110,25 @@ A talk about our pedagogical experiences using Scala as first language to teach 
 
 <iframe width="425" height="240" src="https://www.youtube.com/embed/ii_sC1TfpZY" title="Scala First Lessons from 3 student generations - Björn Regnell" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### Selected past teaching contributions by Björn Regnell:
+### Selected teaching contributions
 
-* I have developed, headed and given lectures, tutorials and labs in EDAA45 Introduction to Programming using Scala.
-* I have developed, headed and given lectures, tutorials and labs in TFRD48 Introduction to Programming using Scala.
-* I have headed and given lectures, tutorials and labs in EDA016 Programming, First course using Java.
-* I have developed, headed and given lectures, tutorials and labs in ETSN15 Requirements Engineering. 
-* I have developed, headed and given lectures, tutorials and labs in TFRG55 Requirements Engineering for Digital Systems. 
-* I have developed, headed, and given lectures, tutorials and labs in earlier versions of ETSF30 Requirements Engineering given at Campus Helsingborg.
-* I have been involved in developing, headed and given lectures, tutorials and labs in earlier versions of ETSN05 Software Development for Large Systems.
-* I have been involved in developing, headed and given lectures, tutorials and labs in earlier versions of ETSF20 Software Development for Large Projects given at Campus Helsingborg.
-* I have lectured in EDAA05 Computers in systems.
-* I have lectured in EITA65 Design of Systems for Digital Transformation.
-
+* Course development, course head and giving lectures, tutorials and labs in EDAA45 Introduction to Programming using Scala.
+* Course development, course head and giving lectures, tutorials and labs in TFRD48 Introduction to Programming using Scala.
+* Course head and giving lectures, tutorials and labs in EDA016 Programming, First course using Java.
+* Course development, course head and giving lectures, tutorials and labs in ETSN15 Requirements Engineering. 
+* Course development, course head and giving lectures, tutorials and labs in TFRG55 Requirements Engineering for Digital Systems. 
+* Course development, course head, and giving lectures, tutorials and labs in earlier versions of ETSF30 Requirements Engineering given at Campus Helsingborg.
+* Course development, course head and giving lectures, tutorials and labs in earlier versions of ETSN05 Software Development for Large Systems.
+* Course development, course head and giving lectures, tutorials and labs in earlier versions of ETSF20 Software Development for Large Projects given at Campus Helsingborg.
+* Lectured in EDAA05 Computers in systems.
+* Lectured in EITA65 Design of Systems for Digital Transformation.
+* Project supervision in EDAG10 Scientific Theory for Engineers.
 
 ## Learn how to program!
 
 "It should be general knowledge owned by everyone to understand how a computer can be programmed. It is critical from a democratic perspective that everyone has basic knowledge in computer science and programming, so that every citizen can participate in shaping tomorrow’s society. Programming is a creative activity that connects mathematics, language, science, social studies with a culture of of global collaboration." *Björn Regnell, Professor of Computer Science, Lund University.*
 
-* I have developed fun programming challenges for kids that are used in the Science Center at Lund University: 
+* Björn Regnell has developed programming challenges for school kids visiting Vattenhallen Science Center at Lund University: 
   * Challenges in programming for kids in Scala with Kojo: [in Swedish](http://fileadmin.cs.lth.se/cs/Personal/Bjorn_Regnell/uppdrag.pdf), [in English](https://www.lth.se/fileadmin/programvaruportal/programmera/Exercises/kojo-exercise-en.pdf), [in German](https://www.lth.se/fileadmin/programvaruportal/programmera/Exercises/kojo-exercise-de.pdf), [in Italian](https://www.lth.se/fileadmin/programvaruportal/programmera/Exercises/kojo-exercise-it.pdf).
   * More information: [www.lth.se/programmera/programmering-i-skolan](https://www.lth.se/programmera/programmering-i-skolan/)
   * Popular science talk about how neural networks are used in Artificial Intelligence:
