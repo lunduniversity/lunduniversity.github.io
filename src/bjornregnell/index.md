@@ -1,7 +1,5 @@
 # Professor Björn Regnell
 
-*TODO: Migrate everything from [here](https://cs.lth.se/bjorn-regnell/) and fix all links*
-
 <p><a href="http://www.bjornregnell.se/"><img src="../img/bjorn-regnell-lowres.jpg" alt="Professor Björn Regnell"></a></p>
 
 [Björn Regnell](http://www.bjornregnell.se/) is a professor in [Software Engineering](http://serg.cs.lth.se/) at the Department of [Computer Science](http://cs.lth.se) at the [Faculty of Engineering, LTH](https://www.lth.se/english/) at [Lund University](https://www.lunduniversity.lu.se/).
@@ -18,7 +16,7 @@
 * Phone: +46 46 222 90 09
 * Postal address: Box 118, SE-221 00 Lund
 * Visiting address: E-huset, Klas Anshelms väg 10
-* [Map of office in the E-building of LTH](https://fileadmin.cs.lth.se/cs/Bilder/rum/E2413.gif)
+* [Map to find my office E:2413 in the E-building at LTH](https://fileadmin.cs.lth.se/cs/Bilder/rum/E2413.gif)
 
 ## Publications 
 
@@ -31,13 +29,13 @@
 
 ## Citations
 
-* The publications of Björn Regnell have over **23 000** citations
-* The *h-index* of Björn Regnell is **49** at the time of writing, meaning that his 49 most cited publications have more than 49 citations. 
+* The scientific publications of Professor Björn Regnell have over **23 000** [citations](http://scholar.google.com/citations?hl=en&user=W37CtAwAAAAJ&pagesize=200)
+* The [*h-index*](https://en.wikipedia.org/wiki/H-index) of Björn Regnell is **50** at the time of writing, meaning that his 50 most cited publications have more than 50 citations. 
 * For details see the [Google Scholar Profile of Björn Regnell](http://scholar.google.com/citations?hl=en&user=W37CtAwAAAAJ&pagesize=200)
 
-## Short bio
+## Short Bio
 
-Prof. Björn Regnell has over 30 years of experience in software engineering with focus on empirical research in software requirements engineering. He has served as Vice Dean of Research at the Faculty of Engineering of Lund University with focus on quality of graduate level education. He is a member of the editorial board of the Requirements Engineering journal (Springer-Nature). He is also engaged in the governing committee of the Scala open-source programming language. He is an awarded teacher in software engineering and programming.
+Professor Björn Regnell has over 30 years of experience in software engineering with focus on empirical research in software requirements engineering. He has served as Vice Dean of Research at the Faculty of Engineering of Lund University with focus on quality of graduate level education. He is a member of the editorial board of the Requirements Engineering journal (Springer-Nature). He is also engaged in the governing committee of the Scala open-source programming language. He is an awarded teacher in software engineering and programming.
 
 ## Longer Biography
 
@@ -45,7 +43,7 @@ Dr. Björn Regnell is Professor in Software Engineering at the Faculty of Engine
 
 Prof. Regnell has contributed to several software engineering research areas including requirements engineering, software quality, software product management and empirical research methods in software engineering. He was ranked among top 13 scholars in the world in experimental software engineering in IEEE Transactions on Software Engineering, 31(9):733-753 (2005) and was awarded the Lund University Pedagogical Prize for outstanding achievements in teaching (2005).
 
-Prof. Regnell was 2009-2015 Vice Dean of Research, Faculty of Engineering LTH, Lund University, and during 2019-2020 he was Assistant Dean for Digitalization in the management team at the same faculty. He has also been Vice Head of Department for Education Strategy at the Dept. of Computer Science, Lund University during 2015-2018. He was during 2014-2017 the Inspector of the Doctoral Student Guild at the Faculty of Engineering (LTH), Lund University. He was during 2023-2024 the Inspector of the Student Guild of Computer Science and Information Technology at the Faculty of Engineering, Lund University.
+Prof. Regnell was 2009-2015 Vice Dean of Research, Faculty of Engineering LTH, Lund University, and during 2019-2020 he was Assistant Dean for Digitalization in the management team at the same faculty. He has also been Vice Head of Department for Education Strategy at the Dept. of Computer Science, Lund University during 2015-2018. He was during 2014-2017 the Inspector of the Doctoral Student Guild at the Faculty of Engineering (LTH), Lund University. He was during 2023-2024 the Inspector of the Student Guild of Computer Science and Information Technology at the Faculty of Engineering, Lund University. He is currently Vice Head of Department for Faculty Development and Career Advancement at the Dept. of Computer Science, Lund University 2025-2027.
 
 Prof. Regnell has been Program Chair of International Working Conference on Requirements Engineering: Foundation for Software Quality (REFSQ), and a member of the Program Board/Committee of International Requirements Engineering Conference (RE). He is/was a reviewer for several high-impact journals and peer-reviewed conference program committees including International Conference on Software Engineering (ICSE) 2013. He was Steering Committee Chair of REFSQ 2013-2017. He is currently a member of the Editorial board of the Requirements Engineering journal (Springer) and a Program Committee member of REFSQ.
 
@@ -55,21 +53,76 @@ Prof. Regnell worked part time as Senior Researcher at Sony Ericsson, CTO Office
 
 ## Books
 
-TODO: Migrate everything from [here](https://cs.lth.se/bjorn-regnell/books-by-bjorn-regnell/)
+* [**Experimentation in Software Engineering**](https://link.springer.com/book/10.1007/978-3-662-69306-3), Wohlin, C., Runeson, P., Höst, M., Ohlsson, M.C., Regnell, B., Wesslén, A. ISBN 978-3-642-29043-5 
 
-## Doctoral Candidates
+* [**Case Study Research in Software Engineering**](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118181034), Per Runeson, Martin Höst, Austen Rainer, Björn Regnell. ISBN:9781118104354
 
-TODO: Migrate everything from [here](https://cs.lth.se/bjorn-regnell/doctoral-candidates/)
+* [**Requirements Engineering: Foundation for Software Quality, REFSQ 2012**](https://link.springer.com/book/10.1007/978-3-642-28714-5) Regnell, Björn; Damian, Daniela (Eds.) ISBN 978-3-642-28713-8. 18th Working Conference, REFSQ 2012, Essen, Germany, March 19-22, 2012, Proceedings, Series: Lecture Notes in Computer Science, Vol. 7195, Subseries: Programming and Software Engineering.
+
+* [**Software Business, ICSOB 2011**](https://link.springer.com/book/10.1007/978-3-642-21544-5) Björn Regnell, Inge Weerd, Olga Troyer (Eds.) Second International Conference, ICSOB 2011, Brussels, Belgium, June 8-10, 2011, Proceedings, Series: Lecture Notes in Business Information Processing (LNBIP, volume 80).
+
+* [**Att genomföra examensarbete**](https://github.com/lunduniversity/thesis-guide/releases/tag/v1.0) Martin Höst, Björn Regnell, Per Runeson. [Open source](https://github.com/lunduniversity/thesis-guide) since 2024, was Studentlitteratur, 2006, ISBN: 9789144005218.
+
+* [**Requirements Engineering: Foundation for Software Quality, REFSQ 2004**](https://refsq.org/2004/default.htm) Björn Regnell, Erik Kamsties, Vincenzo Gervasi (Eds.) ISBN 3-922602-91-6. 10th Anniversary Workshop on Requirements Engineering: Foundation for Software Quality (REFSQ’2004), Riga, Latvia, 7-8 June, 2004, Essener Informatik Beiträge, Band 9.
+
+* [**Requirements Engineering: Foundation for Software Quality, REFSQ 2003**](https://refsq.org/2003/default.htm) Erik Kamsties, Björn Regnell, Camille Salinesi (Eds.) ISBN 3-922602-87-8. International Workshop on Requirements Engineering: Foundations of Software
+Quality (REFSQ’2003), Klagenfurt/Velden, Austria on the 16-17 June, 2003. Essener Informatik Beiträge, Band 8.
+
+* [**Requirements Engineering: Foundation for Software Quality, REFSQ 2002**](https://refsq.org/2002/default.htm) Camille Salinesi, Björn Regnell (Eds.) ISBN 3-922602-86-7. International Workshop on Requirements Engineering: Foundations of Software
+Quality (REFSQ’2002), Essen, Germany 9-10 September, 2002. Essener Informatik Beiträge, Band 7.
+
+## Supervised Doctoral Candidates
+
+### Main supervisor
+
+* 2019: Dr. Johan Linåker. "Guiding Development of Contribution and Community Strategies in Open Source Software Requirements Engineering", ISBN 978-91-7895-173-4.
+
+* 2013: Dr. Elizabeth Bjarnason. "Integrated Requirements Engineering - Understanding and Bridging Gaps within Software Development", ISBN 978-91-7473-732-5.
+
+* 2012: Dr. Krzysztof Wnuk. "Visualizing, Analyzing and Managing the Scope of Software Releases in Large-Scale Requirements Engineering", ISBN 978-91-976939-7-4.
+
+* 2011: Dr. Richard Berntsson Svensson. "Supporting Release Planning of Quality Requirements: The Quality Performance Model", ISBN 978-91-976939-4-3.
+
+* 2006: Dr. Lena Karlsson Johansson. "Requirements Prioritisation and Retrospective Analysis for Release Planning Process Improvement", ISSN 1101-3931.
+
+* 2005: Dr. Johan Natt och Dag. "Managing Natural Language Requirements in Large Scale Software Development",  ISSN 1101-3931.
+
+### Assistant supervisor
+
+* Dr. Markus Borg, 2010-2015.
+* Dr. Emelie Engström, 2006-2013.
+* Lic. Eng. Thomas Olsson, 2000-2002.
+
 
 ## Teaching
 
-TODO: Migrate everything from [here](https://cs.lth.se/bjorn-regnell/teaching/)
+### On-going courses:    
 
-## Learn how to program
+* [Introduction to Programming using Scala](https://lunduniversity.github.io/pgk/)  
+* [Software Requirements Engineering](https://lunduniversity.github.io/krav/) 
+* [Scientific Theory for Engineers](https://kurser.lth.se/kursplaner/25_26-en/EDAG10.html)
 
-Lär dig programmera!
+A talk about our pedagogical experiences using Scala as first language to teach introductory programming given at *Scala Days 2019,  EPFL, Lusanne, Switzerland*:
 
-"Det är allmänbildning att förstå hur en dator kan programmeras. Det är också viktigt ur demokratisk synvinkel att alla har grundkunskaper i datalogi och programmering för att alla ska kunna vara med och forma morgondagens samhälle. Att programmera är ett kreativt skapande som kopplar samman matematik, Svenska, NO, SO med kultur och globalt samarbete." *Björn Regnell, professor i datavetenskap, Lunds universitet.*
+<iframe width="425" height="240" src="https://www.youtube.com/embed/ii_sC1TfpZY" title="Scala First Lessons from 3 student generations - Björn Regnell" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Selected past teaching contributions by Björn Regnell:
+
+* I have developed, headed and given lectures, tutorials and labs in EDAA45 Introduction to Programming using Scala.
+* I have developed, headed and given lectures, tutorials and labs in TFRD48 Introduction to Programming using Scala.
+* I have headed and given lectures, tutorials and labs in EDA016 Programming, First course using Java.
+* I have developed, headed and given lectures, tutorials and labs in ETSN15 Requirements Engineering. 
+* I have developed, headed and given lectures, tutorials and labs in TFRG55 Requirements Engineering for Digital Systems. 
+* I have developed, headed, and given lectures, tutorials and labs in earlier versions of ETSF30 Requirements Engineering given at Campus Helsingborg.
+* I have been involved in developing, headed and given lectures, tutorials and labs in earlier versions of ETSN05 Software Development for Large Systems.
+* I have been involved in developing, headed and given lectures, tutorials and labs in earlier versions of ETSF20 Software Development for Large Projects given at Campus Helsingborg.
+* I have lectured in EDAA05 Computers in systems.
+* I have lectured in EITA65 Design of Systems for Digital Transformation.
+
+
+## Learn how to program!
+
+"It should be general knowledge owned by everyone to understand how a computer can be programmed. It is critical from a democratic perspective that everyone has basic knowledge in computer science and programming, so that every citizen can participate in shaping tomorrow’s society. Programming is a creative activity that connects mathematics, language, science, social studies with a culture of of global collaboration." *Björn Regnell, Professor of Computer Science, Lund University.*
 
 * I have developed fun programming challenges for kids that are used in the Science Center at Lund University: 
   * Challenges in programming for kids in Scala with Kojo: [in Swedish](http://fileadmin.cs.lth.se/cs/Personal/Bjorn_Regnell/uppdrag.pdf), [in English](https://www.lth.se/fileadmin/programvaruportal/programmera/Exercises/kojo-exercise-en.pdf), [in German](https://www.lth.se/fileadmin/programvaruportal/programmera/Exercises/kojo-exercise-de.pdf), [in Italian](https://www.lth.se/fileadmin/programvaruportal/programmera/Exercises/kojo-exercise-it.pdf).
