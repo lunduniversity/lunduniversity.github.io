@@ -116,7 +116,7 @@ Downloadable pdfs of papers below are available in Canvas.
 * **[AGRE]** Cao, Lan, and Balasubramaniam Ramesh. "Agile requirements engineering practices: An empirical study." IEEE software 25.1, pp. 60-67, 2008. doi: 10.1109/MS.2008.1
 
 ## Exams
-- 2025-08-21: [exam](http://fileadmin.cs.lth.se/krav/250821-tenta-ETSN15.pdf) and [marking guide](http://fileadmin.cs.lth.se/krav/2500821-facit-ETSN15.pdf)
+- 2025-08-21: [exam](http://fileadmin.cs.lth.se/krav/250821-tenta-ETSN15.pdf) and [marking guide](http://fileadmin.cs.lth.se/krav/250821-facit-ETSN15.pdf)
 - 2025-03-30: [exam](http://fileadmin.cs.lth.se/krav/250320-tenta-ETSN15.pdf) and [marking guide](http://fileadmin.cs.lth.se/krav/250320-facit-ETSN15.pdf)
 - 2024-03-15: [exam](http://fileadmin.cs.lth.se/krav/240315-tenta-ETSN15.pdf) and [marking guide](http://fileadmin.cs.lth.se/krav/240315-facit-ETSN15.pdf)
 - 2023-03-17: [exam](http://fileadmin.cs.lth.se/krav/230317-tenta-ETSN15.pdf) and [marking guide](http://fileadmin.cs.lth.se/krav/230317-facit-ETSN15.pdf)
