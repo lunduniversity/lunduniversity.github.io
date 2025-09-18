@@ -264,7 +264,7 @@ du 3hp som delresultat i Ladok.
 
 #### Laborationsuppgifter och labbfiler
 Alla laborationsuppgifter är samlade i ett laborationshäfte. Ladda ned senaste versionen här: [Laborationsuppgifter](https://github.com/lunduniversity/introprog-computer-intro/releases/tag/dodlabs_latest).
-Det finns också ett [arkiv med labbfiler](http://fileadmin.cs.lth.se/pgk/dod-lab-material.zip). (Se instruktioner i Lab 1 för hur labbfilerna kan laddas ned med `curl`)
+Det finns också ett [arkiv med labbfiler](https://fileadmin.cs.lth.se/pgk/dod-lab-material.zip). (Se instruktioner i Lab 1 för hur labbfilerna kan laddas ned med `curl`)
 
 
 ### Operativsystem (dod)
