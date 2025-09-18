@@ -1,6 +1,6 @@
 # How to contribute to pgk
 
-You are welcome to open issues and discuss contributions to the repositories connected to this course. Specific information on how to contribute is available in each repo - see below.
+You are welcome to open issues and discuss contributions to the repositories connected to this course. Specific information on how to contribute is available in each repo - see below. You need bash and pandoc to build the pages of this site.
 
 ## Repos of pgk
 
