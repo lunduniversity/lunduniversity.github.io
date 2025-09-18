@@ -422,7 +422,7 @@ förbättringar kan du göra det genom att skapa ärende (issue) och bidrag (pul
 * Bidra till CPU-emulator: [`github.com/lunduniversity/introprog-cpu-emulator`](https://github.com/lunduniversity/introprog-cpu-emulator)
 * Bidrag till denna hemsida: [`github.com/lunduniversity/lunduniversity.github.io/tree/main/src/pgk`](https://github.com/lunduniversity/lunduniversity.github.io/tree/main/src/pgk)
 
-  * Denna sidan är skriven i Markdown, och HTML-kod genereras genom att köra `./build.sh` **i roten** av repot. Rot-skriptet anropar i sin tur `./build.sh` i varje underkatalog, inklusive denna.
+  * Denna sidan är skriven i Markdown, och HTML-kod genereras genom att köra `./build.sh` **i roten** av repot. Rot-skriptet anropar i sin tur `./build.sh` i varje underkatalog, inklusive denna. Dessa skript förutsätter att du har [pandoc installerat](https://pandoc.org/installing.html).
 
 </div>
 
