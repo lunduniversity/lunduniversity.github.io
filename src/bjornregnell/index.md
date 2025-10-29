@@ -25,7 +25,7 @@
 * [LUCRIS Research Portal Bjorn Regnell](https://portal.research.lu.se/portal/en/persons/bjoern-regnell(f235ec82-89a4-4178-a07d-ea8f5db12dde)/publications.html?pageSize=250&page=0)
 * [LUP Publication Database Bjorn Regnell](https://lup.lub.lu.se/search/search/person/tts-bre?sort=year.desc&limit=250&start)
 * [Google Scholar Publication Database Bjorn Regnell](http://scholar.google.com/citations?hl=en&user=W37CtAwAAAAJ&pagesize=200)
-* [Semantic Scholar record for Bjorn Regnell]( Contact Information )
+* [Semantic Scholar record for Bjorn Regnell](https://www.semanticscholar.org/author/B.-Regnell/1707872)
 * [ORCID record for Bjorn Regnell](https://orcid.org/0000-0002-9380-6120)
 * [Scopus Author ID of Bjorn Regnell 35554843100](http://www.scopus.com/inward/authorDetails.url?authorID=35554843100&partnerID=MN8TOARS)
 
