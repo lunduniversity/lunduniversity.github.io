@@ -8,7 +8,7 @@ An anniversary column on **40 years of Requirements Engineering** that discuss s
 
 ## Links
 
-* [Schedule 2025 in TimeEdit](https://cloud.timeedit.net/lu/web/lth1/ri19566500000YQQ66Z6507007y8Y5373gQ6g7X6Y65ZQ976.html)
+* [Schedule 2026 in TimeEdit](https://cloud.timeedit.net/lu/web/lth1/ri11566540000YQQ66Z6507007y8Y5373gQ5g7X6Y65ZQ176.html)
 * [Course Program](https://fileadmin.cs.lth.se/krav/program-ETSN15.pdf)
 * [Project description](https://fileadmin.cs.lth.se/krav/project-ETSN15.pdf)
 * [Ladok login](https://www.student.ladok.se/student/app/studentwebb/)
