@@ -232,7 +232,8 @@ Tentamen i januari är en *valfri* skrivning som kan ge överbetyg. **Alla uppmu
 
 Från och med läsåret 2021/2022 är tentamen valfri för ev. överbetyg. Tentamina som gavs före läsåret 2021/2022 var obligatoriska och godkänt resultat krävdes för godkänd kurs. Kontrollskrivningen var en obl. övningstenta som gavs sista gången 2024 och omfattade endast kursens första läsperiod.
 
-- Tentamen 2025-01-08: **4-i-rad**   [skrivning i pdf](https://fileadmin.cs.lth.se/pgk/EDAA45-skrivning-2025jan08.pdf) och [lösning i pdf](https://fileadmin.cs.lth.se/pgk/EDAA45-losning-2025jan08.pdf)
+- Tentamen 2026-01-07: **Karaoke**   [skrivning i pdf](https://fileadmin.cs.lth.se/pgk/EDAB05-skrivning-2026jan07.pdf) och [lösning i pdf](https://fileadmin.cs.lth.se/pgk/EDAA45-losning-2025jan08.pdf)
+- Tentamen 2025-01-08: **4-i-rad**   [skrivning i pdf](https://fileadmin.cs.lth.se/pgk/EDAB05-skrivning-2026jan07.pdf) och [lösning i pdf](https://fileadmin.cs.lth.se/pgk/EDAA45-losning-2025jan08.pdf)
 - Kontrollskrivning 2024-10-29: **Labbregister**  [skrivning.pdf](https://fileadmin.cs.lth.se/pgk/EDAA45-skrivning-2024okt29.pdf) och [lösning.pdf](https://fileadmin.cs.lth.se/pgk/EDAA45-losning-2024okt29.pdf)
 - Tentamen 2024-01-04: **Finns i sjön**  [skrivning i pdf](https://fileadmin.cs.lth.se/pgk/EDAA45-skrivning-2024jan04.pdf), och [lösning i pdf](https://fileadmin.cs.lth.se/pgk/EDAA45-losning-2024jan04.pdf)
 - Kontrollskrivning 2023-10-25 **ModuloCounter, Gruppindelning**  [skrivning i pdf](https://fileadmin.cs.lth.se/pgk/EDAA45-skrivning-2023okt25.pdf), [bedömningsmall i pdf](https://fileadmin.cs.lth.se/pgk/EDAA45-losning-2023okt25.pdf)
