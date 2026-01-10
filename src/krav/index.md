@@ -15,7 +15,7 @@ An anniversary column on **40 years of Requirements Engineering** that discuss s
 * [Canvas Login](https://canvas.education.lu.se/courses/33703)
 * Open Source:
   * [Course Documentation](https://github.com/lunduniversity/reqeng)
-  * [The reqT tool](https://github.com/reqT/)
+  * [The reqT tool](https://reqt.github.io/)
   * Work in progress: [Requirements Engineering Book](https://github.com/bjornregnell/reqeng-book)
 
 ## Lectures
