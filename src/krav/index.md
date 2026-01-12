@@ -9,8 +9,8 @@ An anniversary column on **40 years of Requirements Engineering** that discuss s
 ## Links
 
 * [Schedule 2026 in TimeEdit](https://cloud.timeedit.net/lu/web/lth1/ri11566540000YQQ66Z6507007y8Y5373gQ5g7X6Y65ZQ176.html)
-* [Course Program](https://fileadmin.cs.lth.se/krav/program-ETSN15.pdf)
-* [Project description](https://fileadmin.cs.lth.se/krav/project-ETSN15.pdf)
+* [Course Program](https://github.com/lunduniversity/reqeng/blob/master/course-program/program-ETSN15.pdf)
+* [Project description](https://github.com/lunduniversity/reqeng/blob/master/course-project/project-ETSN15.pdf)
 * [Ladok login](https://www.student.ladok.se/student/app/studentwebb/)
 * [Canvas Login](https://canvas.education.lu.se/courses/33703)
 * Open Source:
@@ -122,9 +122,9 @@ Here is a talk from Öredev 2009 by Björn Regnell:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mdiBpDwciC0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Stream from Youtube: https://youtu.be/mdiBpDwciC0
+Stream from Youtube: [https://youtu.be/mdiBpDwciC0](https://youtu.be/mdiBpDwciC0)
 
-Download mp4 (402 MB): http://fileadmin.cs.lth.se/krav/quper-oredev-2009.mp4
+Download mp4 (402 MB): [http://fileadmin.cs.lth.se/krav/quper-oredev-2009.mp4](http://fileadmin.cs.lth.se/krav/quper-oredev-2009.mp4)
 
 ## Literature
 
