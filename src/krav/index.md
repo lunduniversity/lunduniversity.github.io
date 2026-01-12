@@ -37,7 +37,11 @@ Lectures from past years will be updated week-by-week until the actual lecture i
   </tr>
   <tr>
     <td style="width: 12%; border: 1px solid #ddd; padding: 12px; vertical-align: top;"><strong>Week 2</strong></td>
-    <td style="border: 1px solid #ddd; padding: 12px; vertical-align: top;"><strong>L3+L4:</strong> Specification of functionality and data, reqT Tutorial and prep. for Lab1 [<a href="http://fileadmin.cs.lth.se/krav/L3+L4.pdf">PDF-2025</a>]</td>
+    <td style="border: 1px solid #ddd; padding: 12px; vertical-align: top;">
+    <ul style="margin: 0; padding-left: 20px;">
+    <li><strong>L3+L4:</strong> Specification of functionality and data, reqT Tutorial and prep. for Lab1 [<a href="http://fileadmin.cs.lth.se/krav/L3+L4.pdf">PDF-2025</a>] </li>
+    </ul>
+    </td>
   </tr>
   <tr>
     <td style="width: 12%; border: 1px solid #ddd; padding: 12px; vertical-align: top;"><strong>Week 3</strong></td>
