@@ -138,7 +138,7 @@ Another glossary is provided by [IREB](https://en.wikipedia.org/wiki/Internation
     </tr>
     <tr>
       <td valign=top>acquisition</td>
-      <td valign=top>förvärvande, upphandling</td>
+      <td valign=top>upphandling</td>
     </tr>
     <tr>
       <td valign=top>activity diagram</td>
@@ -154,12 +154,11 @@ Another glossary is provided by [IREB](https://en.wikipedia.org/wiki/Internation
     </tr>
     <tr>
       <td valign=top>business domain</td>
-      <td valign=top>affärsverksamhet, verksamhetsområde, affärsdomän,
-          affärsomgivning</td>
+      <td valign=top> verksamhetsområde</td>
     </tr>
     <tr>
       <td valign=top>business goal</td>
-      <td valign=top>affärsmål</td>
+      <td valign=top>verksamhetsmål</td>
     </tr>
     <tr>
       <td valign=top>capacity</td>
@@ -187,13 +186,12 @@ Another glossary is provided by [IREB](https://en.wikipedia.org/wiki/Internation
     </tr>
     <tr>
       <td valign=top>consistency</td>
-      <td valign=top>1. överensstämmelse, 2. konsekvens, följdriktighet 3.
-          konsistens, fasthet, soliditet, beskaffenhet</td>
+      <td valign=top>1. överensstämmelse, 2. konsekvens</td>
     </tr>
     <tr>
       <td valign=top>consistent</td>
       <td valign=top>1. förenlig (med), överensstämmande, 2. konsekvent,
-          följdriktig, 3. fast, oföränderlig, jämn</td>
+          följdriktig</td>
     </tr>
     <tr>
       <td valign=top>context diagram</td>
@@ -228,8 +226,8 @@ Another glossary is provided by [IREB](https://en.wikipedia.org/wiki/Internation
       <td valign=top>dataordlista</td>
     </tr>
     <tr>
-      <td valign=top>data expressions</td>
-      <td valign=top>reguljära uttryck för datakrav, datauttryck</td>
+      <td valign=top>data expressions, regular expressions</td>
+      <td valign=top>reguljära uttryck (för datakrav), datauttryck</td>
     </tr>
     <tr>
       <td valign=top>data model</td>
@@ -313,8 +311,8 @@ Another glossary is provided by [IREB](https://en.wikipedia.org/wiki/Internation
     </tr>
     <tr>
       <td valign=top>managerial requirements</td>
-      <td valign=top>ansvarskrav, krav som reglerar det formella ansvaret vad
-          gäller leveransvillkor, pris, påföljder, straffavgifter, etc.</td>
+      <td valign=top>ansvarskrav (krav som reglerar det formella ansvaret vad
+          gäller leveransvillkor, pris, påföljder, straffavgifter, etc.)</td>
     </tr>
     <tr>
       <td valign=top>negotiation</td>
@@ -358,11 +356,11 @@ Another glossary is provided by [IREB](https://en.wikipedia.org/wiki/Internation
     </tr>
     <tr>
       <td valign=top>release</td>
-      <td valign=top>release, utgåva</td>
+      <td valign=top>utgåva</td>
     </tr>
     <tr>
       <td valign=top>release planning</td>
-      <td valign=top>releaseplanering, utgåveplanering</td>
+      <td valign=top>utgåveplanering</td>
     </tr>
     <tr>
       <td valign=top>requirement</td>
@@ -370,11 +368,11 @@ Another glossary is provided by [IREB](https://en.wikipedia.org/wiki/Internation
     </tr>
     <tr>
       <td valign=top>requirements analyst</td>
-      <td valign=top>kravanalytiker, kravingenjör, utförare av kravhantering</td>
+      <td valign=top>kravanalytiker</td>
     </tr>
     <tr>
       <td valign=top>requirements engineer</td>
-      <td valign=top>kravingenjör, utförare av kravhantering, kravanalytiker</td>
+      <td valign=top>kravingenjör</td>
     </tr>
     <tr>
       <td valign=top>requirements engineering</td>
@@ -479,7 +477,7 @@ Another glossary is provided by [IREB](https://en.wikipedia.org/wiki/Internation
       <td valign=top>löpande räkning</td>
     </tr>
     <tr>
-      <td valign=top>tracability</td>
+      <td valign=top>traceability</td>
       <td valign=top>spårbarhet</td>
     </tr>
     <tr>
@@ -508,7 +506,7 @@ Another glossary is provided by [IREB](https://en.wikipedia.org/wiki/Internation
     </tr>
     <tr>
       <td valign=top>verification</td>
-      <td valign=top>verfiering, kontroll gentemot specifikation</td>
+      <td valign=top>verifiering, kontroll gentemot specifikation</td>
     </tr>
     <tr>
       <td valign=top>virtual windows</td>
@@ -520,6 +518,6 @@ Another glossary is provided by [IREB](https://en.wikipedia.org/wiki/Internation
     </tr>
     <tr>
       <td valign=top>workshop</td>
-      <td valign=top>workshop, arbetsgrupp, arbetsmöte</td>
+      <td valign=top>arbetsmöte</td>
     </tr>
   </table>
