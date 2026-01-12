@@ -27,7 +27,7 @@ Lectures from past years will be updated week-by-week until the actual lecture i
 | **Week 1** | - **L1:** Introduction, Context [[PDF-2025](http://fileadmin.cs.lth.se/krav/L1.pdf)]<br>- **L2:** Elicitation, Prioritization [[PDF-2025](http://fileadmin.cs.lth.se/krav/L2.pdf)] |
 | **Week 2** | - **L3+L4:** Specification of functionality and data, reqT Tutorial and prep. for Lab1 [[PDF-2025](http://fileadmin.cs.lth.se/krav/L3+L4.pdf)]|
 | **Week 3** | - **L5+L6a:** Prototyping [PROTO], Agile RE [AGRE], Market-driven RE [MDRE], Interdependencies [INTDEP], Release Planning [RP], Preparations for Lab 2 [[PDF-2025](http://fileadmin.cs.lth.se/krav/L5+L6a.pdf)]<br>- **L6b:** Open Source RE [OSSRE] _Guest: Johan Linåker_ [[PDF-2025](https://fileadmin.cs.lth.se/krav/L6b.pdf)] |
-| **Week 4** | - **L7:** Quality Requirements [[PDF-2025](http://fileadmin.cs.lth.se/krav/L7.pdf)]<br>  Watch before (or after) the lecture: video on [Quality Requirements with Quper](t3://page?uid=180292)<br> *Mandatory Workshop* **RE and AI** Feb. 10th at 3pm in E:C (not part of written exam)  |
+| **Week 4** | - **L7:** Quality Requirements [[PDF-2025](http://fileadmin.cs.lth.se/krav/L7.pdf)]<br>  Watch before (or after) the lecture: video on [Quality Requirements with Quper](#quality-requirements)<br> *Mandatory Workshop* **RE and AI** Feb. 10th at 3pm in E:C (not part of written exam)  |
 | **Week 5** | - **L8:** Validation & exam preparations. [[PDF-2025](http://fileadmin.cs.lth.se/krav/L8.pdf)] |
 | **Week 6** | - Project work. No lectures. |
 | **Week 7** | - Project presentations: mandatory oral exam |
