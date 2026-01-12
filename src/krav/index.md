@@ -20,17 +20,51 @@ An anniversary column on **40 years of Requirements Engineering** that discuss s
 
 ## Lectures
 
+**Note:** 
 Lectures from past years will be updated week-by-week until the actual lecture is given. Check link name below to see if the PDF link is from this year or from the past year and **beware of possibly outdated information from past year**.
 
-| Week      | Lectures |
-|-----------|----------|
-| **Week 1** | - **L1:** Introduction, Context [[PDF-2025](http://fileadmin.cs.lth.se/krav/L1.pdf)]<br>- **L2:** Elicitation, Prioritization [[PDF-2025](http://fileadmin.cs.lth.se/krav/L2.pdf)] |
-| **Week 2** | - **L3+L4:** Specification of functionality and data, reqT Tutorial and prep. for Lab1 [[PDF-2025](http://fileadmin.cs.lth.se/krav/L3+L4.pdf)]|
-| **Week 3** | - **L5+L6a:** Prototyping [PROTO], Agile RE [AGRE], Market-driven RE [MDRE], Interdependencies [INTDEP], Release Planning [RP], Preparations for Lab 2 [[PDF-2025](http://fileadmin.cs.lth.se/krav/L5+L6a.pdf)]<br>- **L6b:** Open Source RE [OSSRE] _Guest: Johan Linåker_ [[PDF-2025](https://fileadmin.cs.lth.se/krav/L6b.pdf)] |
-| **Week 4** | - **L7:** Quality Requirements [[PDF-2025](http://fileadmin.cs.lth.se/krav/L7.pdf)]<br>  Watch before (or after) the lecture: video on [Quality Requirements with Quper](#quality-requirements)<br> *Mandatory Workshop* **RE and AI** Feb. 10th at 3pm in E:C (not part of written exam)  |
-| **Week 5** | - **L8:** Validation & exam preparations. [[PDF-2025](http://fileadmin.cs.lth.se/krav/L8.pdf)] |
-| **Week 6** | - Project work. No lectures. |
-| **Week 7** | - Project presentations: mandatory oral exam |
+
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="width: 12%; border: 1px solid #ddd; padding: 12px; vertical-align: top;"><strong>Week 1</strong></td>
+    <td style="border: 1px solid #ddd; padding: 12px; vertical-align: top;">
+      <ul style="margin: 0; padding-left: 20px;">
+        <li><strong>L1:</strong> Introduction, Context [<a href="http://fileadmin.cs.lth.se/krav/L1.pdf">PDF-2025</a>]</li>
+        <li><strong>L2:</strong> Elicitation, Prioritization [<a href="http://fileadmin.cs.lth.se/krav/L2.pdf">PDF-2025</a>]</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 12%; border: 1px solid #ddd; padding: 12px; vertical-align: top;"><strong>Week 2</strong></td>
+    <td style="border: 1px solid #ddd; padding: 12px; vertical-align: top;"><strong>L3+L4:</strong> Specification of functionality and data, reqT Tutorial and prep. for Lab1 [<a href="http://fileadmin.cs.lth.se/krav/L3+L4.pdf">PDF-2025</a>]</td>
+  </tr>
+  <tr>
+    <td style="width: 12%; border: 1px solid #ddd; padding: 12px; vertical-align: top;"><strong>Week 3</strong></td>
+    <td style="border: 1px solid #ddd; padding: 12px; vertical-align: top;">
+      <ul style="margin: 0; padding-left: 20px;">
+        <li><strong>L5+L6a:</strong> Prototyping [PROTO], Agile RE [AGRE], Market-driven RE [MDRE], Interdependencies [INTDEP], Release Planning [RP], Preparations for Lab 2 [<a href="http://fileadmin.cs.lth.se/krav/L5+L6a.pdf">PDF-2025</a>]</li>
+        <li><strong>L6b:</strong> Open Source RE [OSSRE] <em>Guest: Johan Linåker</em> [<a href="https://fileadmin.cs.lth.se/krav/L6b.pdf">PDF-2025</a>]</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 12%; border: 1px solid #ddd; padding: 12px; vertical-align: top;"><strong>Week 4</strong></td>
+    <td style="border: 1px solid #ddd; padding: 12px; vertical-align: top;"><strong>L7:</strong> Quality Requirements [<a href="http://fileadmin.cs.lth.se/krav/L7.pdf">PDF-2025</a>]<br>Watch before (or after) the lecture: video on <a href="#quality-requirements">Quality Requirements with QUPER</a><br><em>Mandatory Workshop</em> <strong>RE and AI</strong> Feb. 10th at 3pm in E:C (not part of written exam)</td>
+  </tr>
+  <tr>
+    <td style="width: 12%; border: 1px solid #ddd; padding: 12px; vertical-align: top;"><strong>Week 5</strong></td>
+    <td style="border: 1px solid #ddd; padding: 12px; vertical-align: top;"><strong>L8:</strong> Validation & exam preparations. [<a href="http://fileadmin.cs.lth.se/krav/L8.pdf">PDF-2025</a>]</td>
+  </tr>
+  <tr>
+    <td style="width: 12%; border: 1px solid #ddd; padding: 12px; vertical-align: top;"><strong>Week 6</strong></td>
+    <td style="border: 1px solid #ddd; padding: 12px; vertical-align: top;">Project work. No lectures.</td>
+  </tr>
+  <tr>
+    <td style="width: 12%; border: 1px solid #ddd; padding: 12px; vertical-align: top;"><strong>Week 7</strong></td>
+    <td style="border: 1px solid #ddd; padding: 12px; vertical-align: top;">Project presentations: mandatory oral exam</td>
+  </tr>
+</table>
+
 
 ## Exercises
 
