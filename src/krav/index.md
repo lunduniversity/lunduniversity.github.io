@@ -123,11 +123,11 @@ Downloadable pdfs of papers below are available in Canvas.
 - 2022-03-18: [exam](http://fileadmin.cs.lth.se/krav/220318_tenta-ETSN15.pdf) with correct answers for [U1](http://fileadmin.cs.lth.se/krav/220318_facit-ETSN15.pdf), and guide for [U2](http://fileadmin.cs.lth.se/krav/220318_U2_rättningsmall.pdf) and [U3](http://fileadmin.cs.lth.se/krav/220318_U3_rättningsmall.pdf)
 - 2019-03-22: [exam](http://fileadmin.cs.lth.se/cs/Education/ETSN15/exams/2019-03-22_exam.pdf) with [correct answers (U1) and guide (U3)](http://fileadmin.cs.lth.se/cs/Education/ETSN15/exams/2019-03-22_mall.pdf)
 
-## Dictionary
+## Glossary
 
 A quick reference of requirements modeling terminology including entities, attributes and relations, is available here: [reqT Quickref](https://github.com/reqT/reqT-lang/releases/latest/download/reqT-quickref-GENERATED.pdf)
 
-The glossary below contains some of the most common requirements engineering terms used in this course. If you think of a word that should be included, please email bjorn.regnell@cs.lth.se
+The **glossary** in the *table below* contains some of the most common requirements engineering terms used in this course with a recommended swedish translation. If you think of a word that should be included, please email bjorn.regnell@cs.lth.se
 
 Another glossary is provided by [IREB](https://en.wikipedia.org/wiki/International_Requirements_Engineering_Board) with requirements engineering terms in Swedish here: [IREB_CPRE_Glossary_14.pdf](http://fileadmin.cs.lth.se/cs/Education/ETS170/IREB_CPRE_Glossary_14.pdf) (see page 94 and onwards).
 
