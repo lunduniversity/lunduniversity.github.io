@@ -16,6 +16,7 @@ An anniversary column on **40 years of Requirements Engineering** that discuss s
 * Open Source:
   * [Course Documentation](https://github.com/lunduniversity/reqeng)
   * [The reqT tool](https://reqt.github.io/)
+  * [This page](https://github.com/lunduniversity/lunduniversity.github.io/blob/main/src/krav/index.md)
   * Work in progress: [Requirements Engineering Book](https://github.com/bjornregnell/reqeng-book)
 
 ## Lectures
