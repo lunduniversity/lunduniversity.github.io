@@ -31,7 +31,7 @@ Lectures from past years will be updated week-by-week until the actual lecture i
     <td style="border: 1px solid #ddd; padding: 12px; vertical-align: top;">
       <ul style="margin: 0; padding-left: 20px;">
         <li><strong>L1:</strong> Introduction, Context [<a href="http://fileadmin.cs.lth.se/krav/L1.pdf">PDF-2026</a>]</li>
-        <li><strong>L2:</strong> Elicitation, Prioritization [<a href="http://fileadmin.cs.lth.se/krav/L2.pdf">PDF-2025</a>]</li>
+        <li><strong>L2:</strong> Elicitation, Prioritization [<a href="http://fileadmin.cs.lth.se/krav/L2.pdf">PDF-2026</a>]</li>
       </ul>
     </td>
   </tr>
