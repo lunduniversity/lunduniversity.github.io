@@ -11,8 +11,8 @@ An anniversary column on **40 years of Requirements Engineering** that discuss s
 * [Schedule 2026 in TimeEdit](https://cloud.timeedit.net/lu/web/lth1/ri11566540000YQQ66Z6507007y8Y5373gQ5g7X6Y65ZQ176.html)
 * [Course Program](https://github.com/lunduniversity/reqeng/blob/master/course-program/program-ETSN15.pdf)
 * [Project description](https://github.com/lunduniversity/reqeng/blob/master/course-project/project-ETSN15.pdf)
+* [Canvas Login 2026](https://canvas.education.lu.se/courses/39537)
 * [Ladok login](https://www.student.ladok.se/student/app/studentwebb/)
-* [Canvas Login](https://canvas.education.lu.se/courses/33703)
 * Open Source:
   * [Course Documentation](https://github.com/lunduniversity/reqeng)
   * [The reqT tool](https://reqt.github.io/)
