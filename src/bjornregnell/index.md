@@ -18,7 +18,8 @@
 * Visiting address: E-huset, Klas Anshelms väg 10
 * [Map to find my office E:2413 in the E-building at LTH](https://fileadmin.cs.lth.se/cs/Bilder/rum/E2413.gif)
 * Open source software: [github.com/bjornregnell](https://github.com/bjornregnell)
-* Personal home page: [cs.lth.se/bjornregnell](https://cs.lth.se/bjornregnell)
+* Professional home page: [cs.lth.se/bjornregnell](https://cs.lth.se/bjornregnell)
+* Personal home page: [bjornregnell.se](http://bjornregnell.se)
 
 ## Publications 
 
