@@ -106,7 +106,7 @@ The exercise instructions will be published on this page as the course progresse
 * See lectures for further instructions on supervision and how to deliver your results.
 * In the last week of the course you should attend the mandatory oral project examination.
 * The project missions for previous years are available below:
-  * [2025 Project missions](https://fileadmin.cs.lth.se/krav/pms-v2-2025.pdf) (alfa: squulgame, beta: edubee, gamma: easyTrip, delta: imMune) 
+  * [2025 Project missions](https://fileadmin.cs.lth.se/krav/PMsV2_2025.pdf) (alfa: squulgame, beta: edubee, gamma: easyTrip, delta: imMune) 
   * [2024 Project missions](https://fileadmin.cs.lth.se/krav/PMsV1_2024.pdf)
   * [2023 Project missions](https://fileadmin.cs.lth.se/krav/PMsV1_2023.pdf)
   * [2022 Project missions](https://fileadmin.cs.lth.se/krav/ETSN15_PM_2022.pdf)
