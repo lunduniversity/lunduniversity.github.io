@@ -22,7 +22,7 @@ An anniversary column on **40 years of Requirements Engineering** that discuss s
 ## Lectures
 
 **Note:** 
-Lectures from past years will be updated week-by-week until the actual lecture is given. Check link name below to see if the PDF link is from this year or from the past year and **beware of possibly outdated information from past year**.
+Lectures from past years will be updated week-by-week until the actual lecture is given. Check link name below to see if the PDF link is from this year or from the past year and **beware of possibly outdated information from past year**. See also [list of papers acronyms](#literature).
 
 
 <table style="width: 100%; border-collapse: collapse; border: 1px solid #ddd; ">
@@ -149,23 +149,23 @@ Downloadable pdfs of papers below are available in Canvas.
 
 * **[Lau]** Soren Lauesen, Software Requirements - Styles and Techniques, AddisonWesley, ISBN 0-201-74570-4, 2002.
 
-* **[MDRE]** Regnell, Björn, and Sjaak Brinkkemper. "Market-driven requirements engineering for software products." Engineering and managing software requirements. Springer, Berlin, Heidelberg, ISBN 3-540-25043- 32005. pp. 287-308. pdf
-
 * **[PRIO]** Berander, Patrik, and Anneliese Andrews. "Requirements prioritization." Engineering and managing software requirements. Springer, Berlin, Heidelberg, 2005. 69-94. ISBN 3-540-25043-3, 2005. pdf
-
-* **[OSSRE]** Scacchi, Walt. "Understanding requirements for open source software." Design requirements engineering: A ten-year perspective. Springer, Berlin, Heidelberg, 2009. 467-494. pdf
-
-* **[RP]** Ruhe, Gunther, and Moshood Omolade Saliu. "The art and science of software release planning." IEEE software 22.6 (2005): 47-53.  doi: 10.1109/MS.2005.164
-
-* **[QUPER]** Regnell, Björn, Richard Berntsson Svensson, and Thomas Olsson. "Supporting roadmapping of quality requirements." IEEE software 25.2 (2008). doi: 10.1109/MS.2008.48
 
 * **[PROTO]** Bjarnason, E., Lang, F., & Mjöberg, A. "An empirically based model of software prototyping: a mapping study and a multi-case study." Empirical Software Engineering, 28(5), 115. (2023)
 
-* **[INSP]** Karlsson, Joachim.  ”Att inspektera krav”. Framgångsrik kravhantering, andra utgåvan, Teknikföretagen, V040072, ISSN 1103-7008, Sid 67-76, 1998.
+* **[AGRE]** Cao, Lan, and Balasubramaniam Ramesh. "Agile requirements engineering practices: An empirical study." IEEE software 25.1, pp. 60-67, 2008. doi: 10.1109/MS.2008.1
+
+* **[MDRE]** Regnell, Björn, and Sjaak Brinkkemper. "Market-driven requirements engineering for software products." Engineering and managing software requirements. Springer, Berlin, Heidelberg, ISBN 3-540-25043- 32005. pp. 287-308. pdf
 
 * **[INTDEP]** Carlshamre, Pär, et al. "An industrial survey of requirements interdependencies in software product release planning." Proceedings of Fifth IEEE International Symposium on Requirements Engineering, pp. 84–91, 2001. doi: 10.1109/ISRE.2001.948547
 
-* **[AGRE]** Cao, Lan, and Balasubramaniam Ramesh. "Agile requirements engineering practices: An empirical study." IEEE software 25.1, pp. 60-67, 2008. doi: 10.1109/MS.2008.1
+* **[RP]** Ruhe, Gunther, and Moshood Omolade Saliu. "The art and science of software release planning." IEEE software 22.6 (2005): 47-53.  doi: 10.1109/MS.2005.164
+
+* **[OSSRE]** Scacchi, Walt. "Understanding requirements for open source software." Design requirements engineering: A ten-year perspective. Springer, Berlin, Heidelberg, 2009. 467-494. pdf
+
+* **[QUPER]** Regnell, Björn, Richard Berntsson Svensson, and Thomas Olsson. "Supporting roadmapping of quality requirements." IEEE software 25.2 (2008). doi: 10.1109/MS.2008.48
+
+* **[INSP]** Karlsson, Joachim.  ”Att inspektera krav”. Framgångsrik kravhantering, andra utgåvan, Teknikföretagen, V040072, ISSN 1103-7008, Sid 67-76, 1998.
 
 ## Old Exams
 - 2025-08-21: [exam](http://fileadmin.cs.lth.se/krav/250821-tenta-ETSN15.pdf) and [marking guide](http://fileadmin.cs.lth.se/krav/250821-facit-ETSN15.pdf) *Note:* Part B format update: more but shorter free text questions.
