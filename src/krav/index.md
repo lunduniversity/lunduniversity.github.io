@@ -172,8 +172,7 @@ Downloadable pdfs of papers below are available in Canvas.
 - 2025-03-30: [exam](http://fileadmin.cs.lth.se/krav/250320-tenta-ETSN15.pdf) and [marking guide](http://fileadmin.cs.lth.se/krav/250320-facit-ETSN15.pdf)
 - 2024-03-15: [exam](http://fileadmin.cs.lth.se/krav/240315-tenta-ETSN15.pdf) and [marking guide](http://fileadmin.cs.lth.se/krav/240315-facit-ETSN15.pdf)
 - 2023-03-17: [exam](http://fileadmin.cs.lth.se/krav/230317-tenta-ETSN15.pdf) and [marking guide](http://fileadmin.cs.lth.se/krav/230317-facit-ETSN15.pdf)
-- 2022-03-18: [exam](http://fileadmin.cs.lth.se/krav/220318_tenta-ETSN15.pdf) with correct answers for [U1](http://fileadmin.cs.lth.se/krav/220318_facit-ETSN15.pdf), and guide for [U2](http://fileadmin.cs.lth.se/krav/220318_U2_rättningsmall.pdf) and [U3](http://fileadmin.cs.lth.se/krav/220318_U3_rättningsmall.pdf)
-- 2019-03-22: [exam](http://fileadmin.cs.lth.se/cs/Education/ETSN15/exams/2019-03-22_exam.pdf) with [correct answers (U1) and guide (U3)](http://fileadmin.cs.lth.se/cs/Education/ETSN15/exams/2019-03-22_mall.pdf)
+- 2022-03-18: [exam](http://fileadmin.cs.lth.se/krav/220318_tenta-ETSN15.pdf) with marking guide for [U1](http://fileadmin.cs.lth.se/krav/220318_facit-ETSN15.pdf), [U2](http://fileadmin.cs.lth.se/krav/220318_U2_rättningsmall.pdf) and [U3](http://fileadmin.cs.lth.se/krav/220318_U3_rättningsmall.pdf)
 
 ## Terminology
 
