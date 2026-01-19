@@ -101,14 +101,14 @@ The exercise instructions will be published on this page as the course progresse
 
 ## Project
 
-* A description of the course project with mandatory deliverables and grading criteria is available here:
-  https://fileadmin.cs.lth.se/krav/project-ETSN15.pdf with source code [here](https://github.com/lunduniversity/reqeng/tree/master/course-project)
-* See lectures for further instructions on supervision and how to deliver your results.
+* [**Detailed description of the course project**](https://github.com/lunduniversity/reqeng/blob/master/course-project/project-ETSN15.pdf) including deliverables and examination criteria. (Latex source [here](https://github.com/lunduniversity/reqeng/tree/master/course-project))
+* See also lectures for general information on supervision, what to focus on in your learning, and how to deliver results for examination.
+* Already during the first lecture you start discussing and creating your group's Project Mission (PM) that you should bring to the first exercise (E1). A good PM is something you care about and know something about. It's OK to start with a big, open scope as re-scoping is part of Requirements Engineering. The PM should be a good vehicle for your practical enactment of the theory in the course and you should use it to try out different requirements engineering processes, models and methods.
 * In the last week of the course you should attend the mandatory oral project examination.
-* The project missions for previous years are available below:
+* Project missions from previous years are available below as exemplars and inspiration when creating novel project missions. *Note:* From 2025 student groups define their own project mission and the projects are closer aligned to the theory and examination. Before 2025 project missions were defined in collaboration with external startups. 
   * [2025 Project missions](https://fileadmin.cs.lth.se/krav/PMsV2_2025.pdf) (alfa: squulgame, beta: edubee, gamma: easyTrip, delta: imMune) 
-  * [2024 Project missions](https://fileadmin.cs.lth.se/krav/PMsV1_2024.pdf)
-  * [2023 Project missions](https://fileadmin.cs.lth.se/krav/PMsV1_2023.pdf)
+  * [2024 Project missions](https://fileadmin.cs.lth.se/krav/PMsV1_2024.pdf) (1: Codiska, 2: Pedatim, 3: M-SOLAR, 4: Vomerce)
+  * [2023 Project missions](https://fileadmin.cs.lth.se/krav/PMsV1_2023.pdf) (1: Codiska, 2: EyeTalkHealth, 3: Pinteg, 4: Product Shot, 5: Medshare, 6: Noui, 7: Agrodit)
   * [2022 Project missions](https://fileadmin.cs.lth.se/krav/ETSN15_PM_2022.pdf)
   * [2021 Project missions](http://fileadmin.cs.lth.se/cs/Education/ETSN15/pm2021-v1.pdf)
   * [2020 Project missions](http://fileadmin.cs.lth.se/cs/Education/ETSN15/pm2020.pdf)
