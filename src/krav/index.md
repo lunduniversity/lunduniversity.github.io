@@ -92,11 +92,11 @@ The exercise instructions will be published on this page as the course progresse
 
 **NOTE:** Ensure you have access to the course textbook [Lau] during exercises.
 
-- [Ex1 2026](http://fileadmin.cs.lth.se/krav/E1.pdf): Req’s Types, Project Types & Models (Lau:1), Context diagram (Lau:3). <!-- [E1-slides.pdf](http://fileadmin.cs.lth.se/krav/E1-slides.pdf) -->
-- [Ex2 2026](http://fileadmin.cs.lth.se/krav/E2.pdf): Specification I and Elicitation (Lau:2, 8). <!-- [E2-slides.pdf](http://fileadmin.cs.lth.se/krav/E2-slides.pdf) -->
-- [Ex3 2025](http://fileadmin.cs.lth.se/krav/E3.pdf): Prototyping (PROTO1&2), Functional Requirements (Lau:3-5). <!-- [E3-slides.pdf](http://fileadmin.cs.lth.se/krav/E3-slides.pdf) -->
-- [Ex4 2025](http://fileadmin.cs.lth.se/krav/E4.pdf): Quality Requirements (Lau:6 + QUPER). <!-- [E4-slides.pdf](http://fileadmin.cs.lth.se/krav/ETSN15_E4.pdf) -->
-- [Ex5 2025](http://fileadmin.cs.lth.se/krav/E5.pdf): Validation (Lau: Ch 9, [INSP]). <!-- [E5-slides.pdf](http://fileadmin.cs.lth.se/krav/ETSN15_E5.pdf) -->
+- [E1.pdf 2026](http://fileadmin.cs.lth.se/krav/E1.pdf): Req’s Types, Project Types & Models (Lau:1), Context diagram (Lau:3). [E1-slides.pdf 2026](http://fileadmin.cs.lth.se/krav/E1-slides.pdf)
+- [E2.pdf 2026](http://fileadmin.cs.lth.se/krav/E2.pdf): Specification I and Elicitation (Lau:2, 8). [E2-slides.pdf 2026](http://fileadmin.cs.lth.se/krav/E2-slides.pdf)
+- [E3.pdf 2025](http://fileadmin.cs.lth.se/krav/E3.pdf): Prototyping (PROTO1&2), Functional Requirements (Lau:3-5). <!-- [E3-slides.pdf](http://fileadmin.cs.lth.se/krav/E3-slides.pdf) -->
+- [E4.pdf 2025](http://fileadmin.cs.lth.se/krav/E4.pdf): Quality Requirements (Lau:6 + QUPER). <!-- [E4-slides.pdf](http://fileadmin.cs.lth.se/krav/ETSN15_E4.pdf) -->
+- [E5.pdf 2025](http://fileadmin.cs.lth.se/krav/E5.pdf): Validation (Lau: Ch 9, [INSP]). <!-- [E5-slides.pdf](http://fileadmin.cs.lth.se/krav/ETSN15_E5.pdf) -->
  
 
 ## Project
