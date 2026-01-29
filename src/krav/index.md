@@ -48,7 +48,7 @@ Lectures from past years will be updated week-by-week until the actual lecture i
     <td style="border: 1px solid #ddd; padding: 12px; vertical-align: top;">
       <ul style="margin: 0; padding-left: 20px;">
         <li><strong>L5+L6a:</strong> Prototyping [PROTO], Agile RE [AGRE], Market-driven RE [MDRE], Interdependencies [INTDEP], Release Planning [RP], Preparations for Lab 2 [<a href="http://fileadmin.cs.lth.se/krav/L5+L6a.pdf">PDF-2025</a>]</li>
-        <li><strong>L6b:</strong> Open Source RE [OSSRE] <em>Guest: Johan Linåker</em> [<a href="https://fileadmin.cs.lth.se/krav/L6b.pdf">PDF-2025</a>]</li>
+        <li><strong>L6b:</strong> Open Source RE [OSSRE] [<a href="https://fileadmin.cs.lth.se/krav/L6b.pdf">PDF-2025</a>]</li>
       </ul>
     </td>
   </tr>
