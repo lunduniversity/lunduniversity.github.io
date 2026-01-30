@@ -47,8 +47,8 @@ Lectures from past years will be updated week-by-week until the actual lecture i
     <td style="width: 12%; border: 1px solid #ddd; padding: 12px; vertical-align: top;"><strong>Week 3</strong></td>
     <td style="border: 1px solid #ddd; padding: 12px; vertical-align: top;">
       <ul style="margin: 0; padding-left: 20px;">
-        <li><strong>L5+L6a:</strong> Prototyping [PROTO], Agile RE [AGRE], Market-driven RE [MDRE], Interdependencies [INTDEP], Release Planning [RP], Preparations for Lab 2 [<a href="http://fileadmin.cs.lth.se/krav/L5+L6a.pdf">PDF-2025</a>]</li>
-        <li><strong>L6b:</strong> Open Source RE [OSSRE] [<a href="https://fileadmin.cs.lth.se/krav/L6b.pdf">PDF-2025</a>]</li>
+        <li><strong>L5+L6a:</strong> Prototyping [PROTO], Agile RE [AGRE], Market-driven RE [MDRE], Interdependencies [INTDEP], Release Planning [RP], Preparations for Lab 2 [<a href="http://fileadmin.cs.lth.se/krav/L5+L6a.pdf">PDF-2026</a>]</li>
+        <li><strong>L6b:</strong> Open Source RE [OSSRE] [<a href="https://fileadmin.cs.lth.se/krav/L6b.pdf">PDF-2026</a>]</li>
       </ul>
     </td>
   </tr>
@@ -94,9 +94,9 @@ The exercise instructions will be published on this page as the course progresse
 
 - [E1.pdf 2026](http://fileadmin.cs.lth.se/krav/E1.pdf): Req’s Types, Project Types & Models (Lau:1), Context diagram (Lau:3). [E1-slides.pdf 2026](http://fileadmin.cs.lth.se/krav/E1-slides.pdf)
 - [E2.pdf 2026](http://fileadmin.cs.lth.se/krav/E2.pdf): Specification I and Elicitation (Lau:2, 8). [E2-slides.pdf 2026](http://fileadmin.cs.lth.se/krav/E2-slides.pdf)
-- [E3.pdf 2025](http://fileadmin.cs.lth.se/krav/E3.pdf): Prototyping (PROTO1&2), Functional Requirements (Lau:3-5). <!-- [E3-slides.pdf](http://fileadmin.cs.lth.se/krav/E3-slides.pdf) -->
-- [E4.pdf 2025](http://fileadmin.cs.lth.se/krav/E4.pdf): Quality Requirements (Lau:6 + QUPER). <!-- [E4-slides.pdf](http://fileadmin.cs.lth.se/krav/ETSN15_E4.pdf) -->
-- [E5.pdf 2025](http://fileadmin.cs.lth.se/krav/E5.pdf): Validation (Lau: Ch 9, [INSP]). <!-- [E5-slides.pdf](http://fileadmin.cs.lth.se/krav/ETSN15_E5.pdf) -->
+- [E3.pdf 2026](http://fileadmin.cs.lth.se/krav/E3.pdf): Prototyping (PROTO1&2), Functional Requirements (Lau:3-5). <!-- [E3-slides.pdf](http://fileadmin.cs.lth.se/krav/E3-slides.pdf) -->
+- [E4.pdf 2026](http://fileadmin.cs.lth.se/krav/E4.pdf): Quality Requirements (Lau:6 + QUPER). <!-- [E4-slides.pdf](http://fileadmin.cs.lth.se/krav/ETSN15_E4.pdf) -->
+- [E5.pdf 2026](http://fileadmin.cs.lth.se/krav/E5.pdf): Validation (Lau: Ch 9, [INSP]). <!-- [E5-slides.pdf](http://fileadmin.cs.lth.se/krav/ETSN15_E5.pdf) -->
  
 
 ## Project
