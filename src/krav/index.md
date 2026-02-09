@@ -56,7 +56,7 @@ Lectures from past years will be updated week-by-week until the actual lecture i
     <td style="width: 12%; border: 1px solid #ddd; padding: 12px; vertical-align: top;"><strong>Week 4</strong></td>
     <td style="border: 1px solid #ddd; padding: 12px; vertical-align: top;">
       <ul style="margin: 0; padding-left: 20px;">
-      <li>    <strong>L7:</strong> Quality Requirements [QUPER] [<a href="http://fileadmin.cs.lth.se/krav/L7.pdf">PDF-2025</a>]</li>
+      <li>    <strong>L7:</strong> Quality Requirements [QUPER] [<a href="http://fileadmin.cs.lth.se/krav/L7.pdf">PDF-2026</a>]</li>
       <li>Watch before (or after) the lecture: video on <a href="#quality-requirements">Quality Requirements with QUPER</a></li>
       <li><em>Mandatory Workshop, Tuesday 15-17 in E:C: </em> <strong>RE and AI</strong> (not part of written exam)</li>
       </ul>
