@@ -106,12 +106,12 @@ The exercise instructions will be published on this page as the course progresse
 * Already during the first lecture you start discussing and creating your group's Project Mission (PM) that you should bring to the first exercise (E1). A good PM is something you care about and know something about. It's OK to start with a big, open scope as re-scoping is part of Requirements Engineering. The PM should be a good vehicle for your practical enactment of the theory in the course and you should use it to try out different requirements engineering processes, models and methods.
 * In the last week of the course you should attend the mandatory oral project examination.
 * Project missions from previous years are available below as exemplars and inspiration when creating novel project missions. *Note:* From 2025 student groups define their own project mission and the projects are closer aligned to the theory and examination. Before 2025 project missions were defined in collaboration with external startups. 
+  * [2026 Project missions](https://fileadmin.cs.lth.se/krav/PMsV2_2026.pdf) (alfa: InfoMATikern, beta: CourseWise, gamma: DopamineKiller, delta: HypeTrain, epsilon: KinoCino) 
   * [2025 Project missions](https://fileadmin.cs.lth.se/krav/PMsV2_2025.pdf) (alfa: squulgame, beta: edubee, gamma: easyTrip, delta: imMune) 
   * [2024 Project missions](https://fileadmin.cs.lth.se/krav/PMsV1_2024.pdf) (1: Codiska, 2: Pedatim, 3: M-SOLAR, 4: Vomerce)
   * [2023 Project missions](https://fileadmin.cs.lth.se/krav/PMsV1_2023.pdf) (1: Codiska, 2: EyeTalkHealth, 3: Pinteg, 4: Product Shot, 5: Medshare, 6: Noui, 7: Agrodit)
   * [2022 Project missions](https://fileadmin.cs.lth.se/krav/ETSN15_PM_2022.pdf)
   * [2021 Project missions](http://fileadmin.cs.lth.se/cs/Education/ETSN15/pm2021-v1.pdf)
-  * [2020 Project missions](http://fileadmin.cs.lth.se/cs/Education/ETSN15/pm2020.pdf)
 
 ## Labs
 
