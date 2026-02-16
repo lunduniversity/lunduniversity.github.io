@@ -66,7 +66,7 @@ Lectures from past years will be updated week-by-week until the actual lecture i
     <td style="width: 12%; border: 1px solid #ddd; padding: 12px; vertical-align: top;"><strong>Week 5</strong></td>
     <td style="border: 1px solid #ddd; padding: 12px; vertical-align: top;">
       <ul style="margin: 0; padding-left: 20px;">
-        <li><strong>L8:</strong> Validation & exam preparations. [INSP] [<a href="http://fileadmin.cs.lth.se/krav/L8.pdf">PDF-2025</a>]</li>
+        <li><strong>L8:</strong> Validation & exam preparations. [INSP] [<a href="http://fileadmin.cs.lth.se/krav/L8.pdf">PDF-2026</a>]</li>
       </ul>
     </td>
   </tr>
