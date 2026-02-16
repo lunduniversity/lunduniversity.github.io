@@ -110,8 +110,8 @@ The exercise instructions will be published on this page as the course progresse
   * [2025 Project missions](https://fileadmin.cs.lth.se/krav/PMsV2_2025.pdf) (alfa: squulgame, beta: edubee, gamma: easyTrip, delta: imMune) 
   * [2024 Project missions](https://fileadmin.cs.lth.se/krav/PMsV1_2024.pdf) (1: Codiska, 2: Pedatim, 3: M-SOLAR, 4: Vomerce)
   * [2023 Project missions](https://fileadmin.cs.lth.se/krav/PMsV1_2023.pdf) (1: Codiska, 2: EyeTalkHealth, 3: Pinteg, 4: Product Shot, 5: Medshare, 6: Noui, 7: Agrodit)
-  * [2022 Project missions](https://fileadmin.cs.lth.se/krav/ETSN15_PM_2022.pdf)
-  * [2021 Project missions](http://fileadmin.cs.lth.se/cs/Education/ETSN15/pm2021-v1.pdf)
+  * [2022 Project missions](https://fileadmin.cs.lth.se/krav/ETSN15_PM_2022.pdf) (1: Ablemind, 2: AgVital, 3: CAMP, 4: Noui, 5: PINTEG, 6: Sibsolutions, 7: Sustainablee)
+  * [2021 Project missions](http://fileadmin.cs.lth.se/cs/Education/ETSN15/pm2021-v1.pdf) (1: cherry.blossom, 2: Finn von Appen, 3: Smart Green Station, 4: PINTEG, 5: Virtual Matching Platform, 6: Noui, 7: Amibotic by Vision 61, 8: Tradex Sports eSports Index, 9: Acorai, 10: AgVital) 
 
 ## Labs
 
