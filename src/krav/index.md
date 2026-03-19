@@ -168,11 +168,11 @@ Downloadable pdfs of papers below are available in Canvas.
 * **[INSP]** Karlsson, Joachim.  ”Att inspektera krav”. Framgångsrik kravhantering, andra utgåvan, Teknikföretagen, V040072, ISSN 1103-7008, Sid 67-76, 1998.
 
 ## Old Exams
-- 2025-08-21: [exam](http://fileadmin.cs.lth.se/krav/250821-tenta-ETSN15.pdf) and [marking guide](http://fileadmin.cs.lth.se/krav/250821-facit-ETSN15.pdf) *Note:* Part B format update: more but shorter free text questions.
+- 2026-03-18: [exam](http://fileadmin.cs.lth.se/krav/260318-tenta-ETSN15.pdf) and [marking guide](http://fileadmin.cs.lth.se/krav/260318-facit-ETSN15.pdf)
+- 2025-08-21: [exam](http://fileadmin.cs.lth.se/krav/250821-tenta-ETSN15.pdf) and [marking guide](http://fileadmin.cs.lth.se/krav/250821-facit-ETSN15.pdf) *Note:* Part B exam format update: more but shorter free text questions.
 - 2025-03-30: [exam](http://fileadmin.cs.lth.se/krav/250320-tenta-ETSN15.pdf) and [marking guide](http://fileadmin.cs.lth.se/krav/250320-facit-ETSN15.pdf)
 - 2024-03-15: [exam](http://fileadmin.cs.lth.se/krav/240315-tenta-ETSN15.pdf) and [marking guide](http://fileadmin.cs.lth.se/krav/240315-facit-ETSN15.pdf)
 - 2023-03-17: [exam](http://fileadmin.cs.lth.se/krav/230317-tenta-ETSN15.pdf) and [marking guide](http://fileadmin.cs.lth.se/krav/230317-facit-ETSN15.pdf)
-- 2022-03-18: [exam](http://fileadmin.cs.lth.se/krav/220318_tenta-ETSN15.pdf) with marking guide for [U1](http://fileadmin.cs.lth.se/krav/220318_facit-ETSN15.pdf), [U2](http://fileadmin.cs.lth.se/krav/220318_U2_rättningsmall.pdf) and [U3](http://fileadmin.cs.lth.se/krav/220318_U3_rättningsmall.pdf)
 
 ## Terminology
 
