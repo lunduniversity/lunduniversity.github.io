@@ -38,7 +38,7 @@
 
 ## Short Bio
 
-Professor Björn Regnell has over 30 years of experience in software engineering with focus on empirical research in software requirements engineering. He has served as Vice Dean of Research at the Faculty of Engineering of Lund University with focus on quality of graduate level education. He is a member of the editorial board of the Requirements Engineering journal (Springer-Nature). He is also engaged in the governing committee of the Scala open-source programming language. He is an awarded teacher in software engineering and programming. He is currently Vice Head of Department for Faculty Development and Career Advancement at the Dept. of Computer Science, Lund University.
+Professor Björn Regnell has over 30 years of experience in software engineering with focus on empirical research in software requirements engineering. He has served as Vice Dean of Research at the Faculty of Engineering of Lund University with focus on quality of graduate level education. He has served as a member of the editorial board of the Requirements Engineering journal (Springer-Nature) 2008-2026. He is also engaged in the governing committee of the Scala open-source programming language since 2022. He is an awarded teacher in software engineering and programming. He is currently Vice Head of Department for Faculty Development and Career Advancement at the Dept. of Computer Science, Lund University.
 
 ## Longer Biography
 
@@ -50,7 +50,7 @@ Prof. Regnell was 2009-2015 **Vice Dean of Research**, Faculty of Engineering LT
 
 Prof. Regnell was during 2014-2017 the **Inspector of the Doctoral Student Guild** at the Faculty of Engineering (LTH), Lund University. He was during 2023-2024 the **Inspector of the Student Guild of Computer Science and Information Technology** at the Faculty of Engineering, Lund University.
 
-Prof. Regnell has been **Program Chair of International Working Conference on Requirements Engineering: Foundation for Software Quality** (REFSQ), and a member of the Program Board/Committee of International Requirements Engineering Conference (**RE**). He is/was a reviewer for several high-impact journals and peer-reviewed conference program committees including International Conference on Software Engineering (**ICSE**) 2013. He was Steering Committee Chair of REFSQ 2013-2017. He is currently a member of the and a Program Committee member of **REFSQ**.
+Prof. Regnell has been **Program Chair of International Working Conference on Requirements Engineering: Foundation for Software Quality** (REFSQ), and a member of the Program Board/Committee of International Requirements Engineering Conference (**RE**). He is/was a reviewer for several high-impact journals and peer-reviewed conference program committees including International Conference on Software Engineering (**ICSE**) 2013. He was Steering Committee Chair of REFSQ 2013-2017. He has served as a member of the Program Committee member of **REFSQ** 1999-2026.
 
 Prof. Regnell has published more than 100 peer-reviewed research articles in journals and at conferences. He has edited several special issues in journals and proceedings and he is co-author of several books including the widely cited "**Experimentation in Software Engineering**" (Springer, 2000 1st Ed, 2024 2nd Ed) and "**Case Study Research in Software Engineering**" (Wiley, 2012).
 
