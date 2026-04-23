@@ -109,11 +109,22 @@ grund för fortsatta studier i systemutveckling.
 
 Kursen har två delar: en för programmering ([*prog*](#programmering-prog)) och en för datorer och
 datoranvändning ([*dod*](#datorer-och-datoranvändning-dod)). Prog-delen pågår under alla kursens 14 läsveckor, medan
-dod-delen endast pågår under de fyra första veckorna.
+dod-delen endast pågår under läsveckorna 1-2 (de två första veckorna i lp1) samt läsveckorna 8-9 (de två första veckorna i läsperiod 2).
 
 Prog-delen gavs för första gången 2016 för D-programmet. Här presenteras den pedagogiska idén samt **erfarenheter från kursens tre första år**: [Bilder](https://github.com/bjornregnell/scala-first-lessons) och [video (mp4)](https://fileadmin.cs.lth.se/pgk/scala-first-lessons.mp4). Presentationen gavs på konferensen *Scala Days* 2019 i Lusanne.
 
 <iframe width="425" height="240" src="https://www.youtube.com/embed/ii_sC1TfpZY" title="Scala First Lessons from 3 student generations - Björn Regnell" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Veckoöversikt (prog + dod)
+
+<script type="text/javascript">
+  $(function(){
+    const uri = 'resources/week-plan-generated.html';
+    loadContent(uri, '#week-plan-generated');
+  });
+</script>
+<div id="week-plan-generated"></div>
+
 
 ### Information till äldre studenter
 
@@ -162,15 +173,7 @@ Prog-delen gavs för första gången 2016 för D-programmet. Här presenteras de
 <div id="sec_prog">
 ## Programmering (prog)
 
-### Översikt (prog)
-
-<script type="text/javascript">
-  $(function(){
-    const uri = 'resources/week-plan-generated.html';
-    loadContent(uri, '#week-plan-generated');
-  });
-</script>
-<div id="week-plan-generated"></div>
+I denna del lär du dig grundläggande programmeringsprinciper och datavetenskapliga begrepp. Du lär dig programmeringsspråket Scala, att konstruera algoritmer, att använda datastrukturer, programmeringsverktyg och mycket annat.
 
 ### Föreläsningar (prog)
 
@@ -255,8 +258,6 @@ Kurskompendiet, som är fritt att ladda ner, definierar kursens innehåll och pr
 <div id="sec_dod">
 
 ## Datorer och datoranvändning (dod)
-
-### Översikt (dod)
 
 I denna del lär du dig några viktiga programmeringsverktyg som används i
 professionell systemutveckling. Dod omfattar 4 föreläsningar och 4 laborationer
