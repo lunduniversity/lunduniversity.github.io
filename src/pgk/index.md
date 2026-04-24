@@ -82,6 +82,36 @@ document.addEventListener("DOMContentLoaded", () => {
 
 <div id="section-indicator" aria-hidden="true">📌 Sektionstitel</div>
 
+<div id="sec_links">
+## Länkar
+
+- Schema:
+  - [TimeEdit 2025](https://cloud.timeedit.net/lu/web/lth1/ri19566250000YQQ28Z0507007y9Y4763gQ0g5X6Y65ZQ176.html) veckoschema med LTH:s schemasystem
+  - [Kapten Alloc 2025](https://fileadmin.cs.lth.se/pgk/kaptenalloc/) schematabell med grupp+rum och filterfunktion
+- Kursmaterial:
+  - [Kurskompendium Programmering hela kursen](https://fileadmin.cs.lth.se/pgk/compendium.pdf)
+    (ca 730 sidor, anpassad för skärm)
+  - [Kurskompendium Programmering end. lp1](https://fileadmin.cs.lth.se/pgk/compendium1.pdf)
+    (ca 380 sidor, anpassad för papper)
+  - [Kurskompendium Programmering end. lp2](https://fileadmin.cs.lth.se/pgk/compendium2.pdf)
+    (ca 380 sidor, anpassad för papper)
+  - [Öppen källkod för Kompendium Programmering](http://github.com/lunduniversity/introprog)
+  - [Kompendium Datorer och datoranvändning](https://github.com/lunduniversity/introprog-computer-intro/releases/tag/dodlabs_latest)
+- [Snabbreferens](https://fileadmin.cs.lth.se/pgk/quickref.pdf)
+- Kodbibliotek `introprog-scalalib`:
+  - [github.com/lunduniversity/introprog-scalalib](http://github.com/lunduniversity/introprog-scalalib)
+  - [Api-dokumentation `introprog-scalalib`](https://fileadmin.cs.lth.se/pgk/api)
+- Workspace med given kod till labbar: [fileadmin.cs.lth.se/pgk/workspace.zip](https://fileadmin.cs.lth.se/pgk/workspace.zip)
+- Lärplattform:
+  - [Kursyta för pgk 2025 i Canvas](https://canvas.education.lu.se/courses/35559) (end. åtkomlig för registrerade studenter)
+  - [Permanent öppen information i Canvas](https://canvas.education.lu.se/courses/35559)
+- [Student Achievement Management (SAM), studentlogin]()
+- [Ladok Login för studenter](https://www.student.ladok.se/student/app/studentwebb/)
+- [Formell kursplan](https://kurser.lth.se/kursplaner/senaste/EDAB05.html)
+- [Översiktligt kursprogram](https://fileadmin.cs.lth.se/pgk/courseplan.pdf)
+
+</div>
+
 <div id="sec_about">
 ## Om kursen
 
@@ -99,8 +129,6 @@ document.addEventListener("DOMContentLoaded", () => {
 * **Kursansv.**: [Björn Regnell](../bjornregnell)  
 * **Bitr. kursansv.**: [Mattias Nordahl](https://cs.lth.se/nordahl-mattias/)
 
-### Översikt
-
 Kursen omfattar grundläggande programmeringsprinciper och datavetenskapliga
 begrepp. Du lär dig programmeringsspråket [Scala](https://www.scala-lang.org/),
 att konstruera algoritmer, att använda datastrukturer, programmeringsverktyg och
@@ -116,6 +144,8 @@ Prog-delen gavs för första gången 2016 för D-programmet. Här presenteras de
 <iframe width="425" height="240" src="https://www.youtube.com/embed/ii_sC1TfpZY" title="Scala First Lessons from 3 student generations - Björn Regnell" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Veckoöversikt (prog + dod)
+
+Varje vecka består av föreläsningar där du får en teoretisk översikt, resurstider där du jobbar självständigt med övningar och labbförberedelser och får hjälp av handledare, samt laborationer där du gör klart en större uppgift, får hjälp av handledare och redovisar din färdiga uppgift för handledare. I kolumnen "Förel" nedan börjar [programmeringsföreläsningar](#föreläsningar-prog) med med P och föreläsningar i datorer och datoranvändning börjar med D. De kursmoment som har en nolla/etta efter sig går över två veckor.
 
 <script type="text/javascript">
   $(function(){
@@ -140,35 +170,7 @@ Prog-delen gavs för första gången 2016 för D-programmet. Här presenteras de
 
 </div>
 
-<div id="sec_links">
-## Länkar
 
-- Schema [TimeEdit](https://cloud.timeedit.net/lu/web/lth1/ri19566250000YQQ28Z0507007y9Y4763gQ0g5X6Y65ZQ176.html) [Kapten Alloc](https://fileadmin.cs.lth.se/pgk/kaptenalloc/)
-- Kursmaterial:
-  - [Kurskompendium Programmering hela kursen](https://fileadmin.cs.lth.se/pgk/compendium.pdf)
-    (ca 730 sidor, anpassad för skärm)
-  - [Kurskompendium Programmering end. lp1](https://fileadmin.cs.lth.se/pgk/compendium1.pdf)
-    (ca 380 sidor, anpassad för papper)
-  - [Kurskompendium Programmering end. lp2](https://fileadmin.cs.lth.se/pgk/compendium2.pdf)
-    (ca 380 sidor, anpassad för papper)
-  - [Öppen källkod för Kompendium Programmering](http://github.com/lunduniversity/introprog)
-  - [Kompendium Datorer och datoranvändning](https://github.com/lunduniversity/introprog-computer-intro/releases/tag/dodlabs_latest)
-- [Snabbreferens](https://fileadmin.cs.lth.se/pgk/quickref.pdf)
-- Kodbibliotek `introprog-scalalib`:
-  - [github.com/lunduniversity/introprog-scalalib](http://github.com/lunduniversity/introprog-scalalib)
-  - [Api-dokumentation `introprog-scalalib`](https://fileadmin.cs.lth.se/pgk/api)
-- Workspace med given kod till labbar: [fileadmin.cs.lth.se/pgk/workspace.zip](https://fileadmin.cs.lth.se/pgk/workspace.zip)
-- Lärplattform:
-  - [Kursyta för pgk 2025 i Canvas](https://canvas.education.lu.se/courses/35559) (end. åtkomlig för registrerade studenter)
-  - [Permanent öppen information i Canvas](https://canvas.education.lu.se/courses/35559)
-- [Ladok Login för studenter](https://www.student.ladok.se/student/app/studentwebb/)
-- [Formell kursplan](https://kurser.lth.se/kursplaner/senaste/EDAB05.html)
-- [Översiktligt kursprogram](https://fileadmin.cs.lth.se/pgk/courseplan.pdf)
-- Senaste kursutvärdering (begr. access inom lu/lth): 
-  - [CEQ prog (tidigare EDAA45) 2024](https://www.ceq.lth.se/rapporter/ceq/2024_HT/LP2/EDAA45_2024_HT_LP2_slutrapport.html)
-  - [CEQ dod (tidigare EDAA60) 2024](https://www.ceq.lth.se/rapporter/ceq/2024_HT/LP1/EDAA60_2024_HT_LP1_slutrapport.html)
-
-</div>
 
 <div id="sec_prog">
 ## Programmering (prog)
@@ -291,6 +293,39 @@ Det finns också ett [arkiv med labbfiler](https://fileadmin.cs.lth.se/pgk/dod-l
 - **Lab**:
   - Se laborationshäftet ovan.
 
+### Maskinkod (dod)
+
+- **Föreläsningsbilder**:
+
+  - [PDF Maskinkod](https://github.com/lunduniversity/introprog-computer-intro/releases/tag/slides_machine-code_latest)
+
+- **Lab**:
+  - Se laborationshäftet ovan.
+  - [c3pu](https://github.com/lunduniversity/introprog-cpu-emulator/releases/latest) (CPU-emulator som ni ska använda i labben)
+
+
+### Typsättning (dod)
+
+- **Läsning**:
+
+  - [LaTeX-kompendium (av Per Foreby)](http://www.ddg.lth.se/perf/handledning/)
+  - [Linuxkompendium](https://github.com/lunduniversity/introprog-linux/releases/latest)
+
+- **Föreläsningsbilder**:
+
+  - [PDF LaTeX](https://github.com/lunduniversity/introprog-computer-intro/releases/tag/slides_latex_latest)
+
+- **Mera intressant**:
+
+  - [Overleaf](http://www.overleaf.com/)
+  - [Wikipedia LaTeX](http://en.wikipedia.org/wiki/LaTeX)
+  - [TeX Users Grup](http://www.tug.org/)
+  - LaTeX cheat sheet, t.ex. [här](https://wch.github.io/latexsheet/)
+
+- **Lab**:
+  - Se laborationshäftet och labbfilerna ovan.
+
+
 ### Versionshantering (dod)
 
 - **Läsning**:
@@ -319,36 +354,7 @@ Det finns också ett [arkiv med labbfiler](https://fileadmin.cs.lth.se/pgk/dod-l
 - **Lab**:
   - Se laborationshäftet ovan.
 
-### Typsättning (dod)
 
-- **Läsning**:
-
-  - [LaTeX-kompendium (av Per Foreby)](http://www.ddg.lth.se/perf/handledning/)
-  - [Linuxkompendium](https://github.com/lunduniversity/introprog-linux/releases/latest)
-
-- **Föreläsningsbilder**:
-
-  - [PDF LaTeX](https://github.com/lunduniversity/introprog-computer-intro/releases/tag/slides_latex_latest)
-
-- **Mera intressant**:
-
-  - [Overleaf](http://www.overleaf.com/)
-  - [Wikipedia LaTeX](http://en.wikipedia.org/wiki/LaTeX)
-  - [TeX Users Grup](http://www.tug.org/)
-  - LaTeX cheat sheet, t.ex. [här](https://wch.github.io/latexsheet/)
-
-- **Lab**:
-  - Se laborationshäftet och labbfilerna ovan.
-
-### Maskinkod (dod)
-
-- **Föreläsningsbilder**:
-
-  - [PDF Maskinkod](https://github.com/lunduniversity/introprog-computer-intro/releases/tag/slides_machine-code_latest)
-
-- **Lab**:
-  - Se laborationshäftet ovan.
-  - [c3pu](https://github.com/lunduniversity/introprog-cpu-emulator/releases/latest) (CPU-emulator som ni ska använda i labben)
 
 </div>
 

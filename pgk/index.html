@@ -37,10 +37,10 @@
 </header>
 <nav id="TOC" role="doc-toc">
 <ul>
+<li><a href="#länkar" id="toc-länkar">Länkar</a></li>
 <li><a href="#om-kursen" id="toc-om-kursen">Om kursen</a>
 <ul>
 <li><a href="#kursfakta" id="toc-kursfakta">Kursfakta</a></li>
-<li><a href="#översikt" id="toc-översikt">Översikt</a></li>
 <li><a href="#veckoöversikt-prog-dod"
 id="toc-veckoöversikt-prog-dod">Veckoöversikt (prog + dod)</a></li>
 <li><a href="#information-till-äldre-studenter"
@@ -50,7 +50,6 @@ studenter</a></li>
 id="toc-information-till-programbytare">Information till
 programbytare</a></li>
 </ul></li>
-<li><a href="#länkar" id="toc-länkar">Länkar</a></li>
 <li><a href="#programmering-prog"
 id="toc-programmering-prog">Programmering (prog)</a>
 <ul>
@@ -71,12 +70,12 @@ id="toc-datorer-och-datoranvändning-dod">Datorer och datoranvändning
 <ul>
 <li><a href="#operativsystem-dod"
 id="toc-operativsystem-dod">Operativsystem (dod)</a></li>
-<li><a href="#versionshantering-dod"
-id="toc-versionshantering-dod">Versionshantering (dod)</a></li>
-<li><a href="#typsättning-dod" id="toc-typsättning-dod">Typsättning
-(dod)</a></li>
 <li><a href="#maskinkod-dod" id="toc-maskinkod-dod">Maskinkod
 (dod)</a></li>
+<li><a href="#typsättning-dod" id="toc-typsättning-dod">Typsättning
+(dod)</a></li>
+<li><a href="#versionshantering-dod"
+id="toc-versionshantering-dod">Versionshantering (dod)</a></li>
 </ul></li>
 <li><a href="#verktyg" id="toc-verktyg">Verktyg</a>
 <ul>
@@ -177,109 +176,17 @@ document.addEventListener("DOMContentLoaded", () => {
 <div id="section-indicator" aria-hidden="true">
 📌 Sektionstitel
 </div>
-<div id="sec_about">
-<h2 id="om-kursen">Om kursen</h2>
-<h3 id="kursfakta">Kursfakta</h3>
-<ul>
-<li><strong>Namn</strong>: Programmering, grundkurs (Scala)</li>
-<li><strong>Poäng</strong>: 10,5 högskolepoäng</li>
-<li><strong>Period</strong>: höstterminen läsperiod 1 och 2</li>
-<li><strong>LTH-program</strong>: Obligatorisk för
-civilingenjörsprogrammen <a
-href="https://kurser.lth.se/lot/programme?programme=C">Infocom (C)</a>
-och <a href="https://kurser.lth.se/lot/programme?programme=D">Datateknik
-(D)</a></li>
-<li><strong>Kursstart</strong>: Måndagen den 1 september kl 13:15 i <a
-href="https://fileadmin.cs.lth.se/cs/Bilder/Salar/EA.pdf">E:A</a></li>
-<li><strong>Schema</strong>: <a
-href="https://cloud.timeedit.net/lu/web/lth1/ri19566250000YQQ28Z0507007y9Y4763gQ0g5X6Y65ZQ176.html">TimeEdit</a>,
-<a href="https://fileadmin.cs.lth.se/pgk/kaptenalloc/">Kapten
-Alloc</a></li>
-<li><strong>Kursplan</strong>: <a
-href="https://kurser.lth.se/kursplaner/senaste/EDAB05.html">EDAB05-sv</a>,
-<a
-href="https://kurser.lth.se/kursplaner/senaste-en/EDAB05.html">EDAB05-en</a></li>
-<li><strong>Kompendium</strong>: <a
-href="https://fileadmin.cs.lth.se/pgk/compendium.pdf">fileadmin.cs.lth.se/pgk/compendium.pdf</a></li>
-<li><strong>Lärplattform</strong> (kräver inloggning): <a
-href="https://canvas.education.lu.se/courses/37281">Kursyta 2025</a> <a
-href="https://canvas.education.lu.se/courses/35559">Permanent
-info</a></li>
-<li><strong>Kursansv.</strong>: <a href="../bjornregnell">Björn
-Regnell</a><br />
-</li>
-<li><strong>Bitr. kursansv.</strong>: <a
-href="https://cs.lth.se/nordahl-mattias/">Mattias Nordahl</a></li>
-</ul>
-<h3 id="översikt">Översikt</h3>
-<p>Kursen omfattar grundläggande programmeringsprinciper och
-datavetenskapliga begrepp. Du lär dig programmeringsspråket <a
-href="https://www.scala-lang.org/">Scala</a>, att konstruera algoritmer,
-att använda datastrukturer, programmeringsverktyg och mycket annat. Det
-krävs inga förkunskaper i programmering. Kursen ger en solid grund för
-fortsatta studier i systemutveckling.</p>
-<p>Kursen har två delar: en för programmering (<a
-href="#programmering-prog"><em>prog</em></a>) och en för datorer och
-datoranvändning (<a
-href="#datorer-och-datoranvändning-dod"><em>dod</em></a>). Prog-delen
-pågår under alla kursens 14 läsveckor, medan dod-delen endast pågår
-under läsveckorna 1-2 (de två första veckorna i lp1) samt läsveckorna
-8-9 (de två första veckorna i läsperiod 2).</p>
-<p>Prog-delen gavs för första gången 2016 för D-programmet. Här
-presenteras den pedagogiska idén samt <strong>erfarenheter från kursens
-tre första år</strong>: <a
-href="https://github.com/bjornregnell/scala-first-lessons">Bilder</a>
-och <a
-href="https://fileadmin.cs.lth.se/pgk/scala-first-lessons.mp4">video
-(mp4)</a>. Presentationen gavs på konferensen <em>Scala Days</em> 2019 i
-Lusanne.</p>
-<iframe width="425" height="240" src="https://www.youtube.com/embed/ii_sC1TfpZY" title="Scala First Lessons from 3 student generations - Björn Regnell" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
-</iframe>
-<h3 id="veckoöversikt-prog-dod">Veckoöversikt (prog + dod)</h3>
-<script type="text/javascript">
-  $(function(){
-    const uri = 'resources/week-plan-generated.html';
-    loadContent(uri, '#week-plan-generated');
-  });
-</script>
-<div id="week-plan-generated">
-
-</div>
-<h3 id="information-till-äldre-studenter">Information till äldre
-studenter</h3>
-<ul>
-<li>Kursen EDAB05 ersätter från och med HT2025 de båda kurserna EDAA45
-och EDAA60.</li>
-<li>Examinationen ändrades från och med HT2021 då tentan blev valfri och
-ett muntligt prov infördes. Äldre studenter följer nya
-examinationsformen. Kontakta kursanvarig för mer information.</li>
-<li>Från HT2021 läser även C-programmet denna kurs som sin första
-programmeringskurs. Äldre C-studenter: kontakta <a
-href="https://www.student.lth.se/stoed-och-service/studievaegledning/">studievägledare</a>
-för mer information.</li>
-</ul>
-<h3 id="information-till-programbytare">Information till
-programbytare</h3>
-<ul>
-<li>Studenter som byter från annat program till C eller D och redan har
-läst en programmeringskurs på universitetsnivå omfattande minst 7,5 hp
-kan ansöka om att tillgodoräkna prog-delen och bara delta i dod-delen,
-men även de med formella förkunskaper kan ha stor nytta av <em>hela</em>
-denna grundkurs på 10,5 hp som är specialanpassad för C och D och
-innehåller stora möjligheter till fördjupning och ger en solid grund för
-fortsatta studier i systemutveckling.</li>
-<li>Kontakta <a
-href="https://www.student.lth.se/stoed-och-service/studievaegledning/">studievägledare</a>
-för mer information om ansökan om tillgodoräknande.</li>
-</ul>
-</div>
 <div id="sec_links">
 <h2 id="länkar">Länkar</h2>
 <ul>
-<li>Schema <a
-href="https://cloud.timeedit.net/lu/web/lth1/ri19566250000YQQ28Z0507007y9Y4763gQ0g5X6Y65ZQ176.html">TimeEdit</a>
-<a href="https://fileadmin.cs.lth.se/pgk/kaptenalloc/">Kapten
-Alloc</a></li>
+<li>Schema:
+<ul>
+<li><a
+href="https://cloud.timeedit.net/lu/web/lth1/ri19566250000YQQ28Z0507007y9Y4763gQ0g5X6Y65ZQ176.html">TimeEdit
+2025</a> veckoschema med LTH:s schemasystem</li>
+<li><a href="https://fileadmin.cs.lth.se/pgk/kaptenalloc/">Kapten Alloc
+2025</a> schematabell med grupp+rum och filterfunktion</li>
+</ul></li>
 <li>Kursmaterial:
 <ul>
 <li><a
@@ -324,15 +231,109 @@ kursplan</a></li>
 <li><a
 href="https://fileadmin.cs.lth.se/pgk/courseplan.pdf">Översiktligt
 kursprogram</a></li>
-<li>Senaste kursutvärdering (begr. access inom lu/lth):
+</ul>
+</div>
+<div id="sec_about">
+<h2 id="om-kursen">Om kursen</h2>
+<h3 id="kursfakta">Kursfakta</h3>
 <ul>
-<li><a
-href="https://www.ceq.lth.se/rapporter/ceq/2024_HT/LP2/EDAA45_2024_HT_LP2_slutrapport.html">CEQ
-prog (tidigare EDAA45) 2024</a></li>
-<li><a
-href="https://www.ceq.lth.se/rapporter/ceq/2024_HT/LP1/EDAA60_2024_HT_LP1_slutrapport.html">CEQ
-dod (tidigare EDAA60) 2024</a></li>
-</ul></li>
+<li><strong>Namn</strong>: Programmering, grundkurs (Scala)</li>
+<li><strong>Poäng</strong>: 10,5 högskolepoäng</li>
+<li><strong>Period</strong>: höstterminen läsperiod 1 och 2</li>
+<li><strong>LTH-program</strong>: Obligatorisk för
+civilingenjörsprogrammen <a
+href="https://kurser.lth.se/lot/programme?programme=C">Infocom (C)</a>
+och <a href="https://kurser.lth.se/lot/programme?programme=D">Datateknik
+(D)</a></li>
+<li><strong>Kursstart</strong>: Måndagen den 1 september kl 13:15 i <a
+href="https://fileadmin.cs.lth.se/cs/Bilder/Salar/EA.pdf">E:A</a></li>
+<li><strong>Schema</strong>: <a
+href="https://cloud.timeedit.net/lu/web/lth1/ri19566250000YQQ28Z0507007y9Y4763gQ0g5X6Y65ZQ176.html">TimeEdit</a>,
+<a href="https://fileadmin.cs.lth.se/pgk/kaptenalloc/">Kapten
+Alloc</a></li>
+<li><strong>Kursplan</strong>: <a
+href="https://kurser.lth.se/kursplaner/senaste/EDAB05.html">EDAB05-sv</a>,
+<a
+href="https://kurser.lth.se/kursplaner/senaste-en/EDAB05.html">EDAB05-en</a></li>
+<li><strong>Kompendium</strong>: <a
+href="https://fileadmin.cs.lth.se/pgk/compendium.pdf">fileadmin.cs.lth.se/pgk/compendium.pdf</a></li>
+<li><strong>Lärplattform</strong> (kräver inloggning): <a
+href="https://canvas.education.lu.se/courses/37281">Kursyta 2025</a> <a
+href="https://canvas.education.lu.se/courses/35559">Permanent
+info</a></li>
+<li><strong>Kursansv.</strong>: <a href="../bjornregnell">Björn
+Regnell</a><br />
+</li>
+<li><strong>Bitr. kursansv.</strong>: <a
+href="https://cs.lth.se/nordahl-mattias/">Mattias Nordahl</a></li>
+</ul>
+<p>Kursen omfattar grundläggande programmeringsprinciper och
+datavetenskapliga begrepp. Du lär dig programmeringsspråket <a
+href="https://www.scala-lang.org/">Scala</a>, att konstruera algoritmer,
+att använda datastrukturer, programmeringsverktyg och mycket annat. Det
+krävs inga förkunskaper i programmering. Kursen ger en solid grund för
+fortsatta studier i systemutveckling.</p>
+<p>Kursen har två delar: en för programmering (<a
+href="#programmering-prog"><em>prog</em></a>) och en för datorer och
+datoranvändning (<a
+href="#datorer-och-datoranvändning-dod"><em>dod</em></a>). Prog-delen
+pågår under alla kursens 14 läsveckor, medan dod-delen endast pågår
+under läsveckorna 1-2 (de två första veckorna i lp1) samt läsveckorna
+8-9 (de två första veckorna i läsperiod 2).</p>
+<p>Prog-delen gavs för första gången 2016 för D-programmet. Här
+presenteras den pedagogiska idén samt <strong>erfarenheter från kursens
+tre första år</strong>: <a
+href="https://github.com/bjornregnell/scala-first-lessons">Bilder</a>
+och <a
+href="https://fileadmin.cs.lth.se/pgk/scala-first-lessons.mp4">video
+(mp4)</a>. Presentationen gavs på konferensen <em>Scala Days</em> 2019 i
+Lusanne.</p>
+<iframe width="425" height="240" src="https://www.youtube.com/embed/ii_sC1TfpZY" title="Scala First Lessons from 3 student generations - Björn Regnell" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+</iframe>
+<h3 id="veckoöversikt-prog-dod">Veckoöversikt (prog + dod)</h3>
+<p>Varje vecka består av föreläsningar där du får en teoretisk översikt,
+resurstider där du jobbar självständigt med övningar och
+labbförberedelser och får hjälp av handledare, samt laborationer där du
+gör klart en större uppgift, får hjälp av handledare och redovisar din
+färdiga uppgift för handledare. I kolumnen “Förel” nedan börjar <a
+href="#föreläsningar-prog">programmeringsföreläsningar</a> med med P och
+föreläsningar i datorer och datoranvändning börjar med D. De kursmoment
+som har en nolla/etta efter sig går över två veckor.</p>
+<script type="text/javascript">
+  $(function(){
+    const uri = 'resources/week-plan-generated.html';
+    loadContent(uri, '#week-plan-generated');
+  });
+</script>
+<div id="week-plan-generated">
+
+</div>
+<h3 id="information-till-äldre-studenter">Information till äldre
+studenter</h3>
+<ul>
+<li>Kursen EDAB05 ersätter från och med HT2025 de båda kurserna EDAA45
+och EDAA60.</li>
+<li>Examinationen ändrades från och med HT2021 då tentan blev valfri och
+ett muntligt prov infördes. Äldre studenter följer nya
+examinationsformen. Kontakta kursanvarig för mer information.</li>
+<li>Från HT2021 läser även C-programmet denna kurs som sin första
+programmeringskurs. Äldre C-studenter: kontakta <a
+href="https://www.student.lth.se/stoed-och-service/studievaegledning/">studievägledare</a>
+för mer information.</li>
+</ul>
+<h3 id="information-till-programbytare">Information till
+programbytare</h3>
+<ul>
+<li>Studenter som byter från annat program till C eller D och redan har
+läst en programmeringskurs på universitetsnivå omfattande minst 7,5 hp
+kan ansöka om att tillgodoräkna prog-delen och bara delta i dod-delen,
+men även de med formella förkunskaper kan ha stor nytta av <em>hela</em>
+denna grundkurs på 10,5 hp som är specialanpassad för C och D och
+innehåller stora möjligheter till fördjupning och ger en solid grund för
+fortsatta studier i systemutveckling.</li>
+<li>Kontakta <a
+href="https://www.student.lth.se/stoed-och-service/studievaegledning/">studievägledare</a>
+för mer information om ansökan om tillgodoräknande.</li>
 </ul>
 </div>
 <div id="sec_prog">
@@ -573,6 +574,51 @@ sheet</a></li>
 <li>Se laborationshäftet ovan.</li>
 </ul></li>
 </ul>
+<h3 id="maskinkod-dod">Maskinkod (dod)</h3>
+<ul>
+<li><p><strong>Föreläsningsbilder</strong>:</p>
+<ul>
+<li><a
+href="https://github.com/lunduniversity/introprog-computer-intro/releases/tag/slides_machine-code_latest">PDF
+Maskinkod</a></li>
+</ul></li>
+<li><p><strong>Lab</strong>:</p>
+<ul>
+<li>Se laborationshäftet ovan.</li>
+<li><a
+href="https://github.com/lunduniversity/introprog-cpu-emulator/releases/latest">c3pu</a>
+(CPU-emulator som ni ska använda i labben)</li>
+</ul></li>
+</ul>
+<h3 id="typsättning-dod">Typsättning (dod)</h3>
+<ul>
+<li><p><strong>Läsning</strong>:</p>
+<ul>
+<li><a href="http://www.ddg.lth.se/perf/handledning/">LaTeX-kompendium
+(av Per Foreby)</a></li>
+<li><a
+href="https://github.com/lunduniversity/introprog-linux/releases/latest">Linuxkompendium</a></li>
+</ul></li>
+<li><p><strong>Föreläsningsbilder</strong>:</p>
+<ul>
+<li><a
+href="https://github.com/lunduniversity/introprog-computer-intro/releases/tag/slides_latex_latest">PDF
+LaTeX</a></li>
+</ul></li>
+<li><p><strong>Mera intressant</strong>:</p>
+<ul>
+<li><a href="http://www.overleaf.com/">Overleaf</a></li>
+<li><a href="http://en.wikipedia.org/wiki/LaTeX">Wikipedia
+LaTeX</a></li>
+<li><a href="http://www.tug.org/">TeX Users Grup</a></li>
+<li>LaTeX cheat sheet, t.ex. <a
+href="https://wch.github.io/latexsheet/">här</a></li>
+</ul></li>
+<li><p><strong>Lab</strong>:</p>
+<ul>
+<li>Se laborationshäftet och labbfilerna ovan.</li>
+</ul></li>
+</ul>
 <h3 id="versionshantering-dod">Versionshantering (dod)</h3>
 <ul>
 <li><p><strong>Läsning</strong>:</p>
@@ -615,51 +661,6 @@ grundligt.</em>)</li>
 <li><p><strong>Lab</strong>:</p>
 <ul>
 <li>Se laborationshäftet ovan.</li>
-</ul></li>
-</ul>
-<h3 id="typsättning-dod">Typsättning (dod)</h3>
-<ul>
-<li><p><strong>Läsning</strong>:</p>
-<ul>
-<li><a href="http://www.ddg.lth.se/perf/handledning/">LaTeX-kompendium
-(av Per Foreby)</a></li>
-<li><a
-href="https://github.com/lunduniversity/introprog-linux/releases/latest">Linuxkompendium</a></li>
-</ul></li>
-<li><p><strong>Föreläsningsbilder</strong>:</p>
-<ul>
-<li><a
-href="https://github.com/lunduniversity/introprog-computer-intro/releases/tag/slides_latex_latest">PDF
-LaTeX</a></li>
-</ul></li>
-<li><p><strong>Mera intressant</strong>:</p>
-<ul>
-<li><a href="http://www.overleaf.com/">Overleaf</a></li>
-<li><a href="http://en.wikipedia.org/wiki/LaTeX">Wikipedia
-LaTeX</a></li>
-<li><a href="http://www.tug.org/">TeX Users Grup</a></li>
-<li>LaTeX cheat sheet, t.ex. <a
-href="https://wch.github.io/latexsheet/">här</a></li>
-</ul></li>
-<li><p><strong>Lab</strong>:</p>
-<ul>
-<li>Se laborationshäftet och labbfilerna ovan.</li>
-</ul></li>
-</ul>
-<h3 id="maskinkod-dod">Maskinkod (dod)</h3>
-<ul>
-<li><p><strong>Föreläsningsbilder</strong>:</p>
-<ul>
-<li><a
-href="https://github.com/lunduniversity/introprog-computer-intro/releases/tag/slides_machine-code_latest">PDF
-Maskinkod</a></li>
-</ul></li>
-<li><p><strong>Lab</strong>:</p>
-<ul>
-<li>Se laborationshäftet ovan.</li>
-<li><a
-href="https://github.com/lunduniversity/introprog-cpu-emulator/releases/latest">c3pu</a>
-(CPU-emulator som ni ska använda i labben)</li>
 </ul></li>
 </ul>
 </div>
