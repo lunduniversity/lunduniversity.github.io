@@ -145,7 +145,7 @@ Prog-delen gavs för första gången 2016 för D-programmet. Här presenteras de
 
 ### Veckoöversikt (prog + dod)
 
-Varje vecka består av föreläsningar där du får en teoretisk översikt, resurstider där du jobbar självständigt med övningar och labbförberedelser och får hjälp av handledare, samt laborationer där du gör klart en större uppgift, får hjälp av handledare och redovisar din färdiga uppgift för handledare. I kolumnen "Förel" nedan börjar [programmeringsföreläsningar](#föreläsningar-prog) med med P och föreläsningar i datorer och datoranvändning börjar med D. De kursmoment som har en nolla/etta efter sig går över två veckor.
+Varje vecka består av föreläsningar där du får en teoretisk översikt, resurstider där du jobbar självständigt med övningar och labbförberedelser och får hjälp av handledare, samt laborationer där du gör klart en större uppgift, får hjälp av handledare och redovisar din färdiga uppgift för handledare. I kolumnen *Förel* nedan börjar [programmeringsföreläsningar](#föreläsningar-prog) med **P** och föreläsningar i datorer och datoranvändning börjar med **D**. De kursmoment som har en nolla/etta efter sig går över två veckor.
 
 <script type="text/javascript">
   $(function(){
