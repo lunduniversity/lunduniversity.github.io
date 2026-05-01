@@ -168,6 +168,15 @@ Varje vecka består av föreläsningar där du får en teoretisk översikt, resu
 * Kontakta [studievägledare](https://www.student.lth.se/stoed-och-service/studievaegledning/) för mer information om ansökan om tillgodoräknande.
 
 
+### Information till amanuenskandidater
+
+Inför varje kursomgång söker vi amanuenser i pgk som vill jobba som handledare på resurstider och labbar. 
+
+* Ansökningen öppnar vanligtvis i slutet av april med slutdatum i början av maj. Mer information finns här: [cs.lth.se/utbildning/amanuenser](https://www.cs.lth.se/utbildning/amanuenser) och [på denna Moodle-sida](https://moodle.cs.lth.se/course/view.php?id=1044)
+* Motivation, pedagogsikt intresse, goda studieresultat i pgk och pfk och andra systemutvecklingskurser, och tidigare amanuenserfarenhet är meriterande.
+* Skriv i ansökan om helst jobbar i pgk.
+* Ange också om du har pedagogiskt relevanta meriter i bred mening i ansökan, tex ledarskap i föreningsliv etc. 
+* Lämna in din ansökan i god tid före slutdatum då ansökningssystemet tidigare har haft svårt att hantera anstormning i sista minuten.
 </div>
 
 
