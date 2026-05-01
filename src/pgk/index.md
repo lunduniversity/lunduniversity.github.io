@@ -105,7 +105,7 @@ document.addEventListener("DOMContentLoaded", () => {
 - Lärplattform:
   - [Kursyta för pgk 2025 i Canvas](https://canvas.education.lu.se/courses/35559) (end. åtkomlig för registrerade studenter)
   - [Permanent öppen information i Canvas](https://canvas.education.lu.se/courses/35559)
-- [Student Achievement Management (SAM), studentlogin]()
+- [Student Achievement Management (SAM), studentlogin](https://sam.cs.lth.se/app/student/course-status?course_id=93)
 - [Ladok Login för studenter](https://www.student.ladok.se/student/app/studentwebb/)
 - [Formell kursplan](https://kurser.lth.se/kursplaner/senaste/EDAB05.html)
 - [Översiktligt kursprogram](https://fileadmin.cs.lth.se/pgk/courseplan.pdf)
