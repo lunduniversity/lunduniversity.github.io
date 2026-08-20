@@ -86,29 +86,26 @@ document.addEventListener("DOMContentLoaded", () => {
 ## Länkar
 
 - Schema:
-  - [TimeEdit 2025](https://cloud.timeedit.net/lu/web/lth1/ri19566250000YQQ28Z0507007y9Y4763gQ0g5X6Y65ZQ176.html) veckoschema med LTH:s schemasystem
-  - [Kapten Alloc 2025](https://fileadmin.cs.lth.se/pgk/kaptenalloc/) schematabell med grupp+rum och filterfunktion
+  - [TimeEdit 2026](https://cloud.timeedit.net/lu/web/lth1/ri11566250000YQQ28Z5507007y9Y3763gQ7g5X6Y65ZQ276.html) veckoschema med LTH:s schemasystem
+  - [Kapten Alloc 2026](https://fileadmin.cs.lth.se/pgk/kaptenalloc/) schematabell med grupp+rum och filterfunktion
 - Kursmaterial:
-  - [Kurskompendium Programmering hela kursen](https://fileadmin.cs.lth.se/pgk/compendium.pdf)
-    (ca 730 sidor, anpassad för skärm)
-  - [Kurskompendium Programmering end. lp1](https://fileadmin.cs.lth.se/pgk/compendium1.pdf)
-    (ca 380 sidor, anpassad för papper)
-  - [Kurskompendium Programmering end. lp2](https://fileadmin.cs.lth.se/pgk/compendium2.pdf)
-    (ca 380 sidor, anpassad för papper)
-  - [Öppen källkod för Kompendium Programmering](http://github.com/lunduniversity/introprog)
-  - [Kompendium Datorer och datoranvändning](https://github.com/lunduniversity/introprog-computer-intro/releases/tag/dodlabs_latest)
-- [Snabbreferens](https://fileadmin.cs.lth.se/pgk/quickref.pdf)
+  - [Kurskompendium hela kursen](https://fileadmin.cs.lth.se/pgk/compendium.pdf)
+    (ca 800 sidor, anpassad för skärm)
+  - [Kurskompendium lp1](https://fileadmin.cs.lth.se/pgk/compendium1.pdf)
+    (ca 400 sidor, anpassad för papper)
+  - [Kurskompendium lp2](https://fileadmin.cs.lth.se/pgk/compendium2.pdf)
+    (ca 400 sidor, anpassad för papper)
+  - [Snabbreferens](https://fileadmin.cs.lth.se/pgk/quickref.pdf)
+  - [Öppen källkod för kursmaterialet](http://github.com/lunduniversity/introprog)
 - Kodbibliotek `introprog-scalalib`:
   - [github.com/lunduniversity/introprog-scalalib](http://github.com/lunduniversity/introprog-scalalib)
   - [Api-dokumentation `introprog-scalalib`](https://fileadmin.cs.lth.se/pgk/api)
 - Workspace med given kod till labbar: [fileadmin.cs.lth.se/pgk/workspace.zip](https://fileadmin.cs.lth.se/pgk/workspace.zip)
 - Lärplattform:
-  - [Kursyta för pgk 2025 i Canvas](https://canvas.education.lu.se/courses/35559) (end. åtkomlig för registrerade studenter)
+  - [Kursyta för pgk 2026 i Canvas](https://canvas.education.lu.se/courses/43030) (end. åtkomlig för registrerade studenter)
   - [Permanent öppen information i Canvas](https://canvas.education.lu.se/courses/35559)
 - [Student Achievement Management (SAM), studentlogin](https://sam.cs.lth.se/app/student/course-status?course_id=93)
 - [Ladok Login för studenter](https://www.student.ladok.se/student/app/studentwebb/)
-- [Formell kursplan](https://kurser.lth.se/kursplaner/senaste/EDAB05.html)
-- [Översiktligt kursprogram](https://fileadmin.cs.lth.se/pgk/courseplan.pdf)
 
 </div>
 
@@ -121,13 +118,9 @@ document.addEventListener("DOMContentLoaded", () => {
 * **Poäng**: 10,5 högskolepoäng
 * **Period**: höstterminen läsperiod 1 och 2
 * **LTH-program**: Obligatorisk för civilingenjörsprogrammen [Infocom (C)](https://kurser.lth.se/lot/programme?programme=C) och [Datateknik (D)](https://kurser.lth.se/lot/programme?programme=D)
-* **Kursstart**: Måndagen den 1 september kl 13:15 i [E:A](https://fileadmin.cs.lth.se/cs/Bilder/Salar/EA.pdf)
-* **Schema**: [TimeEdit](https://cloud.timeedit.net/lu/web/lth1/ri19566250000YQQ28Z0507007y9Y4763gQ0g5X6Y65ZQ176.html), [Kapten Alloc](https://fileadmin.cs.lth.se/pgk/kaptenalloc/)
-* **Kursplan**: [EDAB05-sv](https://kurser.lth.se/kursplaner/senaste/EDAB05.html), [EDAB05-en](https://kurser.lth.se/kursplaner/senaste-en/EDAB05.html)
-* **Kompendium**: [fileadmin.cs.lth.se/pgk/compendium.pdf](https://fileadmin.cs.lth.se/pgk/compendium.pdf)
-* **Lärplattform** (kräver inloggning): [Kursyta 2025](https://canvas.education.lu.se/courses/37281) [Permanent info](https://canvas.education.lu.se/courses/35559)
-* **Kursansv.**: [Björn Regnell](../bjornregnell)  
-* **Bitr. kursansv.**: [Mattias Nordahl](https://cs.lth.se/nordahl-mattias/)
+* **Formell kursplan**: [EDAB05-sv](https://kurser.lth.se/kursplaner/senaste/EDAB05.html), [EDAB05-en](https://kurser.lth.se/kursplaner/senaste-en/EDAB05.html)
+* **Kursansvarig**: [Björn Regnell](../bjornregnell)  
+* **Biträdande kursansvarig**: [Mattias Nordahl](https://cs.lth.se/nordahl-mattias/)
 
 Kursen omfattar grundläggande programmeringsprinciper och datavetenskapliga
 begrepp. Du lär dig programmeringsspråket [Scala](https://www.scala-lang.org/),
@@ -229,7 +222,7 @@ Kurskompendiet är [öppen källkod](https://github.com/lunduniversity/introprog
 * [`scala-lang.org/api/current`](https://scala-lang.org/api/current/)  dokumentation av standarbiblioteket i Scala 3.
 * [`docs.scala-lang.org/`](https://docs.scala-lang.org/) den officiella platsen för handledning om Scala 3.
 * [Visual Scala reference](https://superruzafa.github.io/visual-scala-reference/) med illustrationer av många funktioner i Scalas standardbibliotek.
-* [Java SE JDK dokumentation](https://docs.oracle.com/en/java/javase/21/docs/api/) av standarbiblioteket Java JDK.
+* [Java SE JDK dokumentation](https://docs.oracle.com/en/java/javase/25/docs/api/) av standarbiblioteket Java JDK.
 * [`docs.oracle.com/javase/tutorial`](https://docs.oracle.com/javase/tutorial/) den officiella platsen för handledning om Java.
 
 ### Examination (prog)
@@ -242,27 +235,13 @@ I kursen ingår följande **obligatoriska** examinationsmoment:
 
 Tentamen i januari är en *valfri* skrivning som kan ge överbetyg. **Alla uppmuntras att tentera**. För att få tentera krävs att alla obligatoriska moment är godkända. Tentamen skrivs med papper och penna och enda tillåtna hjälpmedel är [snabbreferensen](https://fileadmin.cs.lth.se/pgk/quickref.pdf).
 
-**Tidigare Scala-skrivningar:** 
-
-Från och med läsåret 2021/2022 är tentamen valfri för ev. överbetyg. Tentamina som gavs före läsåret 2021/2022 var obligatoriska och godkänt resultat krävdes för godkänd kurs. Kontrollskrivningen var en obl. övningstenta som gavs sista gången 2024 och omfattade endast kursens första läsperiod.
+**Tidigare skrivningar:** 
 
 - Tentamen 2026-01-07: **Karaoke**   [skrivning i pdf](https://fileadmin.cs.lth.se/pgk/EDAB05-skrivning-2026jan07.pdf) och [lösning i pdf](https://fileadmin.cs.lth.se/pgk/EDAB05-losning-2026jan07.pdf)
 - Tentamen 2025-01-08: **4-i-rad**   [skrivning i pdf](https://fileadmin.cs.lth.se/pgk/EDAA45-skrivning-2025jan08.pdf) och [lösning i pdf](https://fileadmin.cs.lth.se/pgk/EDAA45-losning-2025jan08.pdf)
-- Kontrollskrivning 2024-10-29: **Labbregister**  [skrivning.pdf](https://fileadmin.cs.lth.se/pgk/EDAA45-skrivning-2024okt29.pdf) och [lösning.pdf](https://fileadmin.cs.lth.se/pgk/EDAA45-losning-2024okt29.pdf)
 - Tentamen 2024-01-04: **Finns i sjön**  [skrivning i pdf](https://fileadmin.cs.lth.se/pgk/EDAA45-skrivning-2024jan04.pdf), och [lösning i pdf](https://fileadmin.cs.lth.se/pgk/EDAA45-losning-2024jan04.pdf)
-- Kontrollskrivning 2023-10-25 **ModuloCounter, Gruppindelning**  [skrivning i pdf](https://fileadmin.cs.lth.se/pgk/EDAA45-skrivning-2023okt25.pdf), [bedömningsmall i pdf](https://fileadmin.cs.lth.se/pgk/EDAA45-losning-2023okt25.pdf)
 - Tentamen 2023-01-07: **Bubblor**  [skrivning i pdf](https://fileadmin.cs.lth.se/pgk/EDAA45-skrivning-2023jan07.pdf), [bedömningsmall i pdf](https://fileadmin.cs.lth.se/pgk/EDAA45-losning-2023jan07.pdf)
-- Kontrollskrivning 2022-10-26: **Sänka skepp** [skrivning i pdf](https://fileadmin.cs.lth.se/pgk/EDAA45-skrivning-2022okt26.pdf), [bedömningsmall i pdf](https://fileadmin.cs.lth.se/pgk/EDAA45-losning-2022okt26.pdf)
-- Tentamen 2022-01-08: **Allokering av granskare** [skrivning](https://fileadmin.cs.lth.se/pgk/EDAA45-exam-2022jan08.pdf), [lösning](https://fileadmin.cs.lth.se/pgk/EDAA45-exam-2022jan08-solution.pdf)
 
-
-### Extra bredvidläsning (prog)
-
-Kurskompendiet, som är fritt att ladda ner, definierar kursens innehåll och progression. Om du vill ha kompletterande kursmaterial som extra bredvidläsning rekommenderas nedan böcker. Tips om fler böcker finns [här](https://docs.scala-lang.org/books.html).
-
-* **Introduction to Programming and Problem-Solving Using Scala, [Second Edition](https://www.adlibris.com/se/bok/introduction-to-programming-and-problem-solving-using-scala-9781498730952)**, *Mark C. Lewis, Lisa Lacher* (2016). Lärobok i programmering för nybörjare på universitetsnivå. Denna bok täcker stora delar av kursen, men innehåller även material som ingår i senare LTH-kurser. Ordningen är ganska annorlunda, men det går bra att läsa boken i en annan ordning än den är skriven - du får själv anpassa din läsning av denna bok efter pgk-kursens progression.
-
-* **Programming in Scala, [Fifth edition](https://www.artima.com/shop/programming_in_scala_5ed)**, Martin Odersky, Lex Spoon, and Bill Venners (2021). Lämplig för dig som redan programmerat en hel del i ett objektorienterat språk t.ex. Java eller C#. Författaren Martin Odersky är upphovspersonen bakom Scala. Denna välskrivna bok innehåller en grundlig genomgång av Scala-språket med många exempel och tips. Boken följer inte kursens upplägg men det finns ett bra index som gör det lätt att anpassa din läsning efter kursens progression. Boken innehåller en hel del material som är på en mer avancerad nivå, men du kommer att ha nytta av innehållet inför kommande kurser. Den första utgåvan är tillgänglig öppet via [www.artima.com/pins1ed](http://www.artima.com/pins1ed/), men den beskriver gamla Scala 2 med delvis annorlunda syntax.
 
 </div>
 
@@ -272,97 +251,61 @@ Kurskompendiet, som är fritt att ladda ner, definierar kursens innehåll och pr
 
 I denna del lär du dig några viktiga programmeringsverktyg som används i
 professionell systemutveckling. Dod omfattar 4 föreläsningar och 4 laborationer
-och går under kursens första 4 veckor. När du är godkänd på laborationerna får
-du 3hp som delresultat i Ladok.
-
-#### Laborationsuppgifter och labbfiler
-Alla laborationsuppgifter är samlade i ett laborationshäfte. Ladda ned senaste versionen här: [Laborationsuppgifter](https://github.com/lunduniversity/introprog-computer-intro/releases/tag/dodlabs_latest).
-Det finns också ett [arkiv med labbfiler](https://fileadmin.cs.lth.se/pgk/dod-lab-material.zip). (Se instruktioner i Lab 1 för hur labbfilerna kan laddas ned med `curl`)
+och går under varje läsperiods två första veckor. 
 
 
 ### Operativsystem (dod)
 
-- **Läsning**:
+Föreläsningsbilder och laborationsinstruktioner finns i kurskompendiet, lp1 vecka 1.
 
-  - [Scalakompendium (Appendix B)](https://fileadmin.cs.lth.se/pgk/compendium.pdf)
-  - [Linuxkompendium](https://github.com/lunduniversity/introprog-linux/releases/latest)
-
-- **Föreläsningsbilder**:
-
-  - [PDF Kursintro](https://github.com/lunduniversity/introprog-computer-intro/releases/tag/slides_intro_latest)
-  - [PDF Unix](https://github.com/lunduniversity/introprog-computer-intro/releases/tag/slides_unix_latest)
-  <!-- - [PDF Menti](https://fileadmin.cs.lth.se/cs/Education/EDAA60/lectures/2024/lecture1-menti.pdf) -->
-
-- **Mera intressant**:
+Länkar:
 
   - [Wikipedia Linux](http://en.wikipedia.org/wiki/Linux)
   - [Wikipedia Unix](http://en.wikipedia.org/wiki/Unix)
   - [Bash cheat sheet](https://github.com/RehanSaeed/Bash-Cheat-Sheet)
 
-- **Lab**:
-  - Se laborationshäftet ovan.
 
 ### Maskinkod (dod)
 
-- **Föreläsningsbilder**:
+Föreläsningsbilder och laborationsinstruktioner finns i kurskompendiet, lp1 vecka 2.
 
-  - [PDF Maskinkod](https://github.com/lunduniversity/introprog-computer-intro/releases/tag/slides_machine-code_latest)
+Länkar:
 
-- **Lab**:
-  - Se laborationshäftet ovan.
   - [c3pu](https://github.com/lunduniversity/introprog-cpu-emulator/releases/latest) (CPU-emulator som ni ska använda i labben)
 
 
 ### Typsättning (dod)
 
-- **Läsning**:
+Föreläsningsbilder och laborationsinstruktioner finns i kurskompendiet, lp2 vecka 1.
+
+Länkar:
 
   - [LaTeX-kompendium (av Per Foreby)](http://www.ddg.lth.se/perf/handledning/)
   - [Linuxkompendium](https://github.com/lunduniversity/introprog-linux/releases/latest)
-
-- **Föreläsningsbilder**:
-
-  - [PDF LaTeX](https://github.com/lunduniversity/introprog-computer-intro/releases/tag/slides_latex_latest)
-
-- **Mera intressant**:
-
   - [Overleaf](http://www.overleaf.com/)
   - [Wikipedia LaTeX](http://en.wikipedia.org/wiki/LaTeX)
   - [TeX Users Grup](http://www.tug.org/)
   - LaTeX cheat sheet, t.ex. [här](https://wch.github.io/latexsheet/)
 
-- **Lab**:
-  - Se laborationshäftet och labbfilerna ovan.
-
-
 ### Versionshantering (dod)
 
-- **Läsning**:
+Föreläsningsbilder och laborationsinstruktioner finns i kurskompendiet, lp2 vecka 2.
 
-  - [Scalakompendium (Appendix G)](https://fileadmin.cs.lth.se/pgk/compendium.pdf)
+Länkar:
+
+  - [Kurskompendium (Appendix G)](https://fileadmin.cs.lth.se/pgk/compendium.pdf)
   - [Git and GitHub for Poets (YouTube)](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
   - [Pro Git (Chacon/Staub)](https://git-scm.com/book/en/v2)
-
-- **Föreläsningsbilder**:
-
-  - [PDF Git](https://github.com/lunduniversity/introprog-computer-intro/releases/tag/slides_git_latest)
-
-- **Mera intressant**:
-
   - [Git (officiell webbsida)](https://git-scm.com/)
   - [GitHub](https://www.github.com/)
   - Git cheat sheets
     - [GitHub](https://education.github.com/git-cheat-sheet-education.pdf)
     - [GitLab](https://about.gitlab.com/images/press/git-cheat-sheet.pdf)
     - [BitBucket](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
-  - [EDAA45 Lab 0](https://coursegit.cs.lth.se/edaf45/labs/lab0-git-basics)
+  - [EDAF45 Lab 0](https://coursegit.cs.lth.se/edaf45/labs/lab0-git-basics)
     (_Kursen Programvaruutveckling i grupp (`pvg`) kommer ni läsa nästa år. Om
     ni redan nu vill lära er mer om Git kan ni kika på dess `Lab 0`, som går igenom
     Git mer grundligt._)
-
-- **Lab**:
-  - Se laborationshäftet ovan.
-
 
 
 </div>
