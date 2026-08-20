@@ -8,7 +8,7 @@
 
 **Current teaching**: [Introduction to Programming in Scala EDAB05](https://lunduniversity.github.io/pgk), [Software Requirements Engineering ETSN15](https://lunduniversity.github.io/krav), [Scientific Theory for Engineers EDAG10](https://kurser.lth.se/lot/course-syllabus/25_26/EDAG10).
 
-**Member of**: [REFSQ Program Committee](https://refsq.org/), [REJ Editorial Board](https://link.springer.com/journal/766), and the [Scala Improvement Process (SIP) Committee](https://www.scala-lang.org/blog/2022/07/13/scala-improvement-process-reloaded.html)
+**Member of**: [REFSQ Program Committee](https://refsq.org/) and the [Scala Improvement Process (SIP) Committee](https://www.scala-lang.org/blog/2022/07/13/scala-improvement-process-reloaded.html)
 
 ## Contact information
 
