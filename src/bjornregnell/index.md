@@ -16,7 +16,7 @@
 * Phone: +46 46 222 90 09
 * Postal address: Box 118, SE-221 00 Lund
 * Visiting address: E-huset, Klas Anshelms väg 10
-* [Map to find my office E:2413 in the E-building at LTH](https://fileadmin.cs.lth.se/cs/Bilder/rum/E2413.gif)
+* [Map to find my office E:2411 in the E-building at LTH](https://fileadmin.cs.lth.se/cs/Bilder/rum/E2411.gif)
 * Open source software: [github.com/bjornregnell](https://github.com/bjornregnell)
 * Professional home page: [cs.lth.se/bjornregnell](https://cs.lth.se/bjornregnell)
 * Personal home page: [bjornregnell.se](http://bjornregnell.se)
