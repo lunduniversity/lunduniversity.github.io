@@ -120,7 +120,7 @@ document.addEventListener("DOMContentLoaded", () => {
 * **LTH-program**: Obligatorisk för civilingenjörsprogrammen [Infocom (C)](https://kurser.lth.se/lot/programme?programme=C) och [Datateknik (D)](https://kurser.lth.se/lot/programme?programme=D)
 * **Formell kursplan**: [EDAB05-sv](https://kurser.lth.se/kursplaner/senaste/EDAB05.html), [EDAB05-en](https://kurser.lth.se/kursplaner/senaste-en/EDAB05.html)
 * **Kursansvarig**: [Björn Regnell](../bjornregnell)  
-* **Biträdande kursansvarig**: [Mattias Nordahl](https://cs.lth.se/nordahl-mattias/)
+* **Biträdande kursansvarig**: [Mattias Nordahl](https://portal.research.lu.se/sv/persons/mattias-nordahl/)
 
 Kursen omfattar grundläggande programmeringsprinciper och datavetenskapliga
 begrepp. Du lär dig programmeringsspråket [Scala](https://www.scala-lang.org/),
