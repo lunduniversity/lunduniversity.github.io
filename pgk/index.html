@@ -1,15 +1,21 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
   <meta charset="utf-8" />
-  <meta name="generator" content="pandoc" />
+  <meta name="generator" content="pandoc 3.10.2" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
   <title>EDAB05 Programmering, grundkurs</title>
   <style>
-    code{white-space: pre-wrap;}
+    /* Default styles provided by pandoc.
+    ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+    */
     span.smallcaps{font-variant: small-caps;}
-    div.columns{display: flex; gap: min(4vw, 1.5em);}
-    div.column{flex: auto; overflow-x: auto;}
+    div.columns{display: flex; gap: 1.5em;}
+    div.column{flex: auto;}
+    @media screen {
+    div.columns{gap: min(4vw, 1.5em);}
+    div.column{overflow-x: auto;}
+    }
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     /* The extra [class] is a hack that increases specificity enough to
        override a similar rule in reveal.js */
@@ -37,8 +43,8 @@
 </header>
 <nav id="TOC" role="doc-toc">
 <ul>
-<li><a href="#länkar" id="toc-länkar">Länkar</a></li>
-<li><a href="#om-kursen" id="toc-om-kursen">Om kursen</a>
+<li><a href="#sec_links" id="toc-sec_links">Länkar</a></li>
+<li><a href="#sec_about" id="toc-sec_about">Om kursen</a>
 <ul>
 <li><a href="#kursfakta" id="toc-kursfakta">Kursfakta</a></li>
 <li><a href="#veckoöversikt-prog-dod"
@@ -53,8 +59,7 @@ programbytare</a></li>
 id="toc-information-till-amanuenskandidater">Information till
 amanuenskandidater</a></li>
 </ul></li>
-<li><a href="#programmering-prog"
-id="toc-programmering-prog">Programmering (prog)</a>
+<li><a href="#sec_prog" id="toc-sec_prog">Programmering (prog)</a>
 <ul>
 <li><a href="#föreläsningar-prog"
 id="toc-föreläsningar-prog">Föreläsningar (prog)</a></li>
@@ -65,8 +70,7 @@ id="toc-dokumentation-prog">Dokumentation (prog):</a></li>
 <li><a href="#examination-prog" id="toc-examination-prog">Examination
 (prog)</a></li>
 </ul></li>
-<li><a href="#datorer-och-datoranvändning-dod"
-id="toc-datorer-och-datoranvändning-dod">Datorer och datoranvändning
+<li><a href="#sec_dod" id="toc-sec_dod">Datorer och datoranvändning
 (dod)</a>
 <ul>
 <li><a href="#operativsystem-dod"
@@ -78,7 +82,7 @@ id="toc-operativsystem-dod">Operativsystem (dod)</a></li>
 <li><a href="#versionshantering-dod"
 id="toc-versionshantering-dod">Versionshantering (dod)</a></li>
 </ul></li>
-<li><a href="#verktyg" id="toc-verktyg">Verktyg</a>
+<li><a href="#sec_tools" id="toc-sec_tools">Verktyg</a>
 <ul>
 <li><a href="#verktyg-på-lths-studentdatorer"
 id="toc-verktyg-på-lths-studentdatorer">Verktyg på LTH:s
@@ -88,9 +92,9 @@ id="toc-installera-verktyg-på-din-egen-dator">Installera verktyg på din
 egen dator</a></li>
 <li><a href="#koda-online" id="toc-koda-online">Koda online</a></li>
 </ul></li>
-<li><a href="#ordlista" id="toc-ordlista">Ordlista</a></li>
-<li><a href="#bidra-till-kursen" id="toc-bidra-till-kursen">Bidra till
-kursen</a></li>
+<li><a href="#sec_dictionary" id="toc-sec_dictionary">Ordlista</a></li>
+<li><a href="#sec_contribute" id="toc-sec_contribute">Bidra till
+kursmaterialet</a></li>
 </ul>
 </nav>
 <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
@@ -177,16 +181,18 @@ document.addEventListener("DOMContentLoaded", () => {
 <div id="section-indicator" aria-hidden="true">
 📌 Sektionstitel
 </div>
-<div id="sec_links">
+<section id="sec_links">
 <h2 id="länkar">Länkar</h2>
 <ul>
 <li>Schema:
 <ul>
 <li><a
 href="https://cloud.timeedit.net/lu/web/lth1/ri11566250000YQQ28Z5507007y9Y3763gQ7g5X6Y65ZQ276.html">TimeEdit
-2026</a> veckoschema med LTH:s schemasystem</li>
+2026</a> veckoschema för pgk (schemat är en delmängd av hela schemat för
+D1 resp. C1)</li>
 <li><a href="https://fileadmin.cs.lth.se/pgk/kaptenalloc/">Kapten Alloc
-2026</a> schematabell med grupp+rum och filterfunktion</li>
+2026</a> schematabell och filterfunktion med grupp+rum för resurstider
+och labbar</li>
 </ul></li>
 <li>Kursmaterial:
 <ul>
@@ -202,7 +208,7 @@ lp2</a> (ca 400 sidor, anpassad för papper)</li>
 <li><a
 href="https://fileadmin.cs.lth.se/pgk/quickref.pdf">Snabbreferens</a></li>
 <li><a href="http://github.com/lunduniversity/introprog">Öppen källkod
-för kursmaterialet</a></li>
+(Scala+Latex) som bygger kursmaterialet</a></li>
 </ul></li>
 <li>Kodbibliotek <code>introprog-scalalib</code>:
 <ul>
@@ -227,8 +233,8 @@ Achievement Management (SAM), studentlogin</a></li>
 href="https://www.student.ladok.se/student/app/studentwebb/">Ladok Login
 för studenter</a></li>
 </ul>
-</div>
-<div id="sec_about">
+</section>
+<section id="sec_about">
 <h2 id="om-kursen">Om kursen</h2>
 <h3 id="kursfakta">Kursfakta</h3>
 <ul>
@@ -339,8 +345,8 @@ ansökan, tex ledarskap i föreningsliv etc.</li>
 <li>Lämna in din ansökan i god tid före slutdatum då ansökningssystemet
 tidigare har haft svårt att hantera anstormning i sista minuten.</li>
 </ul>
-</div>
-<div id="sec_prog">
+</section>
+<section id="sec_prog">
 <h2 id="programmering-prog">Programmering (prog)</h2>
 <p>I denna del lär du dig grundläggande programmeringsprinciper och
 datavetenskapliga begrepp. Du lär dig programmeringsspråket Scala, att
@@ -474,8 +480,8 @@ i pdf</a>, <a
 href="https://fileadmin.cs.lth.se/pgk/EDAA45-losning-2023jan07.pdf">bedömningsmall
 i pdf</a></li>
 </ul>
-</div>
-<div id="sec_dod">
+</section>
+<section id="sec_dod">
 <h2 id="datorer-och-datoranvändning-dod">Datorer och datoranvändning
 (dod)</h2>
 <p>I denna del lär du dig några viktiga programmeringsverktyg som
@@ -548,8 +554,8 @@ kommer ni läsa nästa år. Om ni redan nu vill lära er mer om Git kan ni
 kika på dess <code>Lab 0</code>, som går igenom Git mer
 grundligt.</em>)</li>
 </ul>
-</div>
-<div id="sec_tools">
+</section>
+<section id="sec_tools">
 <h2 id="verktyg">Verktyg</h2>
 <h3 id="verktyg-på-lths-studentdatorer">Verktyg på LTH:s
 studentdatorer</h3>
@@ -611,8 +617,8 @@ här:</p>
 <li><a href="http://kojo.lu.se/">kojo.lu.se</a></li>
 </ul></li>
 </ul>
-</div>
-<div id="sec_dictionary">
+</section>
+<section id="sec_dictionary">
 <h2 id="ordlista">Ordlista</h2>
 <ul>
 <li>I tabellen nedan finns de programmeringsbegrepp som används i
@@ -631,9 +637,9 @@ href="https://fileadmin.cs.lth.se/pgk/muntabot/#muntabot">muntabot</a></li>
 <div id="concepts-generated">
 
 </div>
-</div>
-<div id="sec_contribute">
-<h2 id="bidra-till-kursen">Bidra till kursen</h2>
+</section>
+<section id="sec_contribute">
+<h2 id="bidra-till-kursmaterialet">Bidra till kursmaterialet</h2>
 <p>Om du vill bidra till kursen genom att rapportera fel eller föreslå
 förbättringar kan du göra det genom att skapa ärende (issue) och bidrag
 (pull request), här:</p>
@@ -656,7 +662,7 @@ underkatalog, inklusive denna. Dessa skript förutsätter att du har <a
 href="https://pandoc.org/installing.html">pandoc installerat</a>.</li>
 </ul></li>
 </ul>
-</div>
+</section>
 <p><a href="#top" class="scroll-top svg-lu-gold" aria-label="Gå till toppen">
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
 <path d="M12 4l-8 8h5v8h6v-8h5z" /> </svg> </a></p>

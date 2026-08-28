@@ -86,8 +86,8 @@ document.addEventListener("DOMContentLoaded", () => {
 ## Länkar
 
 - Schema:
-  - [TimeEdit 2026](https://cloud.timeedit.net/lu/web/lth1/ri11566250000YQQ28Z5507007y9Y3763gQ7g5X6Y65ZQ276.html) veckoschema med LTH:s schemasystem
-  - [Kapten Alloc 2026](https://fileadmin.cs.lth.se/pgk/kaptenalloc/) schematabell med grupp+rum och filterfunktion
+  - [TimeEdit 2026](https://cloud.timeedit.net/lu/web/lth1/ri11566250000YQQ28Z5507007y9Y3763gQ7g5X6Y65ZQ276.html) veckoschema för pgk (schemat är en delmängd av hela schemat för D1 resp. C1)
+  - [Kapten Alloc 2026](https://fileadmin.cs.lth.se/pgk/kaptenalloc/) schematabell och filterfunktion med grupp+rum för resurstider och labbar
 - Kursmaterial:
   - [Kurskompendium hela kursen](https://fileadmin.cs.lth.se/pgk/compendium.pdf)
     (ca 800 sidor, anpassad för skärm)
@@ -96,7 +96,7 @@ document.addEventListener("DOMContentLoaded", () => {
   - [Kurskompendium lp2](https://fileadmin.cs.lth.se/pgk/compendium2.pdf)
     (ca 400 sidor, anpassad för papper)
   - [Snabbreferens](https://fileadmin.cs.lth.se/pgk/quickref.pdf)
-  - [Öppen källkod för kursmaterialet](http://github.com/lunduniversity/introprog)
+  - [Öppen källkod (Scala+Latex) som bygger kursmaterialet](http://github.com/lunduniversity/introprog)
 - Kodbibliotek `introprog-scalalib`:
   - [github.com/lunduniversity/introprog-scalalib](http://github.com/lunduniversity/introprog-scalalib)
   - [Api-dokumentation `introprog-scalalib`](https://fileadmin.cs.lth.se/pgk/api)
@@ -371,7 +371,7 @@ Här finns också tips när du ska
 </div>
 
 <div id="sec_contribute">
-## Bidra till kursen
+## Bidra till kursmaterialet
 
 Om du vill bidra till kursen genom att rapportera fel eller föreslå
 förbättringar kan du göra det genom att skapa ärende (issue) och bidrag (pull request), här:
