@@ -86,7 +86,7 @@ document.addEventListener("DOMContentLoaded", () => {
 ## Länkar
 
 - Schema:
-  - [TimeEdit 2026](https://cloud.timeedit.net/lu/web/lth1/ri11566250000YQQ28Z5507007y9Y3763gQ7g5X6Y65ZQ276.html) veckoschema för pgk (schemat är en delmängd av hela schemat för D1 resp. C1)
+  - [TimeEdit 2026](https://cloud.timeedit.net/lu/web/lth1/ri11566250000YQQ28Z5507007y9Y3763gQ7g5X6Y65ZQ276.html) veckoschema för pgk (schemat är en delmängd av hela schemat för [D1](https://cloud.timeedit.net/lu/web/lth1/ri11566950000YQQ25Z5577007y4Y3894gQ7g5X6Y65ZQ256.html) resp. [C1](https://cloud.timeedit.net/lu/web/lth1/ri11566850000YQQ25Z5577007y4Y3994gQ7g5X6Y65ZQ256.html))
   - [Kapten Alloc 2026](https://fileadmin.cs.lth.se/pgk/kaptenalloc/) schematabell och filterfunktion med grupp+rum för resurstider och labbar
 - Kursmaterial:
   - [Kurskompendium hela kursen](https://fileadmin.cs.lth.se/pgk/compendium.pdf)
