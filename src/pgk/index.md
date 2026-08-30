@@ -256,7 +256,7 @@ och går under varje läsperiods två första veckor.
 
 ### Operativsystem (dod)
 
-Föreläsningsbilder och laborationsinstruktioner finns i kurskompendiet, lp1 vecka 1.
+[Föreläsningsbilder w01-dod](https://fileadmin.cs.lth.se/pgk/lect-w01-dod.pdf) och laborationsinstruktioner finns i [kurskompendiet](https://fileadmin.cs.lth.se/pgk/compendium.pdf), lp1 vecka 1.
 
 Länkar:
 
@@ -267,7 +267,7 @@ Länkar:
 
 ### Maskinkod (dod)
 
-Föreläsningsbilder och laborationsinstruktioner finns i kurskompendiet, lp1 vecka 2.
+[Föreläsningsbilder w02-dod](https://fileadmin.cs.lth.se/pgk/lect-w02-dod.pdf) och laborationsinstruktioner finns i [kurskompendiet](https://fileadmin.cs.lth.se/pgk/compendium.pdf), lp1 vecka 2.
 
 Länkar:
 
@@ -276,7 +276,7 @@ Länkar:
 
 ### Typsättning (dod)
 
-Föreläsningsbilder och laborationsinstruktioner finns i kurskompendiet, lp2 vecka 1.
+[Föreläsningsbilder w08-dod](https://fileadmin.cs.lth.se/pgk/lect-w08-dod.pdf) och laborationsinstruktioner finns i [kurskompendiet](https://fileadmin.cs.lth.se/pgk/compendium.pdf), första veckan i lp2.
 
 Länkar:
 
@@ -289,7 +289,7 @@ Länkar:
 
 ### Versionshantering (dod)
 
-Föreläsningsbilder och laborationsinstruktioner finns i kurskompendiet, lp2 vecka 2.
+[Föreläsningsbilder w09-dod](https://fileadmin.cs.lth.se/pgk/lect-w09-dod.pdf) och laborationsinstruktioner finns i [kurskompendiet](https://fileadmin.cs.lth.se/pgk/compendium.pdf), andra veckan i lp2.
 
 Länkar:
 
