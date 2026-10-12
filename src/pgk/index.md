@@ -148,6 +148,12 @@ Varje vecka består av föreläsningar där du får en teoretisk översikt, resu
 </script>
 <div id="week-plan-generated"></div>
 
+#### Schemaändring
+
+Schemat har ändrats i läsvecka w07, se [uppdaterat schema i TimeEdit 2026](https://cloud.timeedit.net/lu/web/lth1/ri11566250000YQQ28Z5507007y9Y3763gQ7g5X6Y65ZQ276.html):
+  * Latex-föreläsning flyttar från w08 till w07
+  * Extra labbtillfälle för redovisning av latex-labb i w07
+
 
 ### Information till äldre studenter
 
@@ -276,6 +282,8 @@ Länkar:
 
 ### Typsättning (dod)
 
+OBS! Denna föreläsning är flyttad till w07.
+
 [Föreläsningsbilder w08-dod](https://fileadmin.cs.lth.se/pgk/lect-w08-dod.pdf) och laborationsinstruktioner finns i [kurskompendiet](https://fileadmin.cs.lth.se/pgk/compendium.pdf), första veckan i lp2.
 
 Länkar:
@@ -288,6 +296,8 @@ Länkar:
   - LaTeX cheat sheet, t.ex. [här](https://wch.github.io/latexsheet/)
 
 ### Versionshantering (dod)
+
+OBS! Git-labben är frivillig.
 
 [Föreläsningsbilder w09-dod](https://fileadmin.cs.lth.se/pgk/lect-w09-dod.pdf) och laborationsinstruktioner finns i [kurskompendiet](https://fileadmin.cs.lth.se/pgk/compendium.pdf), andra veckan i lp2.
 
