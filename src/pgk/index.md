@@ -154,7 +154,7 @@ Schemat har ändrats, se [senaste schema i TimeEdit 2026](https://cloud.timeedit
 
 * Latex-föreläsning flyttar från w08 till w07
 * Extra labbtillfälle för redovisning av latex-labb i w07
-* Kursens sista föreläsning är den 27/11. Inga föreläsningar i december.
+* Kursens sista föreläsning är den 24/11.
 
 
 ### Information till äldre studenter
