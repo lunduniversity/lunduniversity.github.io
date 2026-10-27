@@ -150,10 +150,11 @@ Varje vecka består av föreläsningar där du får en teoretisk översikt, resu
 
 #### Schemaändring
 
-Schemat har ändrats i läsvecka w07, se [uppdaterat schema i TimeEdit 2026](https://cloud.timeedit.net/lu/web/lth1/ri11566250000YQQ28Z5507007y9Y3763gQ7g5X6Y65ZQ276.html):
+Schemat har ändrats, se [senaste schema i TimeEdit 2026](https://cloud.timeedit.net/lu/web/lth1/ri11566250000YQQ28Z5507007y9Y3763gQ7g5X6Y65ZQ276.html):
 
 * Latex-föreläsning flyttar från w08 till w07
 * Extra labbtillfälle för redovisning av latex-labb i w07
+* Kursens sista föreläsning är den 27/11. Inga föreläsningar i december.
 
 
 ### Information till äldre studenter
